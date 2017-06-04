@@ -1,0 +1,1096 @@
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+رخ	Ne	V$رخید+IMP 2SG#*N$رخ+SG#*
+نیکوان	N		
+بلاعقل	N		
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+دل	Ne	N$دل+SG#*
+سلیم	AJ	AJ$سلیم+POS#سلی+POS COP1SG#N$سل+SG COP1PL#SG YEH COP1SG#سلیم+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+هم	CONJ	N$هم+SG#*
+تو	PRO	N$تو+SG#*
+کنی	V	V$اندرکرد+IND PRES 2SG#برکند+IND PRES 2SG#برکرد+IND PRES 2SG#الفغد+CONJ NEG IND PRES 2SG#درکند+IND PRES 2SG#کرد+IND PRES 2SG#درکرد+IND PRES 2SG#آجست+CONJ NEG IND PRES 2SG#کند+IND PRES 2SG#بدن+CONJ NEG IND PRES 2SG#روفت+CONJ NEG IND PRES 2SG#*N$کن+SG YEH#SG COP2SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+دل	Ne	N$دل+SG#*
+خلقی	AJe	AJ$خلقی+POS#خلق+POS COP2SG#POS YEH#N$خلق+SG YEH#SG COP2SG#*
+عزیز	AJ	AJ$عزیز+POS#N$عزیز+SG#*
+#
+پر	N	V$آجست+PREF IMP 2SG#روفت+PREF IMP 2SG#پرید+IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*AJ$پر+POS#N$پر+SG#*
+شکند	V	V$برشکست+IND PRES 3SG#شکست+IND PRES 3SG#*N$شکند+SG#شک+SG COP3PL#*
+فاخته	N	N$فاخته+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+شاخ	Ne	N$شاخ+SG#*
+خشک	AJ	V$خشکید+IMP 2SG#*AJ$خشک+POS#*
+#
+نشاط	Ne	N$نشاط+SG#*
+عشق	N	N$عشق+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+آغاز	Ne	V$آغازید+IMP 2SG#*N$آغاز+SG#*
+جوانی	N	AJ$جوان+POS COP2SG#POS YEH#N$جوانی+SG#جوان+SG YEH#SG COP2SG#جو+PL YEH#PL COP2SG#*
+#
+پر	Ne	V$آجست+PREF IMP 2SG#روفت+PREF IMP 2SG#پرید+IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*AJ$پر+POS#N$پر+SG#*
+نعمت	N	N$نعم+SG PRO2SG#نعمت+SG#PL PRO2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+نزل	Ne	N$نزل+SG#*
+خسروانه	N	AJ$خسروانه+POS#*
+#
+وی	PRO	V$روفت+CONJ IND PRES 2SG#آجست+CONJ IND PRES 2SG#بدن+CONJ IND PRES 2SG#الفغد+CONJ IND PRES 2SG#*AJ$+CONJ POS EZ#CONJ POS COP2SG#N$+CONJ SG COP2SG#CONJ SG EZ#وی+SG#ناشنوائیان+CONJ PL EZ#CONJ PL COP2SG#*
+کرده	V	V$کرد+PP#اندرکرد+PP#برکرد+PP#درکرد+PP#*N$کرده+SG#*
+دست	Ne	N$دست+SG#*
+عشق	Ne	N$عشق+SG#*
+تو	PRO	N$تو+SG#*
+زیر	AJ	AJ$زیر+POS#N$زیر+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+زبر	Ne	AJ$زبر+POS#بر+PREP POS#N$زبر+SG#بر+PREP SG#*
+مرا	PRO	AJ$+POS PRO1SG POSTP#N$+SG PRO1SG POSTP#ناشنوائیان+PL PRO1SG POSTP#*
+#
+به	P	AJ$به+POS#N$به+SG#*
+عدل	Ne	AJ$عدل+POS#N$عدل+SG#*
+قاعده‌ی	Ne	AJ$قاعده+POS EZ#POS COP2SG#N$قاعده+SG EZ#SG COP2SG#*
+ملک	Ne	N$ملک+SG#*
+آدم	N	V$اندرآمد+IND PRES 3SG PRO1SG#آمد+IND PRES 3SG PRO1SG#درآمد+IND PRES 3SG PRO1SG#برآمد+IND PRES 3SG PRO1SG#بازآمد+IND PRES 3SG PRO1SG#*N$آدم+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+حوا	N	N$حوا+SG#*
+#
+وین	N	N$وین+SG#ین+CONJ SG#*
+حکم	Ne	N$حکم+SG#حک+SG PRO1SG#SG COP1SG#حکمت+PL#*
+نه	ADV	V$بازنهاد+IMP 2SG#اندرنهاد+IMP 2SG#نهاد+IMP 2SG#برنهاد+IMP 2SG#*
+حکمیست	N	AJ$حکمی+POS COP3SG#N$حکم+SG YEH COP3SG#حک+SG PRO1SG YEH COP3SG#حکمت+PL YEH COP3SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+محتاج	AJe	AJ$محتاج+POS#*
+ثقاتست	V	N$ثقات+SG COP3SG#ثقه+PL COP3SG#*
+#
+کسی	N	N$کس+SG YEH#SG COP2SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+روی	Pe	V$دررفت+IND PRES 2SG#رفت+IND PRES 2SG#رست+IND PRES 2SG#IMP 2SG#رویید+IND PRES 2SG#IMP 2SG#بررفت+IND PRES 2SG#بررست+IND PRES 2SG#IMP 2SG#*N$رو+SG EZ#SG COP2SG#روی+SG#*
+تو	PRO	N$تو+SG#*
+بیند	V	V$دید+IND PRES 3SG#بردید+IND PRES 3SG#*AJ$+PREP POS YEH COP3PL#N$+PREP SG YEH COP3PL#ناشنوائیان+PREP PL YEH COP3PL#*
+به	P	AJ$به+POS#N$به+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+خزینه‌ی	N	N$خزینه+SG EZ#SG COP2SG#*
+دارا	AJ	N$دارا+SG#*
+#
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+آنکه	CONJ	N$آن+SG CONJ#*
+جاه	N		
+ندارد	V	V$داشت+NEG IND PRES 3SG#بازداشت+NEG IND PRES 3SG#برداشت+NEG IND PRES 3SG#*
+برآنکه	CONJ	N$آن+PREP SG CONJ#*
+جاهش	N		
+هست	V	V$بود+IMP 2SG#*N$هست+SG#*
+#
+هر	DET	N$هر+SG#*
+کجا	N		
+بسته	V	V$بست+PP#دربست+PP#بربست+PP#*AJ$سته+PREP POS#N$بسته+SG#سته+PREP SG#*
+طاق	Ne	AJ$طاق+POS#N$طاق+SG#*
+ابروییست	V	AJ$ابرویی+POS COP3SG#N$ابرویی+SG COP3SG#ابرو+SG YEH COP3SG#*
+#
+جان	N	N$جن+PL#جان+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+تن	N	V$تنود+IMP 2SG#برتنید+IMP 2SG#تنید+IMP 2SG#تندند+IMP 2SG#*N$تن+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+تو	P	N$تو+SG#*
+دل	Ne	N$دل+SG#*
+نوازنده	N	AJ$نوازنده+POS#N$نوازنده+SG#*
+#
+مگر	ADV		
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+بخت	Ne	V$اخت+BE IND PAST 3SG#*
+من	PRO	N$من+SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+خوابست	N	N$خواب+SG COP3SG#*
+#
+هرگز	ADV		
+نخواند	V	V$بازخواند+NEG IND PRES 3SG#NEG IND PAST 3SG#خواند+NEG IND PRES 3SG#NEG IND PAST 3SG#*
+اهل	Ne	AJ$اهل+POS#N$اهل+SG#*
+خرد	N	V$خرید+IND PRES 3SG#*AJ$خرد+POS#N$خرد+SG#*
+رادت	N	AJ$راد+POS PRO2SG#N$راد+SG PRO2SG#*
+#
+ترا	PRO	AJ$+POS PRO2SG POSTP#N$+SG PRO2SG POSTP#ترا+SG#ت+SG POSTP#ناشنوائیان+PL PRO2SG POSTP#*
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+همان	DET	N$هم+PL#*
+گله	N	N$گله+SG#*
+چوپان	N	N$چوپان+SG#*
+کنند	V	V$اندرکرد+IND PRES 3PL#برکند+IND PRES 3PL#برکرد+IND PRES 3PL#الفغد+CONJ NEG IND PRES 3PL#درکند+IND PRES 3PL#کرد+IND PRES 3PL#درکرد+IND PRES 3PL#آجست+CONJ NEG IND PRES 3PL#کند+IND PRES 3PL#بدن+CONJ NEG IND PRES 3PL#روفت+CONJ NEG IND PRES 3PL#*N$کن+SG COP3PL#کنند+SG#*
+#
+کم	ADV	V$روفت+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#آجست+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#بدن+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#الفغد+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#*AJ$کم+POS#N$ک+SG PRO1SG#SG COP1SG#کم+SG#*
+نور	N	N$نور+SG#*
+گشت	V	V$بازگشت+IND PAST 3SG#گشت+IND PAST 3SG#برگشت+IND PAST 3SG#*AJ$گش+POS PRO2SG#N$گشت+SG#گش+SG PRO2SG#*
+دیده‌ام	V	V$دید+IND 1SG PERF#PP PRO1SG#بردید+IND 1SG PERF#PP PRO1SG#*N$دیده+SG PRO1SG#SG COP1SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+قامتم	N	N$قامت+SG PRO1SG#SG COP1SG#*
+خمید	V	V$خمید+IND PRES 2PL#IMP 2PL#IND PAST 3SG#*AJ$خم+POS COP2PL#N$خم+SG COP2PL#*
+#
+ایستاده	V	V$ایستاد+PP#بازایستاد+PP#*AJ$ایستاده+POS#*
+به	P	AJ$به+POS#N$به+SG#*
+پا	N	V$پایید+IMP 2SG#پایست+IMP 2SG#*N$پا+SG#*
+نه	ADV	V$بازنهاد+IMP 2SG#اندرنهاد+IMP 2SG#نهاد+IMP 2SG#برنهاد+IMP 2SG#*
+نیست	V	V$ایستاد+NEG IMP 2SG#ایستید+NEG IMP 2SG#بازایستاد+NEG IMP 2SG#استید+NEG IMP 2SG#بود+NEG IMP 2SG#*N$نیست+SG#نی+SG COP3SG#*
+نه	ADV	V$بازنهاد+IMP 2SG#اندرنهاد+IMP 2SG#نهاد+IMP 2SG#برنهاد+IMP 2SG#*
+هست	V	V$بود+IMP 2SG#*N$هست+SG#*
+#
+وز	P	V$اخت+CONJ IMP 2SG#وزید+IMP 2SG#*AJ$+CONJ PREP POS#N$+CONJ PREP SG#ناشنوائیان+CONJ PREP PL#*
+برای	Pe	V$برید+SUB PRES 2SG#بربرد+SUB PRES 2SG#برد+SUB PRES 2SG#دربرد+SUB PRES 2SG#برآمد+PREF IMP 2SG#PREF IND PRES 2SG#*AJ$برا+POS EZ#POS COP2SG#N$را+PREP SG EZ#PREP SG COP2SG#رای+PREP SG#*
+توست	V	N$تو+SG COP3SG#PL#توست+SG#توس+SG PRO2SG#*
+تختم	N	AJ$تخت+POS COP1SG#POS PRO1SG#N$تخت+SG PRO1SG#SG COP1SG#*
+زیر	Pe	AJ$زیر+POS#N$زیر+SG#*
+پای	Ne	V$پایید+IND PRES 2SG#IMP 2SG#پایست+IND PRES 2SG#IMP 2SG#*N$پا+SG EZ#SG COP2SG#*
+#
+گر	CONJ	AJ$گر+POS#N$گر+SG#*
+شودم	V	V$شد+IND PRES 3SG PRO1SG#برشد+IND PRES 3SG PRO1SG#اندرشد+IND PRES 3SG PRO1SG#شست+IND PRES 3SG PRO1SG#*N$شود+SG PRO1SG#SG COP1SG#*
+تن	N	V$تنود+IMP 2SG#برتنید+IMP 2SG#تنید+IMP 2SG#تندند+IMP 2SG#*N$تن+SG#*
+چو	CONJ	V$چفت+IMP 2SG#*
+قفص	Ne	N$قفص+SG#*
+چاک	N	N$چاک+SG#*
+چاک	N	N$چاک+SG#*
+#
+آتش	Ne	N$آتش+SG#*
+شوق	N	N$شوق+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+جان‌شان	N	N$جن+PL PRO3PL#جان+SG PRO3PL#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+زد	V	V$باززد+IND PAST 3SG#برزد+IND PAST 3SG#زد+IND PAST 3SG#*
+#
+کند	V	V$اندرکرد+IND PRES 3SG#برکند+IND PAST 3SG#IND PRES 3SG#برکرد+IND PRES 3SG#الفغد+CONJ NEG IND PRES 3SG#CONJ IND PRES 3PL#درکند+IND PAST 3SG#IND PRES 3SG#کرد+IND PRES 3SG#درکرد+IND PRES 3SG#آجست+CONJ NEG IND PRES 3SG#CONJ IND PRES 3PL#کند+IND PAST 3SG#IND PRES 3SG#بدن+CONJ NEG IND PRES 3SG#CONJ IND PRES 3PL#روفت+CONJ NEG IND PRES 3SG#CONJ IND PRES 3PL#*AJ$کند+POS#N$ک+SG COP3PL#کند+SG#*
+خار	N	V$خارید+IMP 2SG#*AJ$خار+POS#N$خار+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+سمن	N	N$سمن+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+آبیاری	N	N$آبیار+SG YEH#SG COP2SG#آبیاری+SG#*
+#
+هزاران	NUM		
+لعبت	Ne	AJ$لعبت+POS#N$لعبت+SG#PL PRO2SG#لعب+SG PRO2SG#*
+رومی	AJ	V$دررفت+SUB IRR 1SG#رفت+SUB IRR 1SG#رست+SUB IRR 1SG#رویید+SUB IRR 1SG#بررفت+SUB IRR 1SG#بررست+SUB IRR 1SG#*AJ$رومی+POS#N$روم+SG YEH#SG COP2SG#رومی+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+روسی	AJ	AJ$روسی+POS#N$روس+SG YEH#SG COP2SG#روسی+SG#*
+#
+کم	AJ	V$روفت+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#آجست+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#بدن+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#الفغد+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#*AJ$کم+POS#N$ک+SG PRO1SG#SG COP1SG#کم+SG#*
+شو	V	V$شد+IMP 2SG#برشد+IMP 2SG#اندرشد+IMP 2SG#شست+IMP 2SG#*N$شو+SG#*
+نمک	N	V$مکید+NEG IMP 2SG#*N$نمک+SG#*
+جراحت	Ne	N$جراحت+SG#جراح+SG PRO2SG#*
+دل	N	N$دل+SG#*
+#
+گر	CONJ	AJ$گر+POS#N$گر+SG#*
+آرد	N	V$آورد+IND PRES 3SG#درآورد+IND PRES 3SG#*N$آرد+SG#*
+یکی	NUM	N$یکی+SG#*
+نامجو	N	AJ$نامجو+POS#N$نامجو+SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+شمار	N	V$بازشمارد+IMP 2SG#شمارد+IMP 2SG#برشمارد+IMP 2SG#شمرد+IMP 2SG#*N$شمار+SG#*
+#
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+تقصیرشان	N	N$تقصیر+SG PRO3PL#*
+گرم	AJ	AJ$گر+POS COP1SG#POS PRO1SG#گرم+POS#N$گر+SG PRO1SG#SG COP1SG#گرم+SG#*
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+خوی	Ne	N$خوی+SG#خو+SG EZ#SG COP2SG#*
+او	PRO	V$روفت+PREF IMP 2SG#آجست+PREF IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*
+#
+برگرفتی	N	V$برگرفت+PREF IND PAST 2SG#IND PAST 2SG#PREF SUB IRRP 3SG#SUB IRRP 3SG#*N$گرفت+PREP SG COP2SG#PREP SG YEH#*
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+حریفان	Ne	N$حریف+PL#*
+دل	N	N$دل+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+دل	N	N$دل+SG#*
+می‌دادت	V	V$برداد+MI IND PAST 3SG PRO2SG#بازداد+MI IND PAST 3SG PRO2SG#داد+MI IND PAST 3SG PRO2SG#درداد+MI IND PAST 3SG PRO2SG#*
+#
+چو	CONJ	V$چفت+IMP 2SG#*
+تو	PRO	N$تو+SG#*
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+نشان	Ne	V$درنشاند+IMP 2SG#الفغد+NEG IMP 2SG PRO3PL#برنشاند+IMP 2SG#نشاند+IMP 2SG#آجست+NEG IMP 2SG PRO3PL#بدن+NEG IMP 2SG PRO3PL#روفت+NEG IMP 2SG PRO3PL#*N$نشان+SG#*
+کاری	N	V$کاشت+IND PRES 2SG#کشت+IND PRES 2SG#آورد+CONJ IND PRES 2SG#درآورد+CONJ IND PRES 2SG#*AJ$کاری+POS#N$کار+SG YEH#SG COP2SG#*
+چه	DET		
+کنی	N	V$اندرکرد+IND PRES 2SG#برکند+IND PRES 2SG#برکرد+IND PRES 2SG#الفغد+CONJ NEG IND PRES 2SG#درکند+IND PRES 2SG#کرد+IND PRES 2SG#درکرد+IND PRES 2SG#آجست+CONJ NEG IND PRES 2SG#کند+IND PRES 2SG#بدن+CONJ NEG IND PRES 2SG#روفت+CONJ NEG IND PRES 2SG#*N$کن+SG YEH#SG COP2SG#*
+نشان	Ne	V$درنشاند+IMP 2SG#الفغد+NEG IMP 2SG PRO3PL#برنشاند+IMP 2SG#نشاند+IMP 2SG#آجست+NEG IMP 2SG PRO3PL#بدن+NEG IMP 2SG PRO3PL#روفت+NEG IMP 2SG PRO3PL#*N$نشان+SG#*
+ما	PRO	V$اندرآمد+NEG IMP 2SG#آمد+NEG IMP 2SG#درآمد+NEG IMP 2SG#برآمد+NEG IMP 2SG#بازآمد+NEG IMP 2SG#*N$ما+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+خاطر	Ne	N$خاطر+SG#*
+آبستن	Ne	AJ$آبستن+POS#*
+من	PRO	N$من+SG#*
+نور	Ne	N$نور+SG#*
+عقل	N	N$عقل+SG#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+صفا	N		
+#
+قدر	N	N$قدر+SG#*
+نشناسد	V	V$شناخت+NEG IND PRES 3SG#بازشناخت+NEG IND PRES 3SG#اشناخت+NEG IND PRES 3SG#*
+کافر	AJ	AJ$کافر+POS#N$کافر+SG#*
+نعم	AJ	N$نعم+SG#نعمت+PL#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+#
+چون	CONJ		
+دل	N	N$دل+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+مولد	Ne	AJ$مولد+POS#N$مولد+SG#*
+کم	AJ	V$روفت+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#آجست+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#بدن+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#الفغد+CONJ IND PRES 1SG#CONJ NEG IMP 2SG#CONJ IMP 2SG PRO1SG#*AJ$کم+POS#N$ک+SG PRO1SG#SG COP1SG#کم+SG#*
+کاست	V	V$بود+CONJ IMP 2SG#کاست+IND PAST 3SG#استید+CONJ IMP 2SG#*N$کاست+SG#کاس+SG PRO2SG#*
+گسست	N	V$گسست+IND PAST 3SG#*AJ$گس+POS COP3SG#*
+#
+روز	Ne	N$روز+SG#*
+یک	NUM		
+اسبه	N		
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+قفای	Ne		
+صبوح	N	N$صبوح+SG#*
+#
+انا	RES	N$انا+SG#*
+الخدیر	RES		
+استباء	RES		
+بغداد	N	N$بغداد+SG#*
+#
+میزند	V	V$اخت+MI IND PRES 3PL#NEG IND PRES 3PL#زد+MI IND PRES 3SG#باززد+MI IND PRES 3SG#میزید+IND PRES 3PL#برزد+MI IND PRES 3SG#میخت+IND PRES 3PL#*N$میز+SG COP3PL#*
+راه	Ne	N$راه+SG#*
+خرد	AJe	V$خرید+IND PRES 3SG#*AJ$خرد+POS#N$خرد+SG#*
+زمزمه‌ی	Ne	N$زمزمه+SG EZ#SG COP2SG#*
+چنگ	Ne	N$چنگ+SG#*
+مرا	PRO	AJ$+POS PRO1SG POSTP#N$+SG PRO1SG POSTP#ناشنوائیان+PL PRO1SG POSTP#*
+#
+سواران	Ne	N$سوار+PL#*
+جنگی	AJ	V$جنگید+IND PRES 2SG#*AJ$جنگی+POS#N$جنگ+SG YEH#SG COP2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+نیزه	N	N$نیزه+SG#*
+گزار	N	V$گزارد+IMP 2SG#*
+#
+گر	CONJ	AJ$گر+POS#N$گر+SG#*
+بکشندش	V	V$کشید+BE IND PRES 3PL PRO3SG#کشت+BE IND PRES 3PL PRO3SG#برکشید+BE IND PRES 3PL PRO3SG#اندرکشید+BE IND PRES 3PL PRO3SG#درکشید+BE IND PRES 3PL PRO3SG#*N$کشند+PREP SG PRO3SG#*
+نمی‌رود	V	V$دررفت+NEG MI IND PRES 3SG#رفت+NEG MI IND PRES 3SG#رست+NEG MI IND PRES 3SG#رویید+NEG MI IND PRES 3SG#بررفت+NEG MI IND PRES 3SG#بررست+NEG MI IND PRES 3SG#*
+به	P	AJ$به+POS#N$به+SG#*
+دگر	DET		
+جا	N	N$جا+SG#*
+#
+ک	RES	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*N$ک+SG#*
+ای	INT	V$روفت+SUB PRES 2SG#آجست+SUB PRES 2SG#بدن+SUB PRES 2SG#الفغد+SUB PRES 2SG#*
+پسر	N	N$پسر+SG#*
+بس	ADV	V$بسید+IMP 2SG#*
+ازین	AJe	N$ین+PREP SG#*
+روزگار	Ne	N$روزگار+SG#*
+بی‌ترتیب	N	AJ$بی‌ترتیب+POS#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+گردن	N	N$گردن+SG#*
+نپیچد	V	V$پیچید+NEG IND PRES 3SG#*
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+حکم	Ne	N$حکم+SG#حک+SG PRO1SG#SG COP1SG#حکمت+PL#*
+تو	PRO	N$تو+SG#*
+هیچ	DET		
+#
+گرفتند	V	V$بازگرفت+IND PAST 3PL#برگرفت+IND PAST 3PL#فروگرفت+IND PAST 3PL#اندرگرفت+IND PAST 3PL#گرفت+IND PAST 3PL#درگرفت+IND PAST 3PL#*N$گرفت+SG COP3PL#*
+هر	DET	N$هر+SG#*
+یک	NUM		
+یکی	NUM	N$یکی+SG#*
+راه	Ne	N$راه+SG#*
+پیش	ADV	AJ$پیش+POS#N$پیش+SG#*
+#
+چپ	N	V$چپید+IMP 2SG#*N$چپ+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+راست	AJ	AJ$راست+POS#N$راس+SG PRO2SG#را+SG COP3SG#راست+SG#*
+پوییدن	N	V$پویید+INF#*
+آغاز	N	V$آغازید+IMP 2SG#*N$آغاز+SG#*
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+هرگز	ADV		
+بدین	P	N$دین+PREP SG#*
+کی	ADV	V$روفت+CONJ IND PRES 2SG#آجست+CONJ IND PRES 2SG#بدن+CONJ IND PRES 2SG#الفغد+CONJ IND PRES 2SG#*AJ$کی+POS#N$ک+SG YEH#SG COP2SG#کی+SG#*
+شکیبم	N		
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+دوست	N	V$دوسید+IMP 2SG PRO2SG#*AJ$دوس+POS PRO2SG#N$دو+SG COP3SG#دوس+SG PRO2SG#دوست+SG#*
+#
+چو	CONJ	V$چفت+IMP 2SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+رقص	N	V$رقصید+IMP 2SG#*N$رقص+SG#*
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+می‌توانند	V	V$توانست+MI IND PRES 3PL#*
+جست	V	V$جست+IND PAST 3SG#برجست+IND PAST 3SG#بازجست+IND PAST 3SG#*N$جست+SG#*
+#
+چه	CONJ		
+مزدش	N	V$باززد+NEG IND PAST 3SG PRO3SG#برزد+NEG IND PAST 3SG PRO3SG#اخت+NEG IND PRES 3SG PRO3SG#زد+NEG IND PAST 3SG PRO3SG#*N$مزد+SG PRO3SG#*
+دهد	V	V$برداد+IND PRES 3SG#بازداد+IND PRES 3SG#داد+IND PRES 3SG#درداد+IND PRES 3SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+قیامت	N	N$قیامت+SG#قیام+SG PRO2SG#*
+خدای	N	N$خدا+SG EZ#SG COP2SG#خدای+SG#*
+#
+تو	PRO	N$تو+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+گفت	V	V$بازگفت+IND PAST 3SG#گفت+IND PAST 3SG#*N$گفت+SG#*
+خود	PRO	N$خود+SG#*
+مانده‌ای	N	V$ماند+IND 2SG PERF#اندرماند+IND 2SG PERF#درماند+IND 2SG PERF#بازماند+IND 2SG PERF#*N$مانده+SG COP2SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+قفس	N	N$قفس+SG#*
+#
+چو	CONJ	V$چفت+IMP 2SG#*
+دستت	N	N$دست+SG PRO2SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+آغوش	Ne	V$آغوشید+IMP 2SG#*N$آغوش+SG#*
+آغوش	N	V$آغوشید+IMP 2SG#*N$آغوش+SG#*
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+گردت	N	V$بازگشت+IMP 2SG PRO2SG#گشت+IMP 2SG PRO2SG#برگشت+IMP 2SG PRO2SG#بازگردید+IMP 2SG PRO2SG#برگردید+IMP 2SG PRO2SG#گردید+IMP 2SG PRO2SG#*AJ$گرد+POS PRO2SG#N$گرد+SG PRO2SG#*
+برآید	V	V$برآمد+PREF IND PRES 3SG#IND PRES 2PL#IMP 2PL#IND PRES 3SG#PREF IND PRES 2PL#PREF IMP 2PL#*N$آ+PREP SG COP2PL#*
+عملهای	Ne	N$عمل+PL COP2SG#PL EZ#*
+خویش	PRO	N$خویش+SG#خو+SG PRO3SG#*
+#
+چندانکه	CONJ		
+می‌رود	V	V$دررفت+MI IND PRES 3SG#رفت+MI IND PRES 3SG#رست+MI IND PRES 3SG#رویید+MI IND PRES 3SG#بررفت+MI IND PRES 3SG#بررست+MI IND PRES 3SG#*
+همه	DETe		
+ملک	N	N$ملک+SG#*
+خدای	Ne	N$خدا+SG EZ#SG COP2SG#خدای+SG#*
+اوست	V	V$بود+PREF IMP 2SG#استید+PREF IMP 2SG#*N$اوس+SG PRO2SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+زبان	Ne	N$زبان+SG#*
+بتر	AJ	AJ$بتر+POS#+PREP COMP#تر+PREP POS#N$تر+PREP SG#*
+اندر	P	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+جهان	N	V$جهاند+IMP 2SG#*AJ$جهان+POS#N$جهان+SG#*
+زیانی	N	N$یان+PREP SG COP2SG#PREP SG YEH#زیان+SG YEH#SG COP2SG#زی+PL YEH#PL COP2SG#*
+نیست	V	V$ایستاد+NEG IMP 2SG#ایستید+NEG IMP 2SG#بازایستاد+NEG IMP 2SG#استید+NEG IMP 2SG#بود+NEG IMP 2SG#*N$نیست+SG#نی+SG COP3SG#*
+#
+اقول	N		
+تحمرت	N		
+بدم	AJ	V$دردمید+BE IMP 2SG#الفغد+PREF IMP 2SG PRO1SG#BE IND PRES 3SG PRO1SG#PREF NEG IMP 2SG#PREF IND PRES 1SG#بردمید+BE IMP 2SG#دمید+BE IMP 2SG#آجست+PREF IMP 2SG PRO1SG#BE IND PRES 3SG PRO1SG#PREF NEG IMP 2SG#PREF IND PRES 1SG#بدن+PREF IMP 2SG PRO1SG#BE IND PRES 3SG PRO1SG#PREF NEG IMP 2SG#PREF IND PRES 1SG#روفت+PREF IMP 2SG PRO1SG#BE IND PRES 3SG PRO1SG#PREF NEG IMP 2SG#PREF IND PRES 1SG#*AJ$بد+POS COP1SG#POS PRO1SG#N$بد+SG PRO1SG#SG COP1SG#دم+PREP SG#*
+الکبود	V		
+#
+غلام	Ne	N$غلام+SG#*
+بندگی	N	N$بندگی+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+گردن	N	N$گردن+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+گنه	Ne	N$گنه+SG#*
+آزاد	AJ	V$آزد+SUB PRES 3SG#آخت+SUB PRES 3SG#*AJ$آزاد+POS#N$آزاد+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+سملت	N		
+بریم	V	V$برید+IND PRES 1PL#بربرد+IND PRES 1PL#برد+IND PRES 1PL#دربرد+IND PRES 1PL#*AJ$+PREP POS COP1PL#PREP POS YEH COP1SG#بری+POS COP1SG#بر+POS COP1PL#POS YEH COP1SG#N$+PREP SG YEH COP1SG#PREP SG COP1PL#ناشنوائیان+PREP PL YEH COP1SG#PREP PL COP1PL#ریم+PREP SG#ری+PREP SG COP1SG#یم+PREP SG#ر+PREP SG YEH COP1SG#PREP SG COP1PL#بر+SG COP1PL#SG YEH COP1SG#*
+یا	CONJ		
+به	P	AJ$به+POS#N$به+SG#*
+خفیف	N	AJ$خفیف+POS#N$خفیف+SG#*
+#
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+روی	Ne	V$دررفت+IND PRES 2SG#رفت+IND PRES 2SG#رست+IND PRES 2SG#IMP 2SG#رویید+IND PRES 2SG#IMP 2SG#بررفت+IND PRES 2SG#بررست+IND PRES 2SG#IMP 2SG#*N$رو+SG EZ#SG COP2SG#روی+SG#*
+هوا	N	N$هوا+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+دود	Ne	V$دوید+IND PRES 3SG#*N$دود+SG#*
+افراخته	AJe	V$برافراخت+PP#افراخت+PP#*
+ایوانها	N	N$ایوان+PL#*
+#
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+چون	CONJ		
+خلقت	Ne	AJ$خلق+POS PRO2SG#N$خلقت+SG#خلق+SG PRO2SG#*
+امید	N	N$ام+SG COP2PL#امید+SG#*
+هر	DET	N$هر+SG#*
+یکی	NUM	N$یکی+SG#*
+زیشان	N		
+روا	AJ	AJ$روا+POS#*
+#
+به	P	AJ$به+POS#N$به+SG#*
+تو	PRO	N$تو+SG#*
+اسرار	Ne	N$سر+PL#اسرار+SG#*
+هر	DET	N$هر+SG#*
+دلی	N	N$دل+SG YEH#SG COP2SG#دلی+SG#*
+محتاج	AJ	AJ$محتاج+POS#*
+#
+وقت	Ne	AJ$وقت+POS#N$وقت+SG#*
+ما	PRO	V$اندرآمد+NEG IMP 2SG#آمد+NEG IMP 2SG#درآمد+NEG IMP 2SG#برآمد+NEG IMP 2SG#بازآمد+NEG IMP 2SG#*N$ما+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+چون	ADV		
+نهاد	Ne	V$بازنهاد+IND PAST 3SG#SUB PRES 3SG#اندرنهاد+IND PAST 3SG#SUB PRES 3SG#نهاد+IND PAST 3SG#SUB PRES 3SG#برنهاد+IND PAST 3SG#SUB PRES 3SG#*N$نهاد+SG#*
+حسن	Ne	AJ$حسن+POS#N$حسن+SG#*
+خویش	PRO	N$خویش+SG#خو+SG PRO3SG#*
+آباد	AJ	AJ$آباد+POS#*
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+دایم	ADV	N$دایم+SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+عقب	ADV	AJ$عقب+POS#N$عقب+SG#*
+باشد	V	V$بود+IND PRES 3SG#باشید+IND PRES 3SG#*AJ$اشد+PREP POS#N$اشد+PREP SG#*
+بهاری	N	AJ$هار+PREP POS YEH#PREP POS COP2SG#بهاری+POS#N$بهار+SG YEH#SG COP2SG#هار+PREP SG COP2SG#PREP SG YEH#بهاری+SG#هاری+PREP SG#*
+مر	CONJ	AJ$مر+POS#N$مر+SG#*
+زمستان	N	N$زمستان+SG#مس+PREP SG PRO2PL#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+دلی	N	N$دل+SG YEH#SG COP2SG#دلی+SG#*
+خوش	AJ	AJ$خوش+POS#*
+بده	V	V$برداد+BE IMP 2SG#بازداد+BE IMP 2SG#داد+BE IMP 2SG#درداد+BE IMP 2SG#*N$ده+PREP SG#بده+SG#*
+کش	Ne	V$کشید+IMP 2SG#برکشید+IMP 2SG#اندرکشید+IMP 2SG#الفغد+CONJ IMP 2SG PRO3SG#کشت+IMP 2SG#درکشید+IMP 2SG#آجست+CONJ IMP 2SG PRO3SG#بدن+CONJ IMP 2SG PRO3SG#روفت+CONJ IMP 2SG PRO3SG#*AJ$کش+POS#N$ک+SG PRO3SG#کش+SG#*
+زبانی	AJe	AJ$زبانی+POS#N$زبان+SG YEH#SG COP2SG#بانی+PREP SG#*
+خوش	AJ	AJ$خوش+POS#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+#
+هزاران	NUM		
+نقش	N	N$نقش+SG#*
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+لوح	Ne	N$لوح+SG#*
+عدم	N	N$عدم+SG#*
+زد	V	V$باززد+IND PAST 3SG#برزد+IND PAST 3SG#زد+IND PAST 3SG#*
+#
+ولی	CONJ	AJ$ول+POS COP2SG#POS YEH#N$ولی+SG#ل+CONJ SG COP2SG#CONJ SG YEH#لئیم+CONJ PL YEH#CONJ PL COP2SG#*
+اندر	P	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+نبی	N	V$روفت+NEG BE IND PRES 2SG#آجست+NEG BE IND PRES 2SG#بدن+NEG BE IND PRES 2SG#الفغد+NEG BE IND PRES 2SG#*N$نبی+SG#*
+پیدا	AJ	AJ$پیدا+POS#*
+نماید	V	V$نمود+IND PRES 2PL#IMP 2PL#IND PRES 3SG#درنمود+IND PRES 2PL#IMP 2PL#*N$نما+SG COP2PL#*
+#
+بازگو	N	V$بازگفت+PREF IMP 2SG#IMP 2SG#*N$بازگو+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+یار	Ne	N$یار+SG#*
+بی‌پروای	AJe	AJ$بی‌پروا+POS EZ#POS COP2SG#*
+ما	PRO	V$اندرآمد+NEG IMP 2SG#آمد+NEG IMP 2SG#درآمد+NEG IMP 2SG#برآمد+NEG IMP 2SG#بازآمد+NEG IMP 2SG#*N$ما+SG#*
+#
+وی	PRO	V$روفت+CONJ IND PRES 2SG#آجست+CONJ IND PRES 2SG#بدن+CONJ IND PRES 2SG#الفغد+CONJ IND PRES 2SG#*AJ$+CONJ POS EZ#CONJ POS COP2SG#N$+CONJ SG COP2SG#CONJ SG EZ#وی+SG#ناشنوائیان+CONJ PL EZ#CONJ PL COP2SG#*
+زبده‌ی	AJe	AJ$زبده+POS EZ#POS COP2SG#N$زبده+SG EZ#SG COP2SG#بده+PREP SG EZ#PREP SG COP2SG#*
+عالم	Ne	AJ$عالم+POS#N$عالم+SG#*
+کون	N	N$کون+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+مکان	N	N$مک+PL#مکان+SG#*
+#
+حق	Ne	AJ$حق+POS#N$حق+SG#*
+ورا	N	AJ$+CONJ POS POSTP#N$+CONJ SG POSTP#ناشنوائیان+CONJ PL POSTP#را+CONJ SG#*
+دانست	V	V$دانست+IND PAST 3SG#*N$دانس+SG PRO2SG#دان+SG COP3SG#*
+ناحق	AJ	AJ$ناحق+POS#N$ناحق+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+گذاشت	V	V$برگذاشت+IND PAST 3SG#اندرگذاشت+IND PAST 3SG#درگذاشت+IND PAST 3SG#گذاشت+IND PAST 3SG#بازگذاشت+IND PAST 3SG#*
+#
+برده	V	V$بربرد+PP#برداد+PREF IMP 2SG#IMP 2SG#برد+PP#دربرد+PP#*N$ده+PREP SG#رده+PREP SG#برده+SG#*
+گویا	ADV	AJ$گویا+POS#*
+خواب	Ne	V$خوابید+IMP 2SG#خفت+IMP 2SG#*N$خواب+SG#*
+مرگ	Ne	N$مرگ+SG#*
+این	DET	N$این+SG#*
+همرهان	N		
+خفته	AJ	V$خفت+PP#*AJ$خفته+POS#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+دگر	ADV		
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+خاطرم	N	N$خاطر+SG PRO1SG#SG COP1SG#*
+اندیشه‌ی	Ne	N$اندیشه+SG EZ#SG COP2SG#*
+دراز	AJ	AJ$دراز+POS#N$از+PREP SG#*
+برفت	V	V$دررفت+BE IND PAST 3SG#بررفت+BE IND PAST 3SG#رفت+BE IND PAST 3SG#برافتاد+PREF IMP 2SG#*N$رفت+PREP SG#برف+SG PRO2SG#رف+PREP SG PRO2SG#*
+#
+حمایت	Ne	N$حما+SG PRO2SG#حمایت+SG#*
+مه	Ne	AJ$مه+POS#N$مه+SG#*
+تابان	AJ	V$برتاباند+IMP 2SG#تاباند+IMP 2SG#*AJ$تابان+POS#N$تاب+PL#تابان+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+مهر	Ne	N$مهر+SG#*
+رخشان	N	V$رخید+IMP 2SG PRO3PL#*AJ$رخشان+POS#N$رخشان+SG#رخش+PL#رخ+SG PRO3PL#*
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+#
+خوش	AJ	AJ$خوش+POS#*
+بود	V	V$بود+IND PAST 3SG#IND PRES 3SG#بویید+IND PRES 3SG#*N$بود+SG#*
+دامن	Ne	N$دامن+SG#*
+صحرا	N	N$صحرا+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+تماشای	Ne	N$تماشا+SG EZ#SG COP2SG#*
+بهار	N	AJ$هار+PREP POS#N$بهار+SG#هار+PREP SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+روبه	N		
+نیاید	V	N$نیا+SG COP2PL#*
+شیر	Ne	N$شیر+SG#*
+گیری	N	V$بازگرفت+IND PRES 2SG#برگرفت+IND PRES 2SG#فروگرفت+IND PRES 2SG#اندرگرفت+IND PRES 2SG#گرفت+IND PRES 2SG#درگرفت+IND PRES 2SG#*N$گیر+SG YEH#SG COP2SG#*
+#
+تا	CONJ	N$تا+SG#*
+درآیی	Ne	V$درآمد+SUB IRR 2SG#PREF SUB IRR 2SG#درآیید+SUB IRR 2SG#IND PRES 2SG#*N$آ+PREP SG YEH COP2SG#*
+تو	PRO	N$تو+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+اعزاز	Ne	N$اعزاز+SG#*
+امشب	ADV	N$امشب+SG#*
+#
+سرسام	N	N$سرسام+SG#*
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+پی	N	N$پی+SG#*
+دارد	V	V$داشت+IND PRES 3SG#بازداشت+IND PRES 3SG#برداشت+IND PRES 3SG#*
+اگر	CONJ		
+چند	DET		
+لذیذ	N	N$لذیذ+SG#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+خط	Ne	N$خط+SG#*
+دادندت	Ne	V$برداد+IND PAST 3PL PRO2SG#بازداد+IND PAST 3PL PRO2SG#داد+IND PAST 3PL PRO2SG#درداد+IND PAST 3PL PRO2SG#*
+انس	N	N$انس+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+جان	N	N$جن+PL#جان+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+خوشی	N	AJ$خوش+POS COP2SG#POS YEH#N$خوشی+SG#*
+#
+جان	Ne	N$جن+PL#جان+SG#*
+مادر	N		
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+تب	N	N$تب+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+تاب	Ne	V$تابید+IMP 2SG#برتابید+IMP 2SG#برتافت+IMP 2SG#تافت+IMP 2SG#تفت+IMP 2SG#بازتابید+IMP 2SG#*N$تاب+SG#*
+اوفتاد	N	V$درافتاد+PREF IND PAST 3SG#PREF SUB PRES 3SG#افتاد+PREF IND PAST 3SG#PREF SUB PRES 3SG#برافتاد+PREF IND PAST 3SG#PREF SUB PRES 3SG#اوفتید+SUB PRES 3SG#اوفتاد+IND PAST 3SG#SUB PRES 3SG#افتید+PREF SUB PRES 3SG#*
+#
+خانه‌ی	Ne		
+دل	Ne	N$دل+SG#*
+مقصد	N	N$مقصد+SG#*
+صدق	N	N$صدق+SG#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+بس	AJ	V$بسید+IMP 2SG#*
+#
+دل	N	N$دل+SG#*
+بدان	P	V$دانست+BE IMP 2SG#*N$بد+PL#دان+PREP SG#*
+کایینه‌ی	N		
+دیدار	Ne	N$دیدار+SG#*
+اوست	V	V$بود+PREF IMP 2SG#استید+PREF IMP 2SG#*N$اوس+SG PRO2SG#*
+#
+لطف	Ne	N$لطف+SG#*
+ما	PRO	V$اندرآمد+NEG IMP 2SG#آمد+NEG IMP 2SG#درآمد+NEG IMP 2SG#برآمد+NEG IMP 2SG#بازآمد+NEG IMP 2SG#*N$ما+SG#*
+خواهد_شد	V		
+او	PRO	V$روفت+PREF IMP 2SG#آجست+PREF IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+عذر	Ne	N$عذر+SG#*
+خواه	CONJ	V$برخواست+IMP 2SG#خواست+IMP 2SG#درخواست+IMP 2SG#بازخواست+IMP 2SG#*
+#
+بجای	Ne	AJ$بجا+POS EZ#POS COP2SG#N$جای+PREP SG#جا+PREP SG EZ#PREP SG COP2SG#*
+خرقه	N	N$خرقه+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+قوال	Ne	N$قوال+SG#*
+جان	N	N$جن+PL#جان+SG#*
+توان	N	V$توانست+IMP 2SG#*N$تو+PL#توان+SG#*
+انداخت	V	V$انداخت+IND PAST 3SG#برانداخت+IND PAST 3SG#درانداخت+IND PAST 3SG#*N$انداخت+SG#*
+#
+آن	DET	N$آن+SG#*
+گهر	N	N$گهر+SG#*
+لیک	CONJ		
+عقل	N	N$عقل+SG#*
+نپسندید	V	V$پسندید+NEG IND PAST 3SG#NEG IND PRES 2PL#NEG IMP 2PL#*
+#
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+نقش	Ne	N$نقش+SG#*
+همه	DETe		
+جهان	N	V$جهاند+IMP 2SG#*AJ$جهان+POS#N$جهان+SG#*
+مشکل	N	AJ$مشکل+POS#N$مشکل+SG#*
+#
+چند	DET		
+مانی	Ne	V$اندرماند+IND PRES 2SG#درماند+IND PRES 2SG#بازماند+IND PRES 2SG#ماند+IND PRES 2SG#مانست+IND PRES 2SG#مانید+IND PRES 2SG#*AJ$+POS PRO1PL COP2SG#POS PRO1PL YEH#N$+SG PRO1PL COP2SG#SG PRO1PL YEH#ناشنوائیان+PL PRO1PL COP2SG#PL PRO1PL YEH#مانی+SG#*
+تو	PRO	N$تو+SG#*
+این	DET	N$این+SG#*
+چنین	PRO		
+خفته	V	V$خفت+PP#*AJ$خفته+POS#*
+#
+این	DET	N$این+SG#*
+مراتب	N	N$مراتب+SG#مرتبه+PL#*
+به	P	AJ$به+POS#N$به+SG#*
+ذات	Ne	N$ذات+SG#*
+ایشان	PRO		
+نیست	V	V$ایستاد+NEG IMP 2SG#ایستید+NEG IMP 2SG#بازایستاد+NEG IMP 2SG#استید+NEG IMP 2SG#بود+NEG IMP 2SG#*N$نیست+SG#نی+SG COP3SG#*
+#
+هست	V	V$بود+IMP 2SG#*N$هست+SG#*
+عشق	Ne	N$عشق+SG#*
+آتشی	N	AJ$آتشی+POS#N$آتش+SG YEH#SG COP2SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+شعله‌ی	Ne	N$شعله+SG EZ#SG COP2SG#*
+آن	PRO	N$آن+SG#*
+#
+مرحبا	N		
+مرحبا	N		
+نسیم	Ne	N$نسی+SG COP1SG#نسیم+SG#*
+صبا	N	N$صبا+SG#*
+#
+وانکس	N	N$انکس+CONJ SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+هزیمت	N	N$هزیمت+SG#*
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+ازین	Ne	N$ین+PREP SG#*
+خسرو	N	N$خسرو+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+جان	N	N$جن+PL#جان+SG#*
+برد	V	V$برید+IND PRES 3SG#بربرد+IND PAST 3SG#IND PRES 3SG#برد+IND PAST 3SG#IND PRES 3SG#دربرد+IND PAST 3SG#IND PRES 3SG#*AJ$رد+PREP POS#N$برد+SG#رد+PREP SG#*
+#
+بهار	N	AJ$هار+PREP POS#N$بهار+SG#هار+PREP SG#*
+آمد	V	V$اندرآمد+IND PAST 3SG#آمد+IND PAST 3SG#درآمد+IND PAST 3SG#برآمد+IND PAST 3SG#بازآمد+IND PAST 3SG#*N$آمد+SG#*
+من	PRO	N$من+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+هر	DET	N$هر+SG#*
+روز	Ne	N$روز+SG#*
+نو	AJ	N$نو+SG#*
+باغی	N	AJ$باغی+POS#N$اغ+PREP SG COP2SG#PREP SG YEH#باغی+SG#باغ+SG YEH#SG COP2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+نو	AJ	N$نو+SG#*
+جایی	N	N$جای+SG EZ#SG COP2SG#جایی+SG#جا+SG YEH#*
+#
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+هوشنگ	N	N$هوشنگ+SG#*
+ماند	V	V$اندرماند+IND PAST 3SG#IND PRES 3SG#برآمد+NEG IND PRES 3PL#الفغد+NEG SUB PRES 3PL#ماند+IND PAST 3SG#IND PRES 3SG#درآمد+NEG IND PRES 3PL#بازآمد+NEG IND PRES 3PL#بدن+NEG SUB PRES 3PL#درماند+IND PAST 3SG#IND PRES 3SG#بازماند+IND PAST 3SG#IND PRES 3SG#اندرآمد+NEG IND PRES 3PL#آمد+NEG IND PRES 3PL#مانست+IND PRES 3SG#آجست+NEG SUB PRES 3PL#مانید+IND PRES 3SG#روفت+NEG SUB PRES 3PL#*N$ما+SG COP3PL#ماند+SG#*
+این	DET	N$این+SG#*
+سده	N	N$سده+SG#*
+یادگار	N		
+#
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+یک	NUM		
+میل	N	N$میل+SG#*
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+آفریدون	DET		
+نگاه	N	N$نگاه+SG#*
+#
+سپهر	Ne	N$سپهر+SG#*
+بلند	AJe	AJ$بلند+POS#N$بل+SG COP3PL#لئیم+PREP PL COP3PL#ل+PREP SG COP3PL#لند+PREP SG#*
+ار	N		
+کشد	V	V$شد+CONJ IND PAST 3SG#کشید+IND PRES 3SG#اندرشد+CONJ IND PAST 3SG#اندرکشید+IND PRES 3SG#برشد+CONJ IND PAST 3SG#کشت+IND PRES 3SG#برکشید+IND PRES 3SG#درکشید+IND PRES 3SG#*
+زین	P	N$ین+PREP SG#زین+SG#*
+تو	PRO	N$تو+SG#*
+#
+دوان	ADV	V$دواند+IMP 2SG#*N$دو+PL#*
+سوی	Ne	AJ$سوی+POS#N$سوی+SG#سو+SG EZ#SG COP2SG#*
+درگاه	N	N$درگاه+SG#گاه+PREP SG#*
+بنهاد	V	V$بازنهاد+BE IND PAST 3SG#BE SUB PRES 3SG#اندرنهاد+BE IND PAST 3SG#BE SUB PRES 3SG#نهاد+BE IND PAST 3SG#BE SUB PRES 3SG#برنهاد+BE IND PAST 3SG#BE SUB PRES 3SG#*N$نهاد+PREP SG#*
+روی	N	V$دررفت+IND PRES 2SG#رفت+IND PRES 2SG#رست+IND PRES 2SG#IMP 2SG#رویید+IND PRES 2SG#IMP 2SG#بررفت+IND PRES 2SG#بررست+IND PRES 2SG#IMP 2SG#*N$رو+SG EZ#SG COP2SG#روی+SG#*
+#
+برآشفت	V	V$برآشفت+IND PAST 3SG#PREF IND PAST 3SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+سیندخت	N	N$سیندخت+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+پیش	ADV	AJ$پیش+POS#N$پیش+SG#*
+خواند	V	V$بازخواند+IND PAST 3SG#IND PRES 3SG#خواند+IND PAST 3SG#IND PRES 3SG#*
+#
+برآمد	Ne	V$برآمد+IND PAST 3SG#PREF IND PAST 3SG#*N$آمد+PREP SG#*
+چپ	AJ	V$چپید+IMP 2SG#*N$چپ+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+راست	N	AJ$راست+POS#N$راس+SG PRO2SG#را+SG COP3SG#راست+SG#*
+گرد	Ne	V$بازگشت+IMP 2SG#گشت+IMP 2SG#برگشت+IMP 2SG#بازگردید+IMP 2SG#برگردید+IMP 2SG#گردید+IMP 2SG#*AJ$گرد+POS#N$گرد+SG#*
+سیاه	AJ	N$سیاه+SG#*
+#
+یکی	NUM	N$یکی+SG#*
+مرد	N	V$مرد+IND PAST 3SG#*AJ$مرد+POS#N$مرد+SG#*
+با	P	V$بایست+IMP 2SG#برآمد+BE IMP 2SG#بازآمد+BE IMP 2SG#اندرآمد+BE IMP 2SG#آمد+BE IMP 2SG#درآمد+BE IMP 2SG#*N$با+SG#*
+هوش	N	N$هوش+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+برگزید	V	V$برگزید+IND PAST 3SG#PREF IND PAST 3SG#*N$گزید+PREP SG#*
+#
+برآهیخت	Ne	V$برآهیخت+IND PAST 3SG#PREF IND PAST 3SG#*
+جنگی	AJe	V$جنگید+IND PRES 2SG#*AJ$جنگی+POS#N$جنگ+SG YEH#SG COP2SG#*
+نهنگ	N	N$نهنگ+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+نیام	N	N$نیا+SG COP1SG#نیام+SG#*
+#
+نبودی	V	V$بود+NEG SUB IRRP 3SG#NEG IND PAST 2SG#NEG SUB IRR 3SG#بویید+NEG SUB IRR 3SG#*
+تموز	N	N$تموز+SG#*
+ایچ	DET		
+پیدا	AJ	AJ$پیدا+POS#*
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+دی	N	V$روفت+SUB IRR 3SG#آجست+SUB IRR 3SG#بدن+SUB IRR 3SG#الفغد+SUB IRR 3SG#*N$دی+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+سهرابش	N	N$سهراب+SG PRO3SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+پشت	N	N$پشت+SG#پش+SG PRO2SG#*
+زین	N	N$ین+PREP SG#زین+SG#*
+برگرفت	V	V$برگرفت+IND PAST 3SG#PREF IND PAST 3SG#*N$گرفت+PREP SG#*
+#
+اگر	CONJ		
+داد	N	V$برداد+IND PAST 3SG#بازداد+IND PAST 3SG#داد+IND PAST 3SG#درداد+IND PAST 3SG#*N$داد+SG#*
+باید	V	V$بایست+IND PRES 2PL#IMP 2PL#IND PRES 3SG#IMP 2SG#برآمد+BE IND PRES 2PL#BE IMP 2PL#BE IND PRES 3SG#الفغد+BE SUB PRES 2PL#اندرآمد+BE IND PRES 2PL#BE IMP 2PL#BE IND PRES 3SG#آمد+BE IND PRES 2PL#BE IMP 2PL#BE IND PRES 3SG#بازآمد+BE IND PRES 2PL#BE IMP 2PL#آجست+BE SUB PRES 2PL#درآمد+BE IND PRES 2PL#BE IMP 2PL#بدن+BE SUB PRES 2PL#روفت+BE SUB PRES 2PL#*N$با+SG COP2PL#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+ماند	V	V$اندرماند+IND PAST 3SG#IND PRES 3SG#برآمد+NEG IND PRES 3PL#الفغد+NEG SUB PRES 3PL#ماند+IND PAST 3SG#IND PRES 3SG#درآمد+NEG IND PRES 3PL#بازآمد+NEG IND PRES 3PL#بدن+NEG SUB PRES 3PL#درماند+IND PAST 3SG#IND PRES 3SG#بازماند+IND PAST 3SG#IND PRES 3SG#اندرآمد+NEG IND PRES 3PL#آمد+NEG IND PRES 3PL#مانست+IND PRES 3SG#آجست+NEG SUB PRES 3PL#مانید+IND PRES 3SG#روفت+NEG SUB PRES 3PL#*N$ما+SG COP3PL#ماند+SG#*
+بجای	N	AJ$بجا+POS EZ#POS COP2SG#N$جای+PREP SG#جا+PREP SG EZ#PREP SG COP2SG#*
+#
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+بهر	Pe	N$بهر+SG#هر+PREP SG#*
+سیاوش	N		
+دو	NUM	V$دوید+IMP 2SG#*N$دو+SG#*
+دیده	Ne	V$دید+PP#بردید+PP#*N$دیده+SG#*
+پر	AJe	V$آجست+PREF IMP 2SG#روفت+PREF IMP 2SG#پرید+IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*AJ$پر+POS#N$پر+SG#*
+آب	N	N$آب+SG#*
+#
+با	P	V$بایست+IMP 2SG#برآمد+BE IMP 2SG#بازآمد+BE IMP 2SG#اندرآمد+BE IMP 2SG#آمد+BE IMP 2SG#درآمد+BE IMP 2SG#*N$با+SG#*
+خیل	Ne	N$خیل+SG#*
+غمزه	N	N$غمزه+SG#*
+گر	CONJ	AJ$گر+POS#N$گر+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+واثاقم	V		
+گذر	N	V$برگذشت+IMP 2SG#گذشت+IMP 2SG#اندرگذشت+IMP 2SG#درگذشت+IMP 2SG#*N$گذر+SG#*
+کنی	V	V$اندرکرد+IND PRES 2SG#برکند+IND PRES 2SG#برکرد+IND PRES 2SG#الفغد+CONJ NEG IND PRES 2SG#درکند+IND PRES 2SG#کرد+IND PRES 2SG#درکرد+IND PRES 2SG#آجست+CONJ NEG IND PRES 2SG#کند+IND PRES 2SG#بدن+CONJ NEG IND PRES 2SG#روفت+CONJ NEG IND PRES 2SG#*N$کن+SG YEH#SG COP2SG#*
+#
+آن	DET	N$آن+SG#*
+چنان	PRO	AJ$چنان+POS#*
+بر	P	V$برید+IMP 2SG#بربرد+IMP 2SG#برد+IMP 2SG#دربرد+IMP 2SG#*AJ$+PREP POS#بر+POS#N$+PREP SG#ر+PREP SG#بر+SG#ناشنوائیان+PREP PL#*
+سر	Ne	AJ$سر+POS#N$سر+SG#*
+کویت	N	AJ$کو+POS PRO2SG#N$کویت+SG#کو+SG PRO2SG#*
+به	P	AJ$به+POS#N$به+SG#*
+غریبی	N	AJ$غریب+POS COP2SG#POS YEH#N$غریب+SG YEH#SG COP2SG#غریبی+SG#غربا+PL YEH#PL COP2SG#غرباء+PL YEH#PL COP2SG#*
+شادم	V	V$شایست+IND PRES 3SG PRO1SG#*AJ$شاد+POS COP1SG#POS PRO1SG#N$شاد+SG PRO1SG#SG COP1SG#*
+#
+هرزه	Ne	AJ$هرزه+POS#*
+نقاب	N	AJ$نقاب+POS#N$نقاب+SG#*
+رخ	N	V$رخید+IMP 2SG#*N$رخ+SG#*
+مکن	V	V$اندرکرد+NEG IMP 2SG#درکرد+NEG IMP 2SG#درکند+NEG IMP 2SG#کرد+NEG IMP 2SG#برکند+NEG IMP 2SG#کند+NEG IMP 2SG#برکرد+NEG IMP 2SG#*
+طره‌ی	N	N$طره+SG EZ#SG COP2SG#*
+نیم	NUM	V$روفت+NEG IND PRES 1PL#آجست+NEG IND PRES 1PL#بدن+NEG IND PRES 1PL#الفغد+NEG IND PRES 1PL#*N$نیم+SG#نی+SG COP1SG#*
+تاب	N	V$تابید+IMP 2SG#برتابید+IMP 2SG#برتافت+IMP 2SG#تافت+IMP 2SG#تفت+IMP 2SG#بازتابید+IMP 2SG#*N$تاب+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+مهم	AJe	AJ$مهم+POS#N$مهم+SG#*
+خویش	PRO	N$خویش+SG#خو+SG PRO3SG#*
+بود	V	V$بود+IND PAST 3SG#IND PRES 3SG#بویید+IND PRES 3SG#*N$بود+SG#*
+خلق	N	AJ$خلق+POS#N$خلق+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+اهم	AJe	AJ$اهم+POS#N$اهم+SG#*
+مهام	N	N$مهام+SG#*
+#
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+درگهی	N		
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+هست	V	V$بود+IMP 2SG#*N$هست+SG#*
+سگش	N	N$سگ+SG PRO3SG#*
+آهوی	Ne	N$آهو+SG EZ#SG COP2SG#*
+حرم	N	AJ$حر+POS COP1SG#POS PRO1SG#N$حر+SG PRO1SG#SG COP1SG#حرم+SG#*
+#
+قضا	N		
+می‌گفت	V	V$بازگفت+MI IND PAST 3SG#گفت+MI IND PAST 3SG#*
+من	PRO	N$من+SG#*
+امداد	N	N$امداد+SG#مدد+PL#*
+کردم	V	V$کرد+IND PAST 1SG#IND PAST 3SG PRO1SG#اندرکرد+IND PAST 1SG#IND PAST 3SG PRO1SG#برکرد+IND PAST 1SG#IND PAST 3SG PRO1SG#درکرد+IND PAST 1SG#IND PAST 3SG PRO1SG#*N$کرد+SG PRO1SG#SG COP1SG#*
+#
+نی	ADV	V$روفت+NEG IND PRES 2SG#آجست+NEG IND PRES 2SG#بدن+NEG IND PRES 2SG#الفغد+NEG IND PRES 2SG#*N$نی+SG#*
+تحرک	N	N$تحرک+SG#*
+ممکن	AJ	AJ$ممکن+POS#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+نی	N	V$روفت+NEG IND PRES 2SG#آجست+NEG IND PRES 2SG#بدن+NEG IND PRES 2SG#الفغد+NEG IND PRES 2SG#*N$نی+SG#*
+سکون	Ne	N$سکون+SG#*
+زا	N	V$زایید+IMP 2SG#زاد+IMP 2SG#*N$زا+SG#*
+من	PRO	N$من+SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+هست	V	V$بود+IMP 2SG#*N$هست+SG#*
+#
+گمان	N	N$گمان+SG#*
+مبر	V	V$برید+NEG IMP 2SG#بربرد+NEG IMP 2SG#برد+NEG IMP 2SG#دربرد+NEG IMP 2SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+مگر	ADV		
+طبع‌های	Ne	N$طبع+PL COP2SG#PL EZ#*
+مختلفند	V	AJ$مختلف+POS COP3PL#*
+#
+سیاهی	Ne	N$سیاهی+SG#*
+سیاه	AJ	N$سیاه+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+درازی	Ne	AJ$دراز+POS COP2SG#POS YEH#N$از+PREP SG COP2SG#PREP SG YEH#*
+دراز	AJ	AJ$دراز+POS#N$از+PREP SG#*
+#
+دزد	Ne	V$دزدید+IMP 2SG#*N$دزد+SG#*
+آزاد	AJ	V$آزد+SUB PRES 3SG#آخت+SUB PRES 3SG#*AJ$آزاد+POS#N$آزاد+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+اهل	Ne	AJ$اهل+POS#N$اهل+SG#*
+خانه	N		
+به	P	AJ$به+POS#N$به+SG#*
+بند	N	V$الفغد+BE IND PRES 3PL#بست+IMP 2SG#دربست+IMP 2SG#بربست+IMP 2SG#آجست+BE IND PRES 3PL#بدن+BE IND PRES 3PL#روفت+BE IND PRES 3PL#*AJ$+PREP POS COP3PL#N$بند+SG#+PREP SG COP3PL#ند+PREP SG#ناشنوائیان+PREP PL COP3PL#*
+#
+چو	ADV	V$چفت+IMP 2SG#*
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+مهر	Ne	N$مهر+SG#*
+مه	N	AJ$مه+POS#N$مه+SG#*
+کشتگه	N		
+برکنید	V	V$برکند+IND PRES 2PL#PREF IND PRES 2PL#IMP 2PL#PREF IMP 2PL#برکت‌د+IND PRES 2PL#IMP 2PL#برکرد+IND PRES 2PL#PREF IND PRES 2PL#IMP 2PL#PREF IMP 2PL#*N$کن+PREP SG COP2PL#رکن+PREP SG COP2PL#*
+#
+اخذت	RES	N$اخذ+SG PRO2SG#*
+المعیشة	RES		
+من	RES	N$من+SG#*
+بابها	RES	N$اب+PREP PL#باب+PL#*
+#
+زیر	Pe	AJ$زیر+POS#N$زیر+SG#*
+آن	PRO	N$آن+SG#*
+گلبن	N	N$گلبن+SG#*
+چون	ADV		
+سبز	AJ	AJ$سبز+POS#*
+عماری	N	N$عماری+SG#*
+شده‌ای	V	V$شد+IND 2SG PERF#اندرشد+IND 2SG PERF#برشد+IND 2SG PERF#*N$شده+SG COP2SG#*
+#
+وز	P	V$اخت+CONJ IMP 2SG#وزید+IMP 2SG#*AJ$+CONJ PREP POS#N$+CONJ PREP SG#ناشنوائیان+CONJ PREP PL#*
+مقام	N	N$مقام+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+راه	N	N$راه+SG#*
+پرسیدن	N	V$بازپرسید+INF#پرسید+INF#*
+گرفت	V	V$بازگرفت+IND PAST 3SG#برگرفت+IND PAST 3SG#فروگرفت+IND PAST 3SG#اندرگرفت+IND PAST 3SG#گرفت+IND PAST 3SG#درگرفت+IND PAST 3SG#*N$گرفت+SG#*
+#
+هم	CONJ	N$هم+SG#*
+ترازو	N	N$ترازو+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+ترازو	N	N$ترازو+SG#*
+کاست	N	V$بود+CONJ IMP 2SG#کاست+IND PAST 3SG#استید+CONJ IMP 2SG#*N$کاست+SG#کاس+SG PRO2SG#*
+کرد	V	V$کرد+IND PAST 3SG#اندرکرد+IND PAST 3SG#برکرد+IND PAST 3SG#درکرد+IND PAST 3SG#*N$کرد+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+نمودند	V	V$نمود+IND PAST 3PL#درنمود+IND PAST 3PL#*N$نمود+SG COP3PL#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+شکایت	Ne	N$شکا+SG PRO2SG#شکایت+SG#*
+آن	DET	N$آن+SG#*
+رمه	N	N$رمه+SG#*
+#
+کلما	CONJ		
+نال	Ne	V$نالید+IMP 2SG#*N$نال+SG#*
+هدی	AJe	N$هد+SG YEH#SG COP2SG#هدی+SG#*
+انکره	N		
+#
+بادبیزن	N		
+تا	P	N$تا+SG#*
+نجنبانی	N	V$جنباند+NEG IND PRES 2SG#*
+نجست	V	V$جست+NEG IND PAST 3SG#برجست+NEG IND PAST 3SG#بازجست+NEG IND PAST 3SG#*AJ$نجس+POS PRO2SG#N$نجس+SG PRO2SG#*
+#
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+حشم	N	N$حشم+SG#*
+تاثیر	Ne	N$تاثیر+SG#*
+آن	PRO	N$آن+SG#*
+محکم	AJ	AJ$محکم+POS#N$محک+SG PRO1SG#SG COP1SG#*
+بود	V	V$بود+IND PAST 3SG#IND PRES 3SG#بویید+IND PRES 3SG#*N$بود+SG#*
+#
+جسم	N	N$جسم+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+هم	CONJ	N$هم+SG#*
+زان	P	N$+PREP PL#ان+PREP SG#*
+نصیبست	V	N$نصیب+SG COP3SG#*
+ای	INT	V$روفت+SUB PRES 2SG#آجست+SUB PRES 2SG#بدن+SUB PRES 2SG#الفغد+SUB PRES 2SG#*
+پسر	N	N$پسر+SG#*
+#
+برگرفت	Ne	V$برگرفت+IND PAST 3SG#PREF IND PAST 3SG#*N$گرفت+PREP SG#*
+آتش‌زنه	N	N$آتش‌زنه+SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+آتش	N	N$آتش+SG#*
+زند	V	V$باززد+IND PRES 3SG#برزد+IND PRES 3SG#زد+IND PRES 3SG#*AJ$+PREP POS COP3PL#زند+POS#N$+PREP SG COP3PL#ناشنوائیان+PREP PL COP3PL#ند+PREP SG#زند+SG#*
+#
+یا	CONJ		
+بگذرد	V	V$برگذشت+BE IND PRES 3SG#گذشت+BE IND PRES 3SG#اندرگذشت+BE IND PRES 3SG#درگذشت+BE IND PRES 3SG#*
+یا	CONJ		
+بشکند	V	V$برشکست+BE IND PRES 3SG#اشکست+BE IND PRES 3SG#شکست+BE IND PRES 3SG#*AJ$بشک+POS COP3PL#N$بشک+SG COP3PL#شکند+PREP SG#شک+PREP SG COP3PL#*
+کشتی	N	V$کشت+IND PAST 2SG#SUB IRRP 3SG#*AJ$کش+POS PRO2SG COP2SG#POS PRO2SG YEH#N$کشتی+SG#کشت+SG YEH#SG COP2SG#کش+SG PRO2SG COP2SG#SG PRO2SG YEH#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+این	DET	N$این+SG#*
+گرداب‌ها	N	N$گرداب+PL#*
+#
+تا	P	N$تا+SG#*
+قبا	N		
+چاک	N	N$چاک+SG#*
+زدند	V	V$باززد+IND PAST 3PL#برزد+IND PAST 3PL#زد+IND PAST 3PL#*AJ$دند+PREP POS#N$دند+PREP SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+سهرش	Ne	N$سهر+SG PRO3SG#*
+اهل	Ne	AJ$اهل+POS#N$اهل+SG#*
+قبا	N		
+#
+بهر	Pe	N$بهر+SG#هر+PREP SG#*
+دم	N	V$دردمید+IMP 2SG#الفغد+IND PRES 3SG PRO1SG#بردمید+IMP 2SG#دمید+IMP 2SG#آجست+IND PRES 3SG PRO1SG#بدن+IND PRES 3SG PRO1SG#روفت+IND PRES 3SG PRO1SG#*N$دم+SG#*
+می‌کشی	V	V$کشید+MI IND PRES 2SG#کشت+MI IND PRES 2SG#برکشید+MI IND PRES 2SG#اندرکشید+MI IND PRES 2SG#درکشید+MI IND PRES 2SG#*
+گوشم	N	N$گوش+SG PRO1SG#SG COP1SG#*
+که‌ای	Ne	AJ$که+POS COP2SG#N$که+SG COP2SG#*
+پس‌مانده	AJ	N$پس‌مانده+SG#*
+هی	RES		
+پیش‌آ	N		
+#
+پیراهن	Ne		
+عمر	Ne	N$عمر+SG#*
+خود	PRO	N$خود+SG#*
+چه	DET		
+کوته	AJ	AJ$کوته+POS#*
+چه	CONJ		
+دراز	AJ	AJ$دراز+POS#N$از+PREP SG#*
+#
+به	P	AJ$به+POS#N$به+SG#*
+زیر	Ne	AJ$زیر+POS#N$زیر+SG#*
+دندان	N	N$دند+PL#دندان+SG#*
+چون	ADV		
+موم	N	V$مویید+IND PRES 1SG#*N$مو+SG COP1SG#موم+SG#*
+یافت	V	V$دریافت+IND PAST 3SG#بازیافت+IND PAST 3SG#یافت+IND PAST 3SG#اندریافت+IND PAST 3SG#*N$یافت+SG#*
+سندان	N	N$سندان+SG#سند+PL#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+فتنه	N	N$فتنه+SG#*
+سازد	V	V$درساخت+IND PRES 3SG#ساخت+IND PRES 3SG#برساخت+IND PRES 3SG#*
+خویشتن	PRO		
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+چون	ADV		
+به	P	AJ$به+POS#N$به+SG#*
+دست	Ne	N$دست+SG#*
+آرد	Ne	V$آورد+IND PRES 3SG#درآورد+IND PRES 3SG#*N$آرد+SG#*
+عزب	N	AJ$عزب+POS#N$عزب+SG#*
+#
+سراندازند	V	AJ$سرانداز+POS COP3PL#N$سرانداز+SG COP3PL#*
+اگر	CONJ		
+بی‌وقت	N	AJ$بی‌وقت+POS#*
+خوانی	V	V$بازخواند+IND PRES 2SG#خواند+IND PRES 2SG#*N$خوان+SG YEH#SG COP2SG#خو+PL YEH#PL COP2SG#*
+#
+کوتاه	AJ	AJ$کوتاه+POS#*
+کنم	V	V$اندرکرد+IND PRES 1SG#IMP 2SG PRO1SG#برکند+IND PRES 1SG#IMP 2SG PRO1SG#برکرد+IND PRES 1SG#IMP 2SG PRO1SG#الفغد+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#درکند+IND PRES 1SG#IMP 2SG PRO1SG#کرد+IND PRES 1SG#IMP 2SG PRO1SG#درکرد+IND PRES 1SG#IMP 2SG PRO1SG#آجست+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#کند+IND PRES 1SG#IMP 2SG PRO1SG#بدن+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#روفت+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#*N$کن+SG PRO1SG#SG COP1SG#*
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+نیست	V	V$ایستاد+NEG IMP 2SG#ایستید+NEG IMP 2SG#بازایستاد+NEG IMP 2SG#استید+NEG IMP 2SG#بود+NEG IMP 2SG#*N$نیست+SG#نی+SG COP3SG#*
+بازی	N	V$باخت+IND PRES 2SG#اخت+BE IND PRES 2SG#بازید+IND PRES 2SG#درباخت+IND PRES 2SG#آزد+BE IND PRES 2SG#آخت+BE IND PRES 2SG#*AJ$باز+POS COP2SG#POS YEH#N$از+PREP SG COP2SG#PREP SG YEH#باز+SG YEH#SG COP2SG#*
+#
+هر	DET	N$هر+SG#*
+یک	N		
+شده	V	V$شد+PP#اندرشد+PP#برشد+PP#*N$شده+SG#*
+چاره‌ساز	AJ	AJ$چاره‌ساز+POS#N$چاره‌ساز+SG#*
+با	P	V$بایست+IMP 2SG#برآمد+BE IMP 2SG#بازآمد+BE IMP 2SG#اندرآمد+BE IMP 2SG#آمد+BE IMP 2SG#درآمد+BE IMP 2SG#*N$با+SG#*
+او	PRO	V$روفت+PREF IMP 2SG#آجست+PREF IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*
+#
+وآفتاب	Ne	N$آفتاب+CONJ SG#*
+اوفتاده	N	V$اوفتاد+PP#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+حملش	N	N$حمل+SG PRO3SG#*
+#
+زمین	N	N$زمین+SG#مین+PREP SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+گذرگاه	Ne	N$گذرگاه+SG#*
+او	PRO	V$روفت+PREF IMP 2SG#آجست+PREF IMP 2SG#بدن+PREF IMP 2SG#الفغد+PREF IMP 2SG#*
+ساختی	V	V$درساخت+IND PAST 2SG#SUB IRRP 3SG#ساخت+IND PAST 2SG#SUB IRRP 3SG#برساخت+IND PAST 2SG#SUB IRRP 3SG#*N$ساخت+SG YEH#SG COP2SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+نیروی	Ne	N$نیرو+SG EZ#SG COP2SG#*
+دل	N	N$دل+SG#*
+باشد	V	V$بود+IND PRES 3SG#باشید+IND PRES 3SG#*AJ$اشد+PREP POS#N$اشد+PREP SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+نور	Ne	N$نور+SG#*
+مغز	N	N$مغز+SG#*
+#
+سزاوار	AJe	AJ$سزاوار+POS#*
+گیتی	N	N$گیتی+SG#*
+فروزی	N	V$فروخت+IND PRES 2SG#برفروخت+IND PRES 2SG#*N$فروز+SG YEH#SG COP2SG#*
+بود	V	V$بود+IND PAST 3SG#IND PRES 3SG#بویید+IND PRES 3SG#*N$بود+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+آن	PRO	N$آن+SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+ناسفته	N		
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+کس	N	N$کس+SG#*
+نسفت	V	V$سفت+NEG IND PAST 3SG#*
+#
+روی	Pe	V$دررفت+IND PRES 2SG#رفت+IND PRES 2SG#رست+IND PRES 2SG#IMP 2SG#رویید+IND PRES 2SG#IMP 2SG#بررفت+IND PRES 2SG#بررست+IND PRES 2SG#IMP 2SG#*N$رو+SG EZ#SG COP2SG#روی+SG#*
+تو	PRO	N$تو+SG#*
+پروانه	Ne	V$وانهاد+PREF IMP 2SG#*N$پروانه+SG#*
+خورشید	N	N$خورشید+SG#خور+SG PRO3SG COP2PL#خورش+SG COP2PL#*
+کش	N	V$کشید+IMP 2SG#برکشید+IMP 2SG#اندرکشید+IMP 2SG#الفغد+CONJ IMP 2SG PRO3SG#کشت+IMP 2SG#درکشید+IMP 2SG#آجست+CONJ IMP 2SG PRO3SG#بدن+CONJ IMP 2SG PRO3SG#روفت+CONJ IMP 2SG PRO3SG#*AJ$کش+POS#N$ک+SG PRO3SG#کش+SG#*
+#
+بیش	AJ		
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+این	DET	N$این+SG#*
+رخصت	N	N$رخصت+SG#*
+مده	V	V$برداد+NEG IMP 2SG#بازداد+NEG IMP 2SG#داد+NEG IMP 2SG#درداد+NEG IMP 2SG#*N$مده+SG#*
+طبع	Ne	N$طبع+SG#*
+سخن	Ne	N$سخن+SG#*
+پرداز	AJ	V$پرداخت+IMP 2SG#*N$پرداز+SG#*
+را	POSTP	AJ$+POS POSTP#N$+SG POSTP#ناشنوائیان+PL POSTP#را+SG#*
+#
+مقر	N	AJ$مقر+POS#N$مقر+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+مأمن	Ne	N$مأمن+SG#*
+امن	AJ	AJ$امن+POS#N$امن+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+امان	Ne	N$ام+PL#امان+SG#*
+باد	N	V$بایست+IND PRES 3SG#برآمد+BE IND PRES 3SG#الفغد+BE SUB PRES 3SG#اندرآمد+BE IND PRES 3SG#آمد+BE IND PRES 3SG#بازآمد+BE IND PRES 3SG#آجست+BE SUB PRES 3SG#درآمد+BE IND PRES 3SG#بدن+BE SUB PRES 3SG#روفت+BE SUB PRES 3SG#*N$باد+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+سایه‌ات	Ne		
+آسمان	Ne	N$آسم+PL#آسمان+SG#*
+پایه	AJe	N$پایه+SG#*
+جوست	V	N$جو+SG COP3SG#*
+#
+نوباوه‌ی	Ne	N$نوباوه+SG EZ#SG COP2SG#*
+باغ	Ne	N$اغ+PREP SG#باغ+SG#*
+شیرخوار	AJ	N$شیرخوار+SG#*
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+#
+صبحدمی	N	N$صبحدم+SG YEH#SG COP2SG#*
+جلوه	N	N$جلوه+SG#*
+نما	V	V$نمود+IMP 2SG#درنمود+IMP 2SG#*N$نما+SG#*
+همچو	ADV		
+مهر	N	N$مهر+SG#*
+#
+جهان	N	V$جهاند+IMP 2SG#*AJ$جهان+POS#N$جهان+SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+گنج	Ne	V$گنجید+IMP 2SG#*N$گنج+SG#*
+آسایش	Ne	V$آسود+IMP 2SG PRO3SG#آسایید+IMP 2SG PRO3SG#برآسود+IMP 2SG PRO3SG#*N$آسایش+SG#*
+جنان	N	N$جن+PL#جنان+SG#جنت+PL#*
+شد	V	V$شد+IND PAST 3SG#اندرشد+IND PAST 3SG#برشد+IND PAST 3SG#*
+#
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+لطفت	N	N$لطف+SG PRO2SG#*
+پرتوی	N	AJ$پرتوی+POS#N$پرتو+SG EZ#SG COP2SG#*
+دارم	V	V$داشت+IND PRES 1SG#IMP 2SG PRO1SG#بازداشت+IND PRES 1SG#IMP 2SG PRO1SG#برداشت+IND PRES 1SG#IMP 2SG PRO1SG#*N$دار+SG PRO1SG#SG COP1SG#*
+گدایی	N	N$گدایی+SG#گدا+SG YEH#گدای+SG EZ#SG COP2SG#*
+#
+بیان	Ne	N$یان+PREP SG#بیان+SG#*
+رنج	Ne	V$رنجید+IMP 2SG#*N$رنج+SG#*
+عشق	N	N$عشق+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+محنت	Ne	N$محنت+SG#PL PRO2SG#محن+SG PRO2SG#*
+عشق	N	N$عشق+SG#*
+#
+که	CONJ	AJ$+POS CONJ#که+POS#N$+SG CONJ#ناشنوائیان+PL CONJ#که+SG#*
+بی	P	V$روفت+BE IND PRES 2SG#آجست+BE IND PRES 2SG#بدن+BE IND PRES 2SG#الفغد+BE IND PRES 2SG#*AJ$+PREP POS YEH#PREP POS COP2SG#N$+PREP SG COP2SG#PREP SG YEH#ناشنوائیان+PREP PL YEH#PREP PL COP2SG#*
+چون	N		
+است	V	V$بود+IMP 2SG#استید+IMP 2SG#*AJ$است+POS#N$است+SG#اس+SG PRO2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+بی‌انباز	ADV		
+آن	DET	N$آن+SG#*
+یکتای	Ne		
+بی‌همتا	AJ	AJ$بی‌همتا+POS#*
+#
+جرعه‌ای	N	N$جرعه+SG COP2SG#*
+دادش	N	V$برداد+IND PAST 3SG PRO3SG#بازداد+IND PAST 3SG PRO3SG#داد+IND PAST 3SG PRO3SG#درداد+IND PAST 3SG PRO3SG#*N$داد+SG PRO3SG#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+شراب	RES	N$شراب+SG#*
+طهور	RES	AJ$طهور+POS#N$طهور+SG#*
+#
+ندارم	V	V$داشت+NEG IND PRES 1SG#NEG IMP 2SG PRO1SG#بازداشت+NEG IND PRES 1SG#NEG IMP 2SG PRO1SG#برداشت+NEG IND PRES 1SG#NEG IMP 2SG PRO1SG#*AJ$ندار+POS COP1SG#POS PRO1SG#N$ندار+SG PRO1SG#SG COP1SG#*
+هوش	N	N$هوش+SG#*
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+سر	Ne	AJ$سر+POS#N$سر+SG#*
+ای	INT	V$روفت+SUB PRES 2SG#آجست+SUB PRES 2SG#بدن+SUB PRES 2SG#الفغد+SUB PRES 2SG#*
+خوشا	V		
+دوش	N	V$دوشید+IMP 2SG#*N$دوش+SG#*
+#
+وا	N	V$اندرآمد+CONJ IMP 2SG#آمد+CONJ IMP 2SG#درآمد+CONJ IMP 2SG#برآمد+CONJ IMP 2SG#بازآمد+CONJ IMP 2SG#*AJ$وا+POS#*
+فریادا	N		
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+عشق	N	N$عشق+SG#*
+وا	N	V$اندرآمد+CONJ IMP 2SG#آمد+CONJ IMP 2SG#درآمد+CONJ IMP 2SG#برآمد+CONJ IMP 2SG#بازآمد+CONJ IMP 2SG#*AJ$وا+POS#*
+فریادا	N		
+#
+امن	AJ	AJ$امن+POS#N$امن+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+راحت	AJ	AJ$راحت+POS#N$راح+SG PRO2SG#راحت+SG#*
+به	P	AJ$به+POS#N$به+SG#*
+ذلت	N	N$ذلت+SG#ذل+SG PRO2SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+درویشیست	N	AJ$درویشی+POS COP3SG#درویش+POS YEH COP3SG#N$درویشی+SG COP3SG#درو+SG PRO3SG YEH COP3SG#درویش+SG YEH COP3SG#*
+#
+شیفته‌ی	N		
+رخ	Ne	V$رخید+IMP 2SG#*N$رخ+SG#*
+بتان	N	V$روفت+BE IMP 2SG PRO2PL#آجست+BE IMP 2SG PRO2PL#بدن+BE IMP 2SG PRO2PL#الفغد+BE IMP 2SG PRO2PL#*AJ$+PREP POS PRO2PL#N$+PREP SG PRO2PL#ناشنوائیان+PREP PL PRO2PL#بت+PL#ت+PREP PL#*
+باز	ADV	V$باخت+IMP 2SG#اخت+BE IMP 2SG#بازید+IMP 2SG#درباخت+IMP 2SG#آزد+BE IMP 2SG#آخت+BE IMP 2SG#*AJ$باز+POS#N$از+PREP SG#باز+SG#*
+کی	ADV	V$روفت+CONJ IND PRES 2SG#آجست+CONJ IND PRES 2SG#بدن+CONJ IND PRES 2SG#الفغد+CONJ IND PRES 2SG#*AJ$کی+POS#N$ک+SG YEH#SG COP2SG#کی+SG#*
+آید	V	V$اندرآمد+IND PRES 2PL#IMP 2PL#IND PRES 3SG#آمد+IND PRES 2PL#IMP 2PL#IND PRES 3SG#درآمد+IND PRES 2PL#IMP 2PL#برآمد+IND PRES 2PL#IMP 2PL#IND PRES 3SG#بازآمد+IND PRES 2PL#IMP 2PL#*N$آ+SG COP2PL#*
+از	P	V$اخت+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#از+SG#*
+سخن	N	N$سخن+SG#*
+#
+چون	CONJ		
+خداوند	N	N$خداوند+SG#*
+کنم	V	V$اندرکرد+IND PRES 1SG#IMP 2SG PRO1SG#برکند+IND PRES 1SG#IMP 2SG PRO1SG#برکرد+IND PRES 1SG#IMP 2SG PRO1SG#الفغد+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#درکند+IND PRES 1SG#IMP 2SG PRO1SG#کرد+IND PRES 1SG#IMP 2SG PRO1SG#درکرد+IND PRES 1SG#IMP 2SG PRO1SG#آجست+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#کند+IND PRES 1SG#IMP 2SG PRO1SG#بدن+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#روفت+CONJ NEG IND PRES 1SG#CONJ NEG IMP 2SG PRO1SG#*N$کن+SG PRO1SG#SG COP1SG#*
+روی	N	V$دررفت+IND PRES 2SG#رفت+IND PRES 2SG#رست+IND PRES 2SG#IMP 2SG#رویید+IND PRES 2SG#IMP 2SG#بررفت+IND PRES 2SG#بررست+IND PRES 2SG#IMP 2SG#*N$رو+SG EZ#SG COP2SG#روی+SG#*
+و	CONJ	V$روفت+CONJ IMP 2SG#آجست+CONJ IMP 2SG#بدن+CONJ IMP 2SG#الفغد+CONJ IMP 2SG#*AJ$+CONJ POS#N$+CONJ SG#ناشنوائیان+CONJ PL#*
+بس	AJ	V$بسید+IMP 2SG#*
+#
+جمله‌ی	Ne	N$جمله+SG EZ#SG COP2SG#*
+آن	DET	N$آن+SG#*
+شیر	N	N$شیر+SG#*
+ز	Pe	AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#*
+آبش	N	V$آبشت+IMP 2SG#*N$آبش+SG#آب+SG PRO3SG#*
+بسوخت	V	V$سوخت+BE IND PAST 3SG#*N$سوخت+PREP SG#سوخ+PREP SG PRO2SG#*
+#
+زین	P	N$ین+PREP SG#زین+SG#*
+غم	N	N$غم+SG#*
+همه	PRO		
+در	P	V$درید+IMP 2SG#*AJ$+PREP POS#N$+PREP SG#ناشنوائیان+PREP PL#در+SG#*
+گداز	N	V$گداخت+IMP 2SG#*N$گداز+SG#*
+گشتند	V	V$بازگشت+IND PAST 3PL#گشت+IND PAST 3PL#برگشت+IND PAST 3PL#*AJ$گش+POS PRO2SG COP3PL#N$گشت+SG COP3PL#گش+SG PRO2SG COP3PL#*
+#
+من	PRO	N$من+SG#*
+بدو	P	V$دوید+BE IMP 2SG#*N$دو+PREP SG#*
+عرضه	N	N$عرضه+SG#*
+کرده	V	V$کرد+PP#اندرکرد+PP#برکرد+PP#درکرد+PP#*N$کرده+SG#*
+نامه	Ne	N$نامه+SG#*
+خویش	PRO	N$خویش+SG#خو+SG PRO3SG#*
+#
