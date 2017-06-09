@@ -1,0 +1,4204 @@
+آ	INT$آ+
+آت	INT$آ+ PRO2SG
+آحاد	PRO$آحاد+SG
+آحادست	PRO$آحاد+SG COP3SG
+آحادم	PRO$آحاد+SG PRO1SG#SG COP1SG
+آحادی	PRO$آحاد+SG COP2SG#SG YEH
+آحادیم	PRO$آحاد+SG YEH COP1SG#SG COP1PL
+آخ	INT$آخ+
+آخت	INT$آخ+ PRO2SG
+آخر	ADV$آخر+
+آخرالامر	ADV$آخرالامر+
+آخرالامرم	ADV$آخرالامر+ COP1SG
+آخرست	ADV$آخر+ COP3SG
+آخرم	ADV$آخر+ COP1SG
+آخرند	ADV$آخر+ COP3PL
+آخری	ADV$آخر+ COP2SG
+آرام	ADV$آرام+
+آرامست	ADV$آرام+ COP3SG
+آرامم	ADV$آرام+ COP1SG
+آرامی	ADV$آرام+ COP2SG
+آرامید	ADV$آرام+ COP2PL
+آزاد	ADV$آزاد+
+آزادست	ADV$آزاد+ COP3SG
+آزادم	ADV$آزاد+ COP1SG
+آزادند	ADV$آزاد+ COP3PL
+آزادوار	ADV$آزادوار+
+آزادی	ADV$آزاد+ COP2SG
+آزادیم	ADV$آزاد+ COP1PL
+آزمایشی	ADV$آزمایشی+
+آسوده	ADV$آسوده+
+آسوده‌ام	ADV$آسوده+ COP1SG
+آسوده‌اند	ADV$آسوده+ COP3PL
+آسوده‌ای	ADV$آسوده+ COP2SG
+آسوده‌ایم	ADV$آسوده+ COP1PL
+آسوده‌ست	ADV$آسوده+ COP3SG
+آسوده‌ی	ADV$آسوده+ COP2SG
+آش	INT$آ+ PRO3SG
+آشکار	ADV$آشکار+
+آشکارا	ADV$آشکارا+
+آشکاراست	ADV$آشکارا+ COP3SG
+آشکارای	ADV$آشکارا+ COP2SG
+آشکارست	ADV$آشکار+ COP3SG
+آشکارستی	ADV$آشکار+ COP2SG
+آشکارم	ADV$آشکار+ COP1SG
+آشکاره	ADV$آشکاره+
+آشکاره‌ای	ADV$آشکاره+ COP2SG
+آشکاری	ADV$آشکار+ COP2SG
+آشکاریم	ADV$آشکار+ COP1PL
+آفرین	INT$آفرین+
+آفرینت	INT$آفرین+ PRO2SG
+آفرینش	INT$آفرین+ PRO3SG
+آفرینم	INT$آفرین+ PRO1SG
+آلو	INT$آلو+
+آمین	INT$آمین+
+آمینش	INT$آمین+ PRO3SG
+آن	PRO$آن+SG
+آنا	ADV$آنا+
+آنام	ADV$آنا+ COP1SG
+آنان	PRO$آن+PL*آنان+SG
+آنانند	PRO$آن+PL COP3PL*آنان+SG COP3PL
+آنانکه	PRO$آن+PL CONJ*آنان+SG CONJ
+آنانی	PRO$آن+PL YEH#PL COP2SG*آنان+SG COP2SG#SG YEH
+آنت	PRO$آن+SG PRO2SG
+آنجا	ADV$آنجا+
+آنجاست	ADV$آنجا+ COP3SG
+آنجام	ADV$آنجا+ COP1SG
+آنجای	ADV$آنجا+ COP2SG
+آنرا	PRO$آن+SG POSTP
+آنست	PRO$آن+SG COP3SG
+آنستم	PRO$آن+SG COP1SG
+آنستکه	PRO$آن+SG COP3SG CONJ
+آنستی	PRO$آن+SG COP2SG
+آنش	PRO$آن+SG PRO3SG
+آنشست	PRO$آن+SG PRO3SG COP3SG
+آنشی	PRO$آن+SG PRO3SG COP2SG#SG PRO3SG YEH
+آنم	PRO$آن+SG PRO1SG#SG COP1SG
+آنند	PRO$آن+SG COP3PL
+آنها	PRO$آن+PL*آنها+SG
+آنهات	PRO$آن+PL PRO2SG*آنها+SG PRO2SG
+آنهاست	PRO$آن+PL COP3SG*آنها+SG COP3SG
+آنهاکه	PRO$آن+PL CONJ*آنها+SG CONJ
+آنهایی	PRO$آن+PL YEH*آنها+SG YEH
+آنهم	ADV$آنهم+
+آنهمه	PRO$آنهمه+SG&ADV$آنهمه+
+آنور	ADV$آنور+
+آنوقت	ADV$آنوقت+
+آنچنان	PRO$آنچنان+SG&ADV$آنچنان+
+آنچنانت	PRO$آنچنان+SG PRO2SG
+آنچنانست	PRO$آنچنان+SG COP3SG&ADV$آنچنان+ COP3SG
+آنچنانش	PRO$آنچنان+SG PRO3SG
+آنچنانم	PRO$آنچنان+SG PRO1SG#SG COP1SG&ADV$آنچنان+ COP1SG
+آنچنانکه	PRO$آنچنان+SG CONJ
+آنچنانی	PRO$آنچنان+SG COP2SG#SG YEH&ADV$آنچنان+ COP2SG
+آنک	PRO$آنک+SG
+آنکت	PRO$آنک+SG PRO2SG
+آنکش	PRO$آنک+SG PRO3SG
+آنکشم	PRO$آنک+SG PRO3SG COP1SG
+آنکه	PRO$آنکه+SG*آن+SG CONJ
+آنکه‌ت	PRO$آنکه+SG PRO2SG
+آنکه‌م	PRO$آنکه+SG PRO1SG#SG COP1SG
+آنگاه	ADV$آنگاه+
+آنگه	ADV$آنگه+
+آنگونه	ADV$آنگونه+
+آنی	PRO$آن+SG COP2SG#SG YEH
+آنید	PRO$آن+SG COP2PL
+آنیم	PRO$آن+SG YEH COP1SG#SG COP1PL
+آنیی	PRO$آن+SG YEH COP2SG
+آن‌ام	PRO$آن+SG COP1SG
+آن‌سان	ADV$آن‌سان+
+آن‌ست	PRO$آن+SG COP3SG
+آن‌قدر	ADV$آن‌قدر+
+آن‌ها	PRO$آن+PL
+آن‌های	PRO$آن+PL EZ#PL COP2SG
+آن‌که	PRO$آن‌که+SG
+آن‌گاه	ADV$آن‌گاه+
+آه	INT$آه+
+آهت	INT$آه+ PRO2SG
+آهسته	ADV$آهسته+
+آهسته‌ای	ADV$آهسته+ COP2SG
+آهسته‌ایم	ADV$آهسته+ COP1PL
+آهسته‌ست	ADV$آهسته+ COP3SG
+آهش	INT$آه+ PRO3SG
+آهشان	INT$آه+ PRO3PL
+آهم	INT$آه+ PRO1SG
+آوخ	INT$آوخ+
+آوری	ADV$آوری+
+آوریست	ADV$آوری+ COP3SG
+آوریم	ADV$آوری+ COP1SG
+آوه	INT$آوه+
+آی	INT$آی+
+آیت	INT$آی+ PRO2SG
+آیم	INT$آی+ PRO1SG
+آییم	INT$آی+ PRO1SG
+ابتدا	ADV$ابتدا+
+ابتداست	ADV$ابتدا+ COP3SG
+ابتدای	ADV$ابتدا+ COP2SG
+ابدا	ADV$ابدا+
+ابدالدهر	ADV$ابدالدهر+
+ابلهانه	ADV$ابلهانه+
+ابلیسانه	ADV$ابلیسانه+
+اتصالا	ADV$اتصالا+
+اتفاقا	ADV$اتفاقا+
+اتفاقی	ADV$اتفاقی+
+احد	PRO$احد+SG
+احدست	PRO$احد+SG COP3SG
+احدستی	PRO$احد+SG COP2SG
+احدم	PRO$احد+SG PRO1SG#SG COP1SG
+احدی	PRO$احد+SG COP2SG#SG YEH
+احدیست	PRO$احد+SG YEH COP3SG
+احسن	INT$احسن+
+احسنت	INT$احسن+ PRO2SG
+احقر	PRO$احقر+SG
+احمقانه	ADV$احمقانه+
+احیانا	ADV$احیانا+
+اخ	INT$اخ+
+اخشم	INT$اخش+ PRO1SG
+ارزان	ADV$ارزان+
+ارزانست	ADV$ارزان+ COP3SG
+ارزانم	ADV$ارزان+ COP1SG
+ارزانند	ADV$ارزان+ COP3PL
+ارزانی	ADV$ارزان+ COP2SG
+ارزانیم	ADV$ارزان+ COP1PL
+از	P$از+
+ازآرام	ADV$آرام+PREP 
+ازآن	PRO$آن+PREP SG
+ازآنک	PRO$آنک+PREP SG
+ازآنکه	PRO$آنکه+PREP SG*آن+PREP SG CONJ
+ازان	NUM$ان+PREP SG
+ازانت	NUM$ان+PREP SG PRO2SG
+ازانش	NUM$ان+PREP SG PRO3SG
+ازانم	NUM$ان+PREP SG COP1SG#PREP SG PRO1SG
+ازانکه	NUM$ان+PREP SG CONJ
+ازانی	NUM$ان+PREP SG COP2SG#PREP SG YEH
+ازاو	PRO$او+PREP SG
+ازایدر	ADV$ایدر+PREP 
+ازایشان	PRO$ایشان+PREP SG
+ازاین	PRO$این+PREP SG
+ازاینها	PRO$اینها+PREP SG*این+PREP PL
+ازبر	ADV$ازبر+
+ازبرستم	ADV$ازبر+ COP1SG
+ازبرم	ADV$ازبر+ COP1SG
+ازبس	ADV$بس+PREP 
+ازبن	ADV$ازبن+
+ازبنه	ADV$ازبنه+
+ازبیش	ADV$بیش+PREP 
+ازتنگ	ADV$تنگ+PREP 
+ازتو	PRO$تو+PREP SG
+ازخویش	PRO$خویش+PREP SG
+ازدم	ADV$ازدم+
+ازسه	NUM$سه+PREP SG
+ازشان	P$از+ PRO3PL
+ازشما	PRO$شما+PREP SG
+ازلا	NUM$لا+PREP SG
+ازم	P$از+ PRO1SG
+ازما	PRO$ما+PREP SG
+ازمان	P$از+ PRO1PL
+ازمایش	PRO$ما+PREP SG PRO3SG
+ازمن	PRO$من+PREP SG
+ازمنت	PRO$من+PREP SG PRO2SG
+ازنخست	NUM$نخست+PREP SG&ADV$نخست+PREP 
+ازنو	ADV$ازنو+
+ازنیک	ADV$نیک+PREP 
+ازپر	ADV$پر+PREP 
+ازپیش	ADV$پیش+PREP 
+ازچه	PRO$چه+PREP SG&ADV$چه+PREP 
+ازکسی	PRO$کس+PREP SG COP2SG#PREP SG YEH
+ازکه	PRO$که+PREP SG
+ازکیها	PRO$کی+PREP PL
+ازگاه	ADV$گاه+PREP 
+ازیراک	ADV$ازیراک+
+اساسا	ADV$اساسا+
+استادانه	ADV$استادانه+
+استغفرالله	INT$استغفرالله+
+استوار	ADV$استوار+
+استوارست	ADV$استوار+ COP3SG
+استوارم	ADV$استوار+ COP1SG
+استواری	ADV$استوار+ COP2SG
+اسر	PRO$اسر+SG
+اسرها	PRO$اسر+PL
+اسری	PRO$اسر+SG COP2SG#SG YEH
+اسفا	INT$اسفا+
+اسما	ADV$اسما+
+اسماست	ADV$اسما+ COP3SG
+اسماستی	ADV$اسما+ COP2SG
+اسمای	ADV$اسما+ COP2SG
+اشتباه	ADV$اشتباه+
+اشتباهی	ADV$اشتباهی+
+اشتراکی	ADV$اشتراکی+
+اصلا	ADV$اصلا+
+اطیب	ADV$اطیب+
+اعتباراست	ADV$اعتبارا+ COP3SG
+اعلا	ADV$اعلا+
+اعلاء	ADV$اعلاء+
+اعلاست	ADV$اعلا+ COP3SG
+اعلام	ADV$اعلا+ COP1SG
+اعلای	ADV$اعلا+ COP2SG
+اعلی	ADV$اعلی+
+اغلب	ADV$اغلب+
+اف	INT$اف+
+افت	INT$اف+ PRO2SG
+افتان	INT$اف+ PRO2PL
+افتخارا	ADV$افتخارا+
+افزون	ADV$افزون+
+افزونست	ADV$افزون+ COP3SG
+افزونم	ADV$افزون+ COP1SG
+افزونی	ADV$افزون+ COP2SG
+افزونید	ADV$افزون+ COP2PL
+افزونیم	ADV$افزون+ COP1PL
+افسوس	INT$افسوس+
+افسوستان	INT$افسوس+ PRO2PL
+افسوسشان	INT$افسوس+ PRO3PL
+افسوسم	INT$افسوس+ PRO1SG
+افشان	INT$اف+ PRO3PL
+اقلام	ADV$اقلا+ COP1SG
+الا	INT$الا+
+الات	INT$الا+ PRO2SG
+الام	INT$الا+ PRO1SG
+الامان	INT$الا+ PRO1PL*الامان+
+الامانش	INT$الامان+ PRO3SG
+الان	ADV$الان+
+الانی	ADV$الان+ COP2SG
+الایش	INT$الا+ PRO3SG
+الایم	INT$الا+ PRO1SG
+الایمان	INT$الا+ PRO1PL
+البته	ADV$البته+
+الحال	ADV$الحال+
+الحذار	INT$الحذار+
+الحذر	INT$الحذر+
+الحق	ADV$الحق+
+الحقی	ADV$الحق+ COP2SG
+الساعه	ADV$الساعه+
+العطش	INT$العطش+
+الغیاث	INT$الغیاث+
+الف‌وار	ADV$الف‌وار+
+الف‌واری	ADV$الف‌وار+ COP2SG
+المراد	ADV$المراد+
+المنه‌لله	INT$المنه‌لله+
+الهی	INT$الهی+
+الهیت	INT$الهی+ PRO2SG
+الهیش	INT$الهی+ PRO3SG
+الهیم	INT$الهی+ PRO1SG
+الهی‌ش	INT$الهی+ PRO3SG
+الوداع	INT$الوداع+
+الکی	ADV$الکی+
+امان	INT$امان+
+امانت	INT$امان+ PRO2SG
+امانش	INT$امان+ PRO3SG
+امانشان	INT$امان+ PRO3PL
+امانم	INT$امان+ PRO1SG
+امانه	ADV$امانه+
+امروز	ADV$امروز+
+امروزست	ADV$امروز+ COP3SG
+امروزم	ADV$امروز+ COP1SG
+امروزند	ADV$امروز+ COP3PL
+امروزه	ADV$امروزه+
+امروزی	ADV$امروز+ COP2SG
+امروزیم	ADV$امروز+ COP1PL
+امسال	ADV$امسال+
+امسالست	ADV$امسال+ COP3SG
+امساله‌ی	ADV$امساله+ COP2SG
+امسالی	ADV$امسال+ COP2SG*امسالی+
+امشب	ADV$امشب+
+امشبست	ADV$امشب+ COP3SG
+امشبم	ADV$امشب+ COP1SG
+امشبی	ADV$امشب+ COP2SG
+ان	NUM$ان+SG
+انا	PRO$انا+SG
+انائی	PRO$انا+SG YEH
+انات	PRO$انا+SG PRO2SG
+انام	PRO$انا+SG PRO1SG#SG COP1SG
+انانی	NUM$ان+PL YEH#PL COP2SG
+انای	PRO$انا+SG COP2SG#SG EZ
+انایی	PRO$انا+SG YEH
+انت	NUM$ان+SG PRO2SG
+انتم	NUM$ان+SG PRO2SG COP1SG
+اند	NUM$اند+SG&PRO$اند+SG
+اندر	P$اندر+
+اندرا	NUM$اند+SG POSTP&PRO$اند+SG POSTP
+اندران	NUM$ان+PREP SG
+اندراین	PRO$این+PREP SG
+اندرت	P$اندر+ PRO2SG
+اندرده	NUM$ده+PREP SG
+اندردگر	PRO$دگر+PREP SG
+اندرش	P$اندر+ PRO3SG
+اندرشب	ADV$شب+PREP 
+اندرم	P$اندر+ PRO1SG
+اندرنهان	ADV$نهان+PREP 
+اندرکشیده	ADV$کشیده+PREP 
+اندرگاه	ADV$گاه+PREP 
+اندرگشاد	ADV$گشاد+PREP 
+اندستی	NUM$اند+SG COP2SG&PRO$اند+SG COP2SG
+اندش	NUM$اند+SG PRO3SG&PRO$اند+SG PRO3SG
+اندم	NUM$اند+SG PRO1SG#SG COP1SG&PRO$اند+SG PRO1SG#SG COP1SG
+اندمان	NUM$اند+SG PRO1PL&PRO$اند+SG PRO1PL
+اندها	NUM$اند+PL&PRO$اند+PL
+اندوخته	ADV$اندوخته+
+اندوخته‌اند	ADV$اندوخته+ COP3PL
+اندوخته‌ای	ADV$اندوخته+ COP2SG
+اندوخته‌ایم	ADV$اندوخته+ COP1PL
+اندوخته‌ی	ADV$اندوخته+ COP2SG
+اندک	ADV$اندک+
+اندکست	ADV$اندک+ COP3SG
+اندکی	ADV$اندکی+*اندک+ COP2SG
+اندکیست	ADV$اندکی+ COP3SG
+اندکیم	ADV$اندکی+ COP1SG*اندک+ COP1PL
+اندکی‌ست	ADV$اندکی+ COP3SG
+اندک‌اندک	ADV$اندک‌اندک+
+اندک‌ست	ADV$اندک+ COP3SG
+اندی	NUM$اندی+SG*اند+SG COP2SG#SG YEH&PRO$اند+SG COP2SG#SG YEH
+اندیان	NUM$اندی+PL
+اندید	NUM$اند+SG COP2PL&PRO$اند+SG COP2PL
+اندیش	NUM$اندی+SG PRO3SG
+اندیشان	NUM$اندی+SG PRO3PL
+اندیشانست	NUM$اندی+SG PRO3PL COP3SG
+اندیشست	NUM$اندی+SG PRO3SG COP3SG
+اندیشم	NUM$اندی+SG PRO3SG COP1SG
+اندیشند	NUM$اندی+SG PRO3SG COP3PL
+اندیشی	NUM$اندی+SG PRO3SG COP2SG#SG PRO3SG YEH
+اندیشید	NUM$اندی+SG PRO3SG COP2PL
+اندیشیست	NUM$اندی+SG PRO3SG YEH COP3SG
+اندیشیم	NUM$اندی+SG PRO3SG YEH COP1SG#SG PRO3SG COP1PL
+اندیش‌ست	NUM$اندی+SG PRO3SG COP3SG
+انست	NUM$ان+SG COP3SG
+انشی	NUM$ان+SG PRO3SG COP2SG#SG PRO3SG YEH
+انند	NUM$ان+SG COP3PL
+انها	NUM$ان+PL
+انکه	NUM$ان+SG CONJ
+انی	NUM$ان+SG COP2SG#SG YEH
+اه	INT$اه+
+اهم	INT$اه+ PRO1SG
+او	INT$او+&PRO$او+SG
+اوئی	PRO$او+SG YEH
+اوئیم	PRO$او+SG YEH COP1SG
+اوان	PRO$او+PL
+اوانی	PRO$او+PL YEH#PL COP2SG
+اوانی‌ست	PRO$او+PL YEH COP3SG
+اوت	INT$او+ PRO2SG&PRO$او+SG PRO2SG
+اوتان	INT$او+ PRO2PL&PRO$او+SG PRO2PL
+اوتی	PRO$او+SG PRO2SG COP2SG#SG PRO2SG YEH
+اورا	PRO$او+SG POSTP
+اوست	PRO$او+SG COP3SG
+اوستی	PRO$او+SG COP2SG
+اوش	INT$او+ PRO3SG&PRO$او+SG PRO3SG
+اوشان	INT$او+ PRO3PL&PRO$اوشان+SG*او+SG PRO3PL
+اوشانی	PRO$اوشان+SG COP2SG#SG YEH*او+SG PRO3PL YEH#SG PRO3PL COP2SG
+اول	ADV$اول+
+اولا	ADV$اولا+
+اولاست	ADV$اولا+ COP3SG
+اولست	ADV$اول+ COP3SG
+اولم	ADV$اول+ COP1SG
+اولی	NUM$اولی+SG&ADV$اول+ COP2SG
+اولیان	NUM$اولی+PL
+اولیت	NUM$اولی+SG PRO2SG
+اولیست	NUM$اولی+SG COP3SG
+اولیم	NUM$اولی+SG PRO1SG#SG COP1SG&ADV$اول+ COP1PL
+اولی‌ست	NUM$اولی+SG COP3SG
+اوم	INT$او+ PRO1SG&PRO$او+SG PRO1SG#SG COP1SG
+اومان	INT$او+ PRO1PL&PRO$او+SG PRO1PL
+اومی	PRO$او+SG PRO1SG COP2SG#SG PRO1SG YEH
+اومید	PRO$او+SG PRO1SG COP2PL
+اوه	INT$اوه+
+اوها	PRO$او+PL
+اوهام	PRO$او+PL PRO1SG#PL COP1SG
+اوهامی	PRO$او+PL PRO1SG YEH#PL PRO1SG COP2SG
+اوی	PRO$او+SG COP2SG#SG EZ*اوی+SG
+اویان	PRO$اوی+PL
+اویت	INT$او+ PRO2SG&PRO$او+SG PRO2SG*اوی+SG PRO2SG
+اویست	PRO$اوی+SG COP3SG
+اویستی	PRO$اوی+SG COP2SG
+اویش	INT$او+ PRO3SG&PRO$او+SG PRO3SG*اوی+SG PRO3SG
+اویم	INT$او+ PRO1SG&PRO$او+SG PRO1SG#SG COP1PL*اوی+SG PRO1SG#SG COP1SG
+اویند	PRO$اوی+SG COP3PL
+اویی	PRO$او+SG YEH*اوی+SG COP2SG#SG EZ
+اویید	PRO$اوی+SG COP2PL
+اوییست	PRO$او+SG YEH COP3SG
+اوییم	PRO$او+SG YEH COP1SG*اوی+SG PRO1SG#SG COP1PL
+اوی‌ام	PRO$اوی+SG COP1SG
+اکنون	ADV$اکنون+
+اکنونست	ADV$اکنون+ COP3SG
+اکنونم	ADV$اکنون+ COP1SG
+اکنونی	ADV$اکنون+ COP2SG
+ای	INT$ای+
+ایا	INT$ایا+
+ایات	INT$ایا+ PRO2SG
+ایام	INT$ایا+ PRO1SG
+ایامان	INT$ایا+ PRO1PL
+ایت	INT$ای+ PRO2SG
+ایدر	ADV$ایدر+
+ایدرست	ADV$ایدر+ COP3SG
+ایدرند	ADV$ایدر+ COP3PL
+ایدری	ADV$ایدر+ COP2SG
+ایدریم	ADV$ایدر+ COP1PL
+ایدون	ADV$ایدون+
+ایدونی	ADV$ایدون+ COP2SG
+ایستاده	ADV$ایستاده+
+ایستاده‌ام	ADV$ایستاده+ COP1SG
+ایستاده‌ای	ADV$ایستاده+ COP2SG
+ایستاده‌ایم	ADV$ایستاده+ COP1PL
+ایستاده‌ست	ADV$ایستاده+ COP3SG
+ایش	INT$ای+ PRO3SG*ایش+
+ایشان	INT$ای+ PRO3PL&PRO$ایشان+SG
+ایشانت	PRO$ایشان+SG PRO2SG
+ایشانست	PRO$ایشان+SG COP3SG
+ایشانش	PRO$ایشان+SG PRO3SG
+ایشانم	PRO$ایشان+SG PRO1SG#SG COP1SG
+ایشانند	PRO$ایشان+SG COP3PL
+ایشانی	PRO$ایشان+SG COP2SG#SG YEH
+ایضا	ADV$ایضا+
+ایم	INT$ای+ PRO1SG
+ایمان	INT$ای+ PRO1PL
+ایمه	PRO$ایمه+SG&ADV$ایمه+
+این	PRO$این+SG
+اینان	PRO$اینان+SG*این+PL
+اینانست	PRO$اینان+SG COP3SG*این+PL COP3SG
+اینانند	PRO$اینان+SG COP3PL*این+PL COP3PL
+اینت	INT$اینت+&PRO$این+SG PRO2SG
+اینجا	ADV$اینجا+
+اینجاست	ADV$اینجا+ COP3SG
+اینجاستی	ADV$اینجا+ COP2SG
+اینجام	ADV$اینجا+ COP1SG
+اینجانب	PRO$اینجانب+SG
+اینجای	ADV$اینجا+ COP2SG
+اینجور	PRO$اینجور+SG&ADV$اینجور+
+اینرا	PRO$این+SG POSTP
+اینسان	ADV$اینسان+
+اینست	PRO$این+SG COP3SG
+اینش	PRO$این+SG PRO3SG
+اینطور	ADV$اینطور+
+اینقدر	ADV$اینقدر+
+اینم	PRO$این+SG PRO1SG#SG COP1SG
+اینند	NUM$اینند+SG&PRO$این+SG COP3PL
+اینها	PRO$اینها+SG*این+PL
+اینهات	PRO$اینها+SG PRO2SG*این+PL PRO2SG
+اینهاست	PRO$اینها+SG COP3SG*این+PL COP3SG
+اینهاستی	PRO$اینها+SG COP2SG*این+PL COP2SG
+اینهام	PRO$اینها+SG PRO1SG#SG COP1SG*این+PL PRO1SG#PL COP1SG
+اینهمه	ADV$اینهمه+
+اینهمه‌ی	ADV$اینهمه+ COP2SG
+اینچنین	ADV$اینچنین+
+اینچنینم	ADV$اینچنین+ COP1SG
+اینچنینی	ADV$اینچنین+ COP2SG
+اینک	ADV$اینک+
+اینکم	ADV$اینک+ COP1SG
+اینکه	PRO$این+SG CONJ
+اینگونه	ADV$اینگونه+
+اینی	PRO$این+SG COP2SG#SG YEH
+اینیم	PRO$این+SG YEH COP1SG#SG COP1PL
+این‌ست	PRO$این+SG COP3SG
+این‌ستم	PRO$این+SG COP1SG
+این‌ها	PRO$این+PL
+این‌ی	PRO$این+SG COP2SG
+ایها	INT$ایها+
+ایهاالناس	INT$ایهاالناس+
+ایوار	ADV$ایوار+
+ایچ	PRO$ایچ+SG
+ایچی	PRO$ایچ+SG COP2SG#SG YEH
+ب	P$ب+
+بااحتیاط	ADV$بااحتیاط+
+باادب	ADV$باادب+
+باانصاف	ADV$باانصاف+
+بابتداء	ADV$ابتداء+PREP 
+باتفاق	ADV$باتفاق+
+باجماع	ADV$باجماع+
+باجمالی	ADV$باجمال+ COP2SG*اجمالی+PREP 
+باحد	PRO$احد+PREP SG
+بارها	ADV$بارها+
+بارهای	ADV$بارها+ COP2SG
+بارک‌الله	INT$بارک‌الله+
+باری	ADV$باری+
+باریست	ADV$باری+ COP3SG
+باریم	ADV$باری+ COP1SG
+باز	ADV$باز+
+بازان	PRO$بازان+SG
+بازانرا	PRO$بازان+SG POSTP
+بازانست	PRO$بازان+SG COP3SG
+بازانش	PRO$بازان+SG PRO3SG
+بازانم	PRO$بازان+SG PRO1SG#SG COP1SG
+بازانند	PRO$بازان+SG COP3PL
+بازانها	PRO$بازان+PL
+بازانی	PRO$بازان+SG COP2SG#SG YEH
+بازانیم	PRO$بازان+SG YEH COP1SG#SG COP1PL
+بازبر	ADV$ازبر+PREP 
+بازست	ADV$باز+ COP3SG
+بازم	ADV$باز+ COP1SG
+بازند	ADV$باز+ COP3PL
+بازپس	ADV$بازپس+
+بازپسم	ADV$بازپس+ COP1SG
+بازپسی	ADV$بازپس+ COP2SG
+بازی	ADV$باز+ COP2SG
+بازید	ADV$باز+ COP2PL
+بازیم	ADV$باز+ COP1PL
+باستحقاق	ADV$باستحقاق+
+باستواری	ADV$استوار+PREP  COP2SG
+باسر	PRO$اسر+PREP SG
+باسما	ADV$اسما+PREP 
+باشهامتی	ADV$باشهامت+ COP2SG
+باطنا	ADV$باطنا+
+باغرض	ADV$باغرض+
+بافزون	ADV$افزون+PREP 
+بافزونی	ADV$افزون+PREP  COP2SG
+باقلای	ADV$اقلا+PREP  COP2SG
+بالا	ADV$بالا+
+بالاست	ADV$بالا+ COP3SG
+بالاستی	ADV$بالا+ COP2SG
+بالام	ADV$بالا+ COP1SG
+بالان	ADV$الان+PREP 
+بالای	ADV$بالا+ COP2SG
+بالایم	ADV$بالا+ COP1PL
+بالجمله	ADV$بالجمله+
+بالحق	ADV$الحق+PREP 
+بالخیر	ADV$بالخیر+
+بالذات	ADV$بالذات+
+بالفرض	ADV$بالفرض+
+بالفعل	ADV$بالفعل+
+بالقوه	ADV$بالقوه+
+بالیقین	ADV$بالیقین+
+بامدادان	ADV$بامدادان+
+بامدادانی	ADV$بامدادان+ COP2SG
+بامدارای	ADV$بامدارا+ COP2SG
+بان	NUM$ان+PREP SG
+بانام	PRO$انا+PREP SG COP1SG#PREP SG PRO1SG
+بانان	NUM$ان+PREP PL
+باندک	ADV$اندک+PREP 
+بانست	NUM$ان+PREP SG COP3SG
+بانش	NUM$ان+PREP SG PRO3SG
+بانشان	NUM$ان+PREP SG PRO3PL
+بانم	NUM$ان+PREP SG COP1SG#PREP SG PRO1SG
+بانها	NUM$ان+PREP PL
+بانی	NUM$ان+PREP SG COP2SG#PREP SG YEH
+بانیست	NUM$ان+PREP SG YEH COP3SG
+بانیم	NUM$ان+PREP SG COP1PL#PREP SG YEH COP1SG
+بانیی	NUM$ان+PREP SG YEH COP2SG
+بانییم	NUM$ان+PREP SG YEH COP1PL
+باو	PRO$او+PREP SG
+باورت	ADV$اورت+PREP 
+باوست	PRO$او+PREP SG COP3SG
+باول	ADV$اول+PREP 
+باولم	ADV$اول+PREP  COP1SG
+باولی	NUM$اولی+PREP SG&ADV$اول+PREP  COP2SG
+باومید	PRO$او+PREP SG PRO1SG COP2PL
+باوی	PRO$او+PREP SG EZ#PREP SG COP2SG*اوی+PREP SG
+باکنون	ADV$اکنون+PREP 
+بایشان	PRO$ایشان+PREP SG
+باین	PRO$این+PREP SG
+بباری	ADV$باری+PREP 
+بباریی	ADV$باری+PREP  COP2SG
+بباز	ADV$باز+PREP 
+ببازم	ADV$باز+PREP  COP1SG
+ببازند	ADV$باز+PREP  COP3PL
+ببازی	ADV$باز+PREP  COP2SG
+ببازید	ADV$باز+PREP  COP2PL
+ببازیم	ADV$باز+PREP  COP1PL
+ببالا	ADV$بالا+PREP 
+ببالای	ADV$بالا+PREP  COP2SG
+ببالاید	ADV$بالا+PREP  COP2PL
+ببد	ADV$بد+PREP 
+ببدی	ADV$بد+PREP  COP2SG
+ببسای	ADV$بسا+PREP  COP2SG
+ببسیار	ADV$بسیار+PREP 
+ببعد	ADV$بعد+PREP 
+ببیرون	ADV$بیرون+PREP 
+ببیشی	ADV$بیش+PREP  COP2SG
+ببیهوده	ADV$بیهوده+PREP 
+بت	P$ب+ PRO2SG
+بتا	INT$بتا+
+بتازه	ADV$تازه+PREP 
+بتان	P$ب+ PRO2PL
+بتر	ADV$بتر+
+بترست	ADV$بتر+ COP3SG
+بترم	ADV$بتر+ COP1SG
+بترند	ADV$بتر+ COP3PL
+بتری	ADV$بتر+ COP2SG
+بتریم	ADV$بتر+ COP1PL
+بتش	PRO$تش+PREP SG
+بتشان	PRO$تش+PREP PL
+بتشت	PRO$تش+PREP SG PRO2SG
+بتفت	ADV$تفت+PREP 
+بتمامی	ADV$تمامی+PREP *تمام+PREP  COP2SG
+بتند	ADV$تند+PREP 
+بتندی	ADV$تند+PREP  COP2SG*تندی+PREP 
+بتندید	ADV$تند+PREP  COP2PL
+بتنها	ADV$تنها+PREP 
+بتنگ	ADV$تنگ+PREP 
+بتنگی	ADV$تنگ+PREP  COP2SG
+بتو	PRO$تو+PREP SG
+بتوان	PRO$تو+PREP PL
+بتوانست	PRO$تو+PREP PL COP3SG
+بتوانش	PRO$تو+PREP PL PRO3SG
+بتوانم	PRO$تو+PREP PL COP1SG#PREP PL PRO1SG
+بتوانند	PRO$تو+PREP PL COP3PL
+بتوانی	PRO$تو+PREP PL YEH#PREP PL COP2SG
+بتوانید	PRO$تو+PREP PL COP2PL
+بتوانیم	PRO$تو+PREP PL COP1PL#PREP PL YEH COP1SG
+بتوش	PRO$تو+PREP SG PRO3SG
+بتوی	PRO$تو+PREP SG EZ#PREP SG COP2SG
+بتویش	PRO$تو+PREP SG PRO3SG
+بتپید	ADV$تپ+PREP  COP2PL
+بتک	ADV$تک+PREP 
+بتکی	ADV$تک+PREP  COP2SG*تکی+PREP 
+بتیزی	ADV$تیز+PREP  COP2SG
+بجا	ADV$بجا+
+بجاست	ADV$بجا+ COP3SG
+بجاستی	ADV$بجا+ COP2SG
+بجام	ADV$بجا+ COP1SG
+بجانانه	ADV$جانانه+PREP 
+بجانانه‌ی	ADV$جانانه+PREP  COP2SG
+بجای	ADV$بجا+ COP2SG
+بجد	ADV$بجد+
+بجدی	ADV$جدی+PREP *بجد+ COP2SG
+بجمله	PRO$جمله+PREP SG
+بحال	ADV$حال+PREP 
+بحالم	ADV$حال+PREP  COP1SG
+بحفظ	ADV$حفظ+PREP 
+بحمدالله	INT$بحمدالله+
+بخ	INT$بخ+
+بخاصه	ADV$خاصه+PREP 
+بخاموشی	ADV$خاموش+PREP  COP2SG
+بخت	INT$بخ+ PRO2SG
+بختان	INT$بخ+ PRO2PL
+بخروار	ADV$خروار+PREP 
+بخش	INT$بخ+ PRO3SG
+بخشان	INT$بخ+ PRO3PL
+بخلوتی	ADV$خلوتی+PREP 
+بخم	INT$بخ+ PRO1SG
+بخندان	ADV$خندان+PREP 
+بخندانم	ADV$خندان+PREP  COP1SG
+بخندانند	ADV$خندان+PREP  COP3PL
+بخندانی	ADV$خندان+PREP  COP2SG
+بخندانید	ADV$خندان+PREP  COP2PL
+بخوبی	ADV$خوب+PREP  COP2SG*خوبی+PREP 
+بخوش	ADV$خوش+PREP 
+بخوشی	ADV$خوش+PREP  COP2SG
+بخوشید	ADV$خوش+PREP  COP2PL
+بخویش	PRO$خویش+PREP SG
+بخویشان	PRO$خویش+PREP PL
+بخویشتن	PRO$خویشتن+PREP SG
+بخویشم	PRO$خویش+PREP SG COP1SG#PREP SG PRO1SG
+بخویشی	PRO$خویش+PREP SG COP2SG#PREP SG YEH
+بخیره	ADV$خیره+PREP 
+بخیلی	ADV$خیلی+PREP 
+بد	ADV$بد+
+بدا	INT$بدا+
+بدام	INT$بدا+ PRO1SG
+بدامان	INT$بدا+ PRO1PL
+بدانسته	ADV$دانسته+PREP 
+بدانسته‌ام	ADV$دانسته+PREP  COP1SG
+بدانسته‌ای	ADV$دانسته+PREP  COP2SG
+بدانسته‌ایم	ADV$دانسته+PREP  COP1PL
+بدایت	INT$بدا+ PRO2SG
+بدایه‌ی	ADV$بدایه+ COP2SG
+بدرست	ADV$درست+PREP 
+بدرستی	ADV$درست+PREP  COP2SG*درستی+PREP 
+بدرهم	ADV$درهم+PREP 
+بدست	ADV$بد+ COP3SG
+بدستم	ADV$بد+ COP1SG
+بدستی	ADV$بد+ COP2SG*دستی+PREP 
+بدستیم	ADV$بد+ COP1PL*دستی+PREP  COP1SG
+بدشواری	ADV$بدشواری+
+بدم	ADV$بد+ COP1SG
+بدند	ADV$بد+ COP3PL
+بده	NUM$ده+PREP SG
+بدهش	NUM$ده+PREP SG PRO3SG
+بدهشان	NUM$ده+PREP SG PRO3PL
+بدهم	NUM$ده+PREP SG PRO1SG
+بده‌ام	NUM$ده+PREP SG COP1SG#PREP SG PRO1SG
+بده‌اند	NUM$ده+PREP SG COP3PL
+بده‌ای	NUM$ده+PREP SG COP2SG
+بده‌ایم	NUM$ده+PREP SG COP1PL
+بده‌ست	NUM$ده+PREP SG COP3SG
+بده‌ی	NUM$ده+PREP SG EZ#PREP SG COP2SG
+بدو	NUM$دو+PREP SG
+بدوا	ADV$بدوا+
+بدوان	NUM$دو+PREP PL&ADV$دوان+PREP 
+بدواند	ADV$بدوا+ COP3PL
+بدوانند	NUM$دو+PREP PL COP3PL&ADV$دوان+PREP  COP3PL
+بدوانی	NUM$دو+PREP PL YEH#PREP PL COP2SG&ADV$دوان+PREP  COP2SG
+بدوانید	NUM$دو+PREP PL COP2PL&ADV$دوان+PREP  COP2PL
+بدور	ADV$دور+PREP 
+بدورا	NUM$دو+PREP SG POSTP
+بدوست	NUM$دو+PREP SG COP3SG
+بدوستی	NUM$دو+PREP SG COP2SG
+بدوش	NUM$دو+PREP SG PRO3SG&ADV$دوش+PREP 
+بدوشان	NUM$دو+PREP SG PRO3PL
+بدوشانیم	NUM$دو+PREP SG PRO3PL COP1PL#PREP SG PRO3PL YEH COP1SG
+بدوشم	NUM$دو+PREP SG PRO3SG COP1SG&ADV$دوش+PREP  COP1SG
+بدوشی	NUM$دو+PREP SG PRO3SG YEH#PREP SG PRO3SG COP2SG&ADV$دوش+PREP  COP2SG
+بدوشیم	NUM$دو+PREP SG PRO3SG YEH COP1SG#PREP SG PRO3SG COP1PL&ADV$دوش+PREP  COP1PL
+بدوم	NUM$دو+PREP SG COP1SG#PREP SG PRO1SG*دوم+PREP SG&ADV$دوم+PREP 
+بدوند	NUM$دو+PREP SG COP3PL
+بدوی	NUM$دو+PREP SG EZ#PREP SG COP2SG
+بدویت	NUM$دو+PREP SG PRO2SG
+بدوید	NUM$دو+PREP SG COP2PL
+بدویست	NUM$دویست+PREP SG
+بدویم	NUM$دو+PREP SG PRO1SG#PREP SG COP1PL
+بدویی	NUM$دو+PREP SG YEH
+بدوییم	NUM$دو+PREP SG YEH COP1SG
+بدگر	PRO$دگر+PREP SG
+بدی	ADV$دی+PREP *بد+ COP2SG
+بدید	ADV$بد+ COP2PL
+بدیر	ADV$دیر+PREP 
+بدیری	ADV$دیر+PREP  COP2SG*دیری+PREP 
+بدیست	ADV$دی+PREP  COP3SG
+بدیم	ADV$دی+PREP  COP1SG*بد+ COP1PL
+بدیهه	ADV$بدیهه+
+بدیهه‌ای	ADV$بدیهه+ COP2SG
+بدیهه‌ی	ADV$بدیهه+ COP2SG
+بدیگر	ADV$دیگر+PREP 
+بدیی	ADV$دی+PREP  COP2SG
+بدی‌ی	ADV$دی+PREP  COP2SG
+بذاته	ADV$بذاته+
+بر	P$بر+
+برآخر	ADV$آخر+PREP 
+برآزاد	ADV$آزاد+PREP 
+برآسوده	ADV$آسوده+PREP 
+برآن	PRO$آن+PREP SG
+برآنست	PRO$آن+PREP SG COP3SG
+برآنم	PRO$آن+PREP SG COP1SG#PREP SG PRO1SG
+برآنند	PRO$آن+PREP SG COP3PL
+برآنها	PRO$آن+PREP PL*آنها+PREP SG
+برآنکه	PRO$آنکه+PREP SG*آن+PREP SG CONJ
+برآنگه	ADV$آنگه+PREP 
+برآنگونه	ADV$آنگونه+PREP 
+برآنی	PRO$آن+PREP SG COP2SG#PREP SG YEH
+برآنیم	PRO$آن+PREP SG COP1PL#PREP SG YEH COP1SG
+برآوری	ADV$آوری+PREP 
+برآوریم	ADV$آوری+PREP  COP1SG
+براحت	ADV$راحت+PREP 
+برادرانه	ADV$برادرانه+
+برادروار	ADV$برادروار+
+براساید	ADV$راسا+PREP  COP2PL
+براست	ADV$راست+PREP 
+براستی	ADV$راست+PREP  COP2SG*راستی+PREP *براستی+
+برافزون	ADV$افزون+PREP 
+بران	NUM$ان+PREP SG
+برانا	PRO$انا+PREP SG
+براند	NUM$اند+PREP SG&PRO$اند+PREP SG
+براندش	NUM$اند+PREP SG PRO3SG&PRO$اند+PREP SG PRO3SG
+براندم	NUM$اند+PREP SG COP1SG#PREP SG PRO1SG&PRO$اند+PREP SG COP1SG#PREP SG PRO1SG
+براندمی	NUM$اند+PREP SG PRO1SG COP2SG#PREP SG PRO1SG YEH&PRO$اند+PREP SG PRO1SG COP2SG#PREP SG PRO1SG YEH
+براندند	NUM$اند+PREP SG COP3PL&PRO$اند+PREP SG COP3PL
+براندکی	ADV$اندکی+PREP *اندک+PREP  COP2SG
+براندی	NUM$اندی+PREP SG*اند+PREP SG COP2SG#PREP SG YEH&PRO$اند+PREP SG COP2SG#PREP SG YEH
+براندیش	NUM$اندی+PREP SG PRO3SG
+براندیشم	NUM$اندی+PREP SG PRO3SG COP1SG
+براندیشی	NUM$اندی+PREP SG PRO3SG YEH#PREP SG PRO3SG COP2SG
+برانست	NUM$ان+PREP SG COP3SG
+برانش	NUM$ان+PREP SG PRO3SG
+برانم	NUM$ان+PREP SG COP1SG#PREP SG PRO1SG
+برانمی	NUM$ان+PREP SG PRO1SG COP2SG#PREP SG PRO1SG YEH
+برانند	NUM$ان+PREP SG COP3PL
+برانکه	NUM$ان+PREP SG CONJ
+برانی	NUM$ان+PREP SG COP2SG#PREP SG YEH
+برانید	NUM$ان+PREP SG COP2PL
+برانیم	NUM$ان+PREP SG COP1PL#PREP SG YEH COP1SG
+براو	PRO$او+PREP SG
+براوهای	PRO$او+PREP PL EZ#PREP PL COP2SG
+براوی	PRO$او+PREP SG EZ#PREP SG COP2SG*اوی+PREP SG
+برایشان	PRO$ایشان+PREP SG
+براین	PRO$این+PREP SG
+براینت	PRO$این+PREP SG PRO2SG
+براینی	PRO$این+PREP SG COP2SG#PREP SG YEH
+برایگان	ADV$برایگان+*رایگان+PREP 
+بربد	ADV$بد+PREP 
+بربدستی	ADV$بد+PREP  COP2SG
+بربسی	ADV$بسی+PREP *بس+PREP  COP2SG
+بربهم	ADV$بهم+PREP 
+برت	P$بر+ PRO2SG
+برتر	ADV$برتر+
+برترست	ADV$برتر+ COP3SG
+برترم	ADV$برتر+ COP1SG
+برترند	ADV$برتر+ COP3PL
+برتری	ADV$برتر+ COP2SG
+برتریم	ADV$برتر+ COP1PL
+برتند	ADV$تند+PREP 
+برتنگ	ADV$تنگ+PREP 
+برتو	PRO$تو+PREP SG
+برتوان	PRO$تو+PREP PL
+برتوانم	PRO$تو+PREP PL COP1SG#PREP PL PRO1SG
+برتوانی	PRO$تو+PREP PL YEH#PREP PL COP2SG
+برتوست	PRO$تو+PREP SG COP3SG
+برتپند	ADV$تپ+PREP  COP3PL
+برحال	ADV$حال+PREP 
+برخوانا	ADV$خوانا+PREP 
+برخوب	ADV$خوب+PREP 
+برخوشست	ADV$خوش+PREP  COP3SG
+برخوشی	ADV$خوش+PREP  COP2SG
+برخویش	PRO$خویش+PREP SG
+برخویشتن	PRO$خویشتن+PREP SG
+برخی	PRO$برخی+SG
+برخیره	ADV$خیره+PREP 
+برخیستم	PRO$برخی+SG COP1SG
+بردستی	ADV$دستی+PREP 
+برده	NUM$ده+PREP SG
+بردهم	NUM$ده+PREP SG PRO1SG
+برده‌ئی	NUM$ده+PREP SG YEH
+برده‌است	NUM$ده+PREP SG COP3SG
+برده‌ام	NUM$ده+PREP SG COP1SG#PREP SG PRO1SG
+برده‌اند	NUM$ده+PREP SG COP3PL
+برده‌ای	NUM$ده+PREP SG COP2SG
+برده‌ایم	NUM$ده+PREP SG COP1PL
+برده‌ست	NUM$ده+PREP SG COP3SG
+برده‌ها	NUM$ده+PREP PL
+برده‌ی	NUM$ده+PREP SG EZ#PREP SG COP2SG
+برده‌یی	NUM$ده+PREP SG YEH
+بردو	NUM$دو+PREP SG
+بردوانند	NUM$دو+PREP PL COP3PL&ADV$دوان+PREP  COP3PL
+بردوست	NUM$دو+PREP SG COP3SG
+بردوش	NUM$دو+PREP SG PRO3SG&ADV$دوش+PREP 
+بردوشم	NUM$دو+PREP SG PRO3SG COP1SG&ADV$دوش+PREP  COP1SG
+بردوم	NUM$دو+PREP SG COP1SG#PREP SG PRO1SG*دوم+PREP SG&ADV$دوم+PREP 
+بردوی	NUM$دو+PREP SG EZ#PREP SG COP2SG
+بردوید	NUM$دو+PREP SG COP2PL
+بردگان	NUM$ده+PREP PL
+بردی	ADV$دی+PREP 
+بردیست	ADV$دی+PREP  COP3SG
+بردیم	ADV$دی+PREP  COP1SG
+بردیگری	ADV$دیگر+PREP  COP2SG
+برسختم	ADV$سخت+PREP  COP1SG
+برسخته	ADV$سخته+PREP 
+برسد	NUM$سد+PREP SG
+برسردست	ADV$سرد+PREP  COP3SG
+برسری	ADV$برسری+*سری+PREP 
+برسی	NUM$سی+PREP SG
+برسیم	NUM$سی+PREP SG COP1SG#PREP SG PRO1SG
+برش	P$بر+ PRO3SG
+برشان	P$بر+ PRO3PL
+برشست	NUM$شست+PREP SG
+برشماست	PRO$شما+PREP SG COP3SG
+برصبح	ADV$صبح+PREP 
+برعقب	ADV$عقب+PREP 
+برعکس	ADV$برعکس+
+برفزود	ADV$برفزود+
+برفزودی	ADV$برفزود+ COP2SG
+برفزونی	ADV$برفزون+ COP2SG*فزون+PREP  COP2SG
+برقرص	ADV$قرص+PREP 
+برقی	ADV$برقی+
+برقیست	ADV$برقی+ COP3SG
+برقیم	ADV$برقی+ COP1SG
+برم	P$بر+ PRO1SG
+برما	PRO$ما+PREP SG
+برماست	PRO$ما+PREP SG COP3SG
+برماند	PRO$ما+PREP SG COP3PL
+برمردم	ADV$مردم+PREP 
+برملا	ADV$ملا+PREP 
+برملاست	ADV$ملا+PREP  COP3SG
+برملام	ADV$ملا+PREP  COP1SG
+برمن	PRO$من+PREP SG
+برمنست	PRO$من+PREP SG COP3SG
+برمنش	PRO$من+PREP SG PRO3SG
+برمک	ADV$مک+PREP 
+برمکی	ADV$مک+PREP  COP2SG
+برنقد	ADV$نقد+PREP 
+برنه	NUM$نه+PREP SG
+برنهان	ADV$نهان+PREP 
+برنهم	NUM$نه+PREP SG PRO1SG
+برنه‌ای	NUM$نه+PREP SG COP2SG
+برنکند	ADV$نک+PREP  COP3PL
+برنیک	ADV$نیک+PREP 
+برهم	ADV$برهم+
+برهمند	ADV$برهم+ COP3PL
+برهمی	ADV$برهم+ COP2SG
+بروزی	ADV$روزی+PREP 
+برپر	ADV$پر+PREP 
+برپرم	ADV$پر+PREP  COP1SG
+برپرند	ADV$پر+PREP  COP3PL
+برپری	ADV$پری+PREP *پر+PREP  COP2SG
+برپرید	ADV$پر+PREP  COP2PL
+برپریم	ADV$پری+PREP  COP1SG*پر+PREP  COP1PL
+برچنان	ADV$چنان+PREP 
+برچنین	PRO$چنین+PREP SG&ADV$چنین+PREP 
+برچه	PRO$چه+PREP SG&ADV$چه+PREP 
+برچه‌ایم	PRO$چه+PREP SG COP1PL&ADV$چه+PREP  COP1PL
+برچی	PRO$چی+PREP SG
+برچیند	PRO$چی+PREP SG COP3PL
+برک	ADV$رک+PREP 
+برکات	PRO$که+PREP PL
+برکاتی	PRO$که+PREP PL YEH#PREP PL COP2SG
+برکس	PRO$کس+PREP SG
+برکسی	PRO$کس+PREP SG COP2SG#PREP SG YEH
+برکشیده	ADV$کشیده+PREP 
+برکشیده‌ام	ADV$کشیده+PREP  COP1SG
+برکشیده‌اند	ADV$کشیده+PREP  COP3PL
+برکشیده‌ای	ADV$کشیده+PREP  COP2SG
+برکشیده‌ی	ADV$کشیده+PREP  COP2SG
+برکم	ADV$کم+PREP *رک+PREP  COP1SG
+برکمند	ADV$کم+PREP  COP3PL
+برکند	ADV$کند+PREP *رک+PREP  COP3PL
+برکندست	ADV$کند+PREP  COP3SG
+برکندم	ADV$کند+PREP  COP1SG
+برکندند	ADV$کند+PREP  COP3PL
+برکندی	ADV$کند+PREP  COP2SG
+برکندیم	ADV$کند+PREP  COP1PL
+برکه	PRO$که+PREP SG
+برکه‌ام	PRO$که+PREP SG COP1SG#PREP SG PRO1SG
+برکه‌ش	PRO$که+PREP SG PRO3SG
+برکه‌های	PRO$که+PREP PL EZ#PREP PL COP2SG
+برکه‌ی	PRO$که+PREP SG EZ#PREP SG COP2SG
+برکی	PRO$کی+PREP SG&ADV$کی+PREP *رک+PREP  COP2SG
+برکیانی	PRO$کی+PREP PL YEH#PREP PL COP2SG
+برکیست	PRO$کی+PREP SG COP3SG&ADV$کی+PREP  COP3SG
+برگاه	ADV$گاه+PREP 
+برگران	ADV$گران+PREP 
+برگسسته	ADV$گسسته+PREP 
+برگشاد	ADV$گشاد+PREP 
+برگشادستم	ADV$گشاد+PREP  COP1SG
+برگشادستی	ADV$گشاد+PREP  COP2SG
+برگشادم	ADV$گشاد+PREP  COP1SG
+برگشادند	ADV$گشاد+PREP  COP3PL
+برگشاده	ADV$گشاده+PREP 
+برگشاده‌ای	ADV$گشاده+PREP  COP2SG
+برگشاده‌ست	ADV$گشاده+PREP  COP3SG
+برگشادی	ADV$گشاد+PREP  COP2SG
+برگشادیم	ADV$گشاد+PREP  COP1PL
+برگنگ	ADV$گنگ+PREP 
+برگهی	ADV$گهی+PREP 
+برگویی	ADV$گویی+PREP 
+بزبانی	ADV$زبانی+PREP 
+بزمستان	ADV$زمستان+PREP 
+بزودی	ADV$زود+PREP  COP2SG*بزودی+
+بزور	ADV$بزور+
+بزیاد	ADV$زیاد+PREP 
+بزیادی	ADV$زیاد+PREP  COP2SG
+بس	ADV$بس+
+بسا	ADV$بسا+
+بسام	ADV$بسا+ COP1SG
+بساند	ADV$بسا+ COP3PL
+بسای	ADV$بسا+ COP2SG
+بساید	ADV$بسا+ COP2PL
+بسایم	ADV$بسا+ COP1PL
+بسحرگاه	ADV$سحرگاه+PREP 
+بسختند	ADV$سخت+PREP  COP3PL
+بسخته‌ام	ADV$سخته+PREP  COP1SG
+بسختی	ADV$سخت+PREP  COP2SG*بسختی+
+بسختید	ADV$سخت+PREP  COP2PL
+بسختیم	ADV$سخت+PREP  COP1PL*بسختی+ COP1SG
+بسد	NUM$سد+PREP SG
+بسدش	NUM$سد+PREP SG PRO3SG
+بسدی	NUM$سد+PREP SG COP2SG#PREP SG YEH
+بسرسری	ADV$سرسری+PREP 
+بسری	ADV$سری+PREP 
+بسریم	ADV$سری+PREP  COP1SG
+بسزا	ADV$بسزا+
+بسست	ADV$سست+PREP *بس+ COP3SG
+بسستم	ADV$سست+PREP  COP1SG*بس+ COP1SG
+بسستی	ADV$سست+PREP  COP2SG*بس+ COP2SG
+بسفت	ADV$سفت+PREP 
+بسفتم	ADV$سفت+PREP  COP1SG
+بسم	ADV$بس+ COP1SG
+بسند	ADV$بس+ COP3PL
+بسه	NUM$سه+PREP SG
+بسهم	NUM$سه+PREP SG PRO1SG
+بسگانم	NUM$سه+PREP PL COP1SG#PREP PL PRO1SG
+بسی	NUM$سی+PREP SG&ADV$بسی+*بس+ COP2SG
+بسیار	ADV$بسیار+
+بسیارست	ADV$بسیار+ COP3SG
+بسیارم	ADV$بسیار+ COP1SG
+بسیارند	ADV$بسیار+ COP3PL
+بسیاری	PRO$بسیاری+SG&ADV$بسیار+ COP2SG
+بسیاریت	PRO$بسیاری+SG PRO2SG
+بسیارید	ADV$بسیار+ COP2PL
+بسیاریم	PRO$بسیاری+SG PRO1SG#SG COP1SG&ADV$بسیار+ COP1PL
+بسیت	NUM$سی+PREP SG PRO2SG
+بسیرا	NUM$سی+PREP SG POSTP
+بسیست	NUM$سی+PREP SG COP3SG&ADV$بسی+ COP3SG
+بسیش	NUM$سی+PREP SG PRO3SG
+بسیم	NUM$سی+PREP SG COP1SG#PREP SG PRO1SG&ADV$بسی+ COP1SG*بس+ COP1PL
+بسیمای	ADV$سیما+PREP  COP2SG
+بسی‌ست	NUM$سی+PREP SG COP3SG&ADV$بسی+ COP3SG
+بس‌ست	ADV$بس+ COP3SG
+بش	P$ب+ PRO3SG
+بشادمانی	ADV$شادمان+PREP  COP2SG
+بشان	P$ب+ PRO3PL
+بشب	ADV$شب+PREP 
+بشتابی	ADV$شتابی+PREP 
+بشتابیم	ADV$شتابی+PREP  COP1SG
+بشست	NUM$شست+PREP SG
+بشستت	NUM$شست+PREP SG PRO2SG
+بشستش	NUM$شست+PREP SG PRO3SG
+بشستم	NUM$شست+PREP SG COP1SG#PREP SG PRO1SG
+بشستند	NUM$شست+PREP SG COP3PL
+بشستی	NUM$شست+PREP SG COP2SG#PREP SG YEH
+بشستیم	NUM$شست+PREP SG COP1PL#PREP SG YEH COP1SG
+بشش	NUM$شش+PREP SG
+بشلی	ADV$شل+PREP  COP2SG
+بشما	PRO$شما+PREP SG
+بشمرده	ADV$شمرده+PREP 
+بشمرده‌ام	ADV$شمرده+PREP  COP1SG
+بشیرین	ADV$شیرین+PREP 
+بشیرینی	ADV$شیرین+PREP  COP2SG
+بصبح	ADV$صبح+PREP 
+بصبحدم	ADV$صبحدم+PREP 
+بصد	NUM$صد+PREP SG
+بضعف	ADV$ضعف+PREP 
+بطعنه	ADV$بطعنه+
+بطعنه‌ی	ADV$بطعنه+ COP2SG
+بظاهر	ADV$بظاهر+
+بعاده	ADV$عاده+PREP 
+بعجب	ADV$عجب+PREP 
+بعد	ADV$بعد+
+بعدست	ADV$بعد+ COP3SG
+بعدل	ADV$عدل+PREP 
+بعدم	ADV$بعد+ COP1SG
+بعدند	ADV$بعد+ COP3PL
+بعدها	ADV$بعدها+
+بعدی	ADV$بعد+ COP2SG
+بعض	PRO$بعض+SG
+بعضها	PRO$بعض+PL
+بعضی	PRO$بعضی+SG*بعض+SG COP2SG#SG YEH
+بعمد	ADV$بعمد+
+بعمدا	ADV$بعمدا+*عمدا+PREP 
+بعنف	ADV$بعنف+
+بعیان	ADV$عیان+PREP 
+بعینه	ADV$بعینه+
+بعینه‌ی	ADV$بعینه+ COP2SG
+بغایت	ADV$بغایت+
+بغلط	ADV$بغلط+
+بغلطید	ADV$بغلط+ COP2PL
+بغلطیم	ADV$بغلط+ COP1PL
+بفردا	ADV$فردا+PREP 
+بفشرده	ADV$فشرده+PREP 
+بفور	ADV$فور+PREP 
+بقائم	ADV$قائم+PREP 
+بقاصد	ADV$قاصد+PREP 
+بقاصدی	ADV$قاصد+PREP  COP2SG
+بقایم	ADV$قایم+PREP 
+بقصد	ADV$بقصد+
+بقلابی	ADV$قلابی+PREP 
+بلا	NUM$لا+PREP SG
+بلائی	NUM$لا+PREP SG YEH
+بلائیست	NUM$لا+PREP SG YEH COP3SG
+بلائیم	NUM$لا+PREP SG YEH COP1SG
+بلات	NUM$لا+PREP SG PRO2SG
+بلاست	NUM$لا+PREP SG COP3SG
+بلاش	NUM$لا+PREP SG PRO3SG
+بلاشان	NUM$لا+PREP SG PRO3PL
+بلاشک	ADV$لاشک+PREP 
+بلام	NUM$لا+PREP SG COP1SG#PREP SG PRO1SG
+بلاها	NUM$لا+PREP PL
+بلاهاش	NUM$لا+PREP PL PRO3SG
+بلاهای	NUM$لا+PREP PL EZ#PREP PL COP2SG
+بلای	NUM$لا+PREP SG EZ#PREP SG COP2SG
+بلایت	NUM$لا+PREP SG PRO2SG
+بلایش	NUM$لا+PREP SG PRO3SG
+بلایم	NUM$لا+PREP SG PRO1SG#PREP SG COP1PL
+بلایی	NUM$لا+PREP SG YEH
+بلاییست	NUM$لا+PREP SG YEH COP3SG
+بلاییم	NUM$لا+PREP SG YEH COP1SG
+بلایی‌ست	NUM$لا+PREP SG YEH COP3SG
+بلق	INT$بلق+
+بلند	ADV$بلند+
+بلندست	ADV$بلند+ COP3SG
+بلندم	ADV$بلند+ COP1SG
+بلندند	ADV$بلند+ COP3PL
+بلندی	ADV$بلند+ COP2SG
+بلندید	ADV$بلند+ COP2PL
+بلندیم	ADV$بلند+ COP1PL
+بلک	NUM$لک+PREP SG
+بم	P$ب+ PRO1SG
+بما	PRO$ما+PREP SG
+بمات	PRO$ما+PREP SG PRO2SG
+بماتم	PRO$ما+PREP SG PRO2SG COP1SG
+بمان	P$ب+ PRO1PL
+بماند	PRO$ما+PREP SG COP3PL
+بمدام	ADV$مدام+PREP 
+بمردم	ADV$مردم+PREP 
+بمن	PRO$من+PREP SG
+بمنتست	PRO$من+PREP SG PRO2SG COP3SG
+بمنش	PRO$من+PREP SG PRO3SG
+بمنی	PRO$من+PREP SG COP2SG#PREP SG YEH
+بمکی	ADV$مک+PREP  COP2SG
+بمکید	ADV$مک+PREP  COP2PL
+بنات	NUM$نه+PREP PL
+بناتست	NUM$نه+PREP PL COP3SG
+بناتی	NUM$نه+PREP PL YEH#PREP PL COP2SG
+بناحق	ADV$بناحق+*ناحق+PREP 
+بناخواه	ADV$ناخواه+PREP 
+بناچار	ADV$ناچار+PREP 
+بناگاه	ADV$بناگاه+
+بناگاهان	ADV$ناگاهان+PREP 
+بناگه	ADV$بناگه+*ناگه+PREP 
+بنده‌وار	ADV$بنده‌وار+
+بنزدیک	ADV$نزدیک+PREP 
+بنزدیکی	ADV$نزدیک+PREP  COP2SG
+بنه	NUM$نه+PREP SG
+بنهان	ADV$نهان+PREP 
+بنهایت	ADV$نهایت+PREP 
+بنهفته	ADV$نهفته+PREP 
+بنهفته‌اند	ADV$نهفته+PREP  COP3PL
+بنهفته‌ای	ADV$نهفته+PREP  COP2SG
+بنهم	NUM$نه+PREP SG PRO1SG
+بنه‌ای	NUM$نه+PREP SG COP2SG
+بنه‌ی	NUM$نه+PREP SG EZ#PREP SG COP2SG
+بنوبت	ADV$بنوبت+
+بنک	ADV$نک+PREP 
+بنگان	NUM$نه+PREP PL
+بنیک	ADV$نیک+PREP 
+بنیکو	ADV$نیکو+PREP 
+بنیکی	ADV$نیک+PREP  COP2SG
+به	INT$به+&ADV$به+
+بهت	INT$به+ PRO2SG
+بهتان	INT$به+ PRO2PL
+بهتر	ADV$بهتر+
+بهترست	ADV$بهتر+ COP3SG
+بهترم	ADV$بهتر+ COP1SG
+بهترند	ADV$بهتر+ COP3PL
+بهتری	ADV$بهتر+ COP2SG
+بهتریم	ADV$بهتر+ COP1PL
+بهستی	ADV$به+ COP2SG
+بهش	INT$به+ PRO3SG
+بهم	INT$به+ PRO1SG&ADV$بهم+
+بهمان	INT$به+ PRO1PL&PRO$بهمان+SG
+بهمانم	PRO$بهمان+SG PRO1SG#SG COP1SG
+بهمانی	PRO$بهمان+SG COP2SG#SG YEH
+بهمانیست	PRO$بهمان+SG YEH COP3SG
+بهمست	ADV$بهم+ COP3SG
+بهم‌ست	ADV$بهم+ COP3SG
+بهنگام	ADV$بهنگام+
+به‌اند	ADV$به+ COP3PL
+به‌ای	ADV$به+ COP2SG
+به‌ست	ADV$به+ COP3SG
+به‌ی	ADV$به+ COP2SG
+بویژه	ADV$بویژه+
+بپا	INT$بپا+
+بپات	INT$بپا+ PRO2SG
+بپاش	INT$بپا+ PRO3SG
+بپاکی	ADV$پاک+PREP  COP2SG
+بپایت	INT$بپا+ PRO2SG
+بپایش	INT$بپا+ PRO3SG
+بپایم	INT$بپا+ PRO1SG
+بپر	ADV$پر+PREP 
+بپراکنده‌ام	ADV$پراکنده+PREP  COP1SG
+بپراکنده‌ست	ADV$پراکنده+PREP  COP3SG
+بپرست	ADV$پر+PREP  COP3SG
+بپرستم	ADV$پر+PREP  COP1SG
+بپرستند	ADV$پر+PREP  COP3PL
+بپرستی	ADV$پر+PREP  COP2SG
+بپرستید	ADV$پر+PREP  COP2PL
+بپرستیم	ADV$پر+PREP  COP1PL
+بپرم	ADV$پر+PREP  COP1SG
+بپرند	ADV$پر+PREP  COP3PL
+بپری	ADV$پری+PREP *پر+PREP  COP2SG
+بپرید	ADV$پر+PREP  COP2PL
+بپریم	ADV$پری+PREP  COP1SG*پر+PREP  COP1PL
+بپس	ADV$پس+PREP 
+بپست	ADV$پست+PREP 
+بپستی	ADV$پست+PREP  COP2SG
+بپنجم	NUM$پنج+PREP SG COP1SG#PREP SG PRO1SG
+بپوشیده	ADV$پوشیده+PREP 
+بپوشیده‌ای	ADV$پوشیده+PREP  COP2SG
+بپیش	ADV$پیش+PREP 
+بپیوسته	ADV$پیوسته+PREP 
+بچابکی	ADV$چابک+PREP  COP2SG
+بچار	NUM$چار+PREP SG
+بچالاکی	ADV$چالاک+PREP  COP2SG
+بچراند	ADV$چرا+PREP  COP3PL
+بچستی	ADV$چست+PREP  COP2SG
+بچنان	ADV$چنان+PREP 
+بچند	NUM$چند+PREP SG&ADV$چند+PREP 
+بچندان	NUM$چند+PREP PL&ADV$چندان+PREP 
+بچنین	PRO$چنین+PREP SG&ADV$چنین+PREP 
+بچه	PRO$چه+PREP SG&ADV$چه+PREP 
+بچه‌ئی	PRO$چه+PREP SG YEH
+بچه‌ام	PRO$چه+PREP SG COP1SG#PREP SG PRO1SG&ADV$چه+PREP  COP1SG
+بچه‌ای	PRO$چه+PREP SG COP2SG&ADV$چه+PREP  COP2SG
+بچه‌ایم	PRO$چه+PREP SG COP1PL&ADV$چه+PREP  COP1PL
+بچه‌های	PRO$چه+PREP PL EZ#PREP PL COP2SG
+بچه‌ی	PRO$چه+PREP SG EZ#PREP SG COP2SG&ADV$چه+PREP  COP2SG
+بچون	ADV$چون+PREP 
+بچکی	ADV$چکی+PREP 
+بچگان	PRO$چه+PREP PL
+بچگانت	PRO$چه+PREP PL PRO2SG
+بچگانست	PRO$چه+PREP PL COP3SG
+بچگانش	PRO$چه+PREP PL PRO3SG
+بچگانشان	PRO$چه+PREP PL PRO3PL
+بچگانند	PRO$چه+PREP PL COP3PL
+بچیست	PRO$چیست+PREP SG*چی+PREP SG COP3SG
+بچیند	PRO$چی+PREP SG COP3PL
+بکجا	PRO$کجا+PREP SG&ADV$کجا+PREP 
+بکجائیم	PRO$کجا+PREP SG YEH COP1SG
+بکجاست	PRO$کجا+PREP SG COP3SG&ADV$کجا+PREP  COP3SG
+بکرها	ADV$کرها+PREP 
+بکس	PRO$کس+PREP SG
+بکسی	PRO$کس+PREP SG COP2SG#PREP SG YEH
+بکش	ADV$بکش+
+بکشم	ADV$بکش+ COP1SG
+بکشند	ADV$بکش+ COP3PL
+بکشی	ADV$بکش+ COP2SG
+بکشید	ADV$بکش+ COP2PL
+بکشیده	ADV$کشیده+PREP 
+بکشیم	ADV$بکش+ COP1PL
+بکل	PRO$کل+PREP SG
+بکلی	PRO$کل+PREP SG COP2SG#PREP SG YEH&ADV$بکلی+*کلی+PREP 
+بکم	ADV$کم+PREP 
+بکمال	ADV$بکمال+
+بکماهی	ADV$کماهی+PREP 
+بکمتر	ADV$کمتر+PREP 
+بکمند	ADV$کم+PREP  COP3PL
+بکمی	ADV$کم+PREP  COP2SG*کمی+PREP 
+بکند	ADV$کند+PREP 
+بکندست	ADV$کند+PREP  COP3SG
+بکندم	ADV$کند+PREP  COP1SG
+بکندند	ADV$کند+PREP  COP3PL
+بکندی	ADV$کند+PREP  COP2SG
+بکندیم	ADV$کند+PREP  COP1PL
+بکه	PRO$که+PREP SG
+بکوب	ADV$بکوب+
+بکوبم	ADV$بکوب+ COP1SG
+بکوبند	ADV$بکوب+ COP3PL
+بکوبی	ADV$بکوب+ COP2SG
+بکوبید	ADV$بکوب+ COP2PL
+بکوبیم	ADV$بکوب+ COP1PL
+بکی	PRO$کی+PREP SG&ADV$کی+PREP 
+بکیت	PRO$کی+PREP SG PRO2SG
+بکیش	PRO$کی+PREP SG PRO3SG
+بکیم	PRO$کی+PREP SG COP1SG#PREP SG PRO1SG&ADV$کی+PREP  COP1SG
+بگاه	ADV$گاه+PREP 
+بگذراند	ADV$گذرا+PREP  COP3PL
+بگرده	PRO$گرده+PREP SG
+بگرم	ADV$گرم+PREP 
+بگرمی	ADV$بگرمی+*گرم+PREP  COP2SG
+بگسسته	ADV$گسسته+PREP 
+بگسسته‌ام	ADV$گسسته+PREP  COP1SG
+بگسسته‌ای	ADV$گسسته+PREP  COP2SG
+بگشاد	ADV$گشاد+PREP 
+بگشادست	ADV$گشاد+PREP  COP3SG
+بگشادم	ADV$گشاد+PREP  COP1SG
+بگشادند	ADV$گشاد+PREP  COP3PL
+بگشاده	ADV$گشاده+PREP 
+بگشاده‌ام	ADV$گشاده+PREP  COP1SG
+بگشاده‌اند	ADV$گشاده+PREP  COP3PL
+بگشاده‌ای	ADV$گشاده+PREP  COP2SG
+بگشاده‌ایم	ADV$گشاده+PREP  COP1PL
+بگشاده‌ست	ADV$گشاده+PREP  COP3SG
+بگشادی	ADV$گشاد+PREP  COP2SG
+بگشادیم	ADV$گشاد+PREP  COP1PL
+بگنگ	ADV$گنگ+PREP 
+بگنگست	ADV$گنگ+PREP  COP3SG
+بگویی	ADV$گویی+PREP 
+بگوییم	ADV$گویی+PREP  COP1SG
+بیخود	ADV$بیخود+
+بیخودست	ADV$بیخود+ COP3SG
+بیخودم	ADV$بیخود+ COP1SG
+بیخودی	ADV$بیخود+ COP2SG*بیخودی+
+بیخودیست	ADV$بیخودی+ COP3SG
+بیخودیم	ADV$بیخود+ COP1PL*بیخودی+ COP1SG
+بیخودی‌ای	ADV$بیخودی+ COP2SG
+بیرون	ADV$بیرون+
+بیرونست	ADV$بیرون+ COP3SG
+بیرونم	ADV$بیرون+ COP1SG
+بیرونند	ADV$بیرون+ COP3PL
+بیرونی	ADV$بیرون+ COP2SG
+بیرونیم	ADV$بیرون+ COP1PL
+بیرون‌اند	ADV$بیرون+ COP3PL
+بیش	ADV$بیش+
+بیشتر	ADV$بیشتر+
+بیشترست	ADV$بیشتر+ COP3SG
+بیشترم	ADV$بیشتر+ COP1SG
+بیشترند	ADV$بیشتر+ COP3PL
+بیشتری	ADV$بیشتر+ COP2SG
+بیشست	ADV$بیش+ COP3SG
+بیشستم	ADV$بیش+ COP1SG
+بیشم	ADV$بیش+ COP1SG
+بیشند	ADV$بیش+ COP3PL
+بیشی	ADV$بیش+ COP2SG
+بیش‌ست	ADV$بیش+ COP3SG
+بیهده	ADV$بیهده+
+بیهده‌است	ADV$بیهده+ COP3SG
+بیهده‌ای	ADV$بیهده+ COP2SG
+بیهده‌ست	ADV$بیهده+ COP3SG
+بیهده‌ی	ADV$بیهده+ COP2SG
+بیهوده	ADV$بیهوده+
+بیهوده‌ای	ADV$بیهوده+ COP2SG
+بیهوده‌ی	ADV$بیهوده+ COP2SG
+بیهوش	ADV$بیهوش+
+بیهوشست	ADV$بیهوش+ COP3SG
+بیهوشم	ADV$بیهوش+ COP1SG
+بیهوشند	ADV$بیهوش+ COP3PL
+بیهوشی	ADV$بیهوش+ COP2SG
+بیهوشیم	ADV$بیهوش+ COP1PL
+بیگاه	ADV$بیگاه+
+بی‌آرام	ADV$بی‌آرام+
+بی‌آرامی	ADV$بی‌آرام+ COP2SG
+بی‌اختیار	ADV$بی‌اختیار+
+بی‌اختیارم	ADV$بی‌اختیار+ COP1SG
+بی‌اختیاری	ADV$بی‌اختیار+ COP2SG
+بی‌ادبانه	ADV$بی‌ادبانه+
+بی‌اصول	ADV$بی‌اصول+
+بی‌اصولی	ADV$بی‌اصول+ COP2SG
+بی‌اعتدال	ADV$بی‌اعتدال+
+بی‌اعتدالی	ADV$بی‌اعتدال+ COP2SG
+بی‌امان	ADV$بی‌امان+
+بی‌امانست	ADV$بی‌امان+ COP3SG
+بی‌امانم	ADV$بی‌امان+ COP1SG
+بی‌امانی	ADV$بی‌امان+ COP2SG
+بی‌امانیم	ADV$بی‌امان+ COP1PL
+بی‌انتها	ADV$بی‌انتها+
+بی‌انتهاست	ADV$بی‌انتها+ COP3SG
+بی‌اندازه	ADV$بی‌اندازه+
+بی‌اندازه‌ام	ADV$بی‌اندازه+ COP1SG
+بی‌باک	ADV$بی‌باک+
+بی‌باکست	ADV$بی‌باک+ COP3SG
+بی‌باکی	ADV$بی‌باک+ COP2SG
+بی‌تأمل	ADV$بی‌تأمل+
+بی‌تابانه	ADV$بی‌تابانه+
+بی‌تامل	ADV$بی‌تامل+
+بی‌ترتیب	ADV$بی‌ترتیب+
+بی‌تفاوت	ADV$بی‌تفاوت+
+بی‌تفاوتی	ADV$بی‌تفاوت+ COP2SG
+بی‌تکلف	ADV$بی‌تکلف+
+بی‌تکلفست	ADV$بی‌تکلف+ COP3SG
+بی‌تکلفی	ADV$بی‌تکلف+ COP2SG
+بی‌جا	ADV$بی‌جا+
+بی‌جاست	ADV$بی‌جا+ COP3SG
+بی‌جام	ADV$بی‌جا+ COP1SG
+بی‌جای	ADV$بی‌جا+ COP2SG
+بی‌جهت	ADV$بی‌جهت+
+بی‌جهتی	ADV$بی‌جهت+ COP2SG
+بی‌حاصل	ADV$بی‌حاصل+
+بی‌حاصلست	ADV$بی‌حاصل+ COP3SG
+بی‌حاصلم	ADV$بی‌حاصل+ COP1SG
+بی‌حاصلی	ADV$بی‌حاصل+ COP2SG
+بی‌حاصلیم	ADV$بی‌حاصل+ COP1PL
+بی‌حاصل‌اند	ADV$بی‌حاصل+ COP3PL
+بی‌حد	ADV$بی‌حد+
+بی‌حدست	ADV$بی‌حد+ COP3SG
+بی‌حدم	ADV$بی‌حد+ COP1SG
+بی‌حدی	ADV$بی‌حد+ COP2SG
+بی‌حدیم	ADV$بی‌حد+ COP1PL
+بی‌حرکت	ADV$بی‌حرکت+
+بی‌حساب	ADV$بی‌حساب+
+بی‌حسابست	ADV$بی‌حساب+ COP3SG
+بی‌حسابی	ADV$بی‌حساب+ COP2SG
+بی‌حوصله	ADV$بی‌حوصله+
+بی‌خطر	ADV$بی‌خطر+
+بی‌خطرست	ADV$بی‌خطر+ COP3SG
+بی‌خطرند	ADV$بی‌خطر+ COP3PL
+بی‌خطری	ADV$بی‌خطر+ COP2SG
+بی‌خیال	ADV$بی‌خیال+
+بی‌خیالی	ADV$بی‌خیال+ COP2SG
+بی‌درد	ADV$بی‌درد+
+بی‌دردسر	ADV$بی‌دردسر+
+بی‌دردم	ADV$بی‌درد+ COP1SG
+بی‌دردی	ADV$بی‌درد+ COP2SG
+بی‌دردیم	ADV$بی‌درد+ COP1PL
+بی‌درنگ	ADV$بی‌درنگ+
+بی‌درنگست	ADV$بی‌درنگ+ COP3SG
+بی‌درنگم	ADV$بی‌درنگ+ COP1SG
+بی‌درنگی	ADV$بی‌درنگ+ COP2SG
+بی‌دریغ	ADV$بی‌دریغ+
+بی‌دریغم	ADV$بی‌دریغ+ COP1SG
+بی‌دریغی	ADV$بی‌دریغ+ COP2SG
+بی‌دلیل	ADV$بی‌دلیل+
+بی‌دلیلی	ADV$بی‌دلیل+ COP2SG
+بی‌ربط	ADV$بی‌ربط+
+بی‌رحمانه	ADV$بی‌رحمانه+
+بی‌رونق	ADV$بی‌رونق+
+بی‌رونقی	ADV$بی‌رونق+ COP2SG
+بی‌ریا	ADV$بی‌ریا+
+بی‌ریاست	ADV$بی‌ریا+ COP3SG
+بی‌ریب	ADV$بی‌ریب+
+بی‌زحمت	ADV$بی‌زحمت+
+بی‌زوال	ADV$بی‌زوال+
+بی‌زوالی	ADV$بی‌زوال+ COP2SG
+بی‌سخن	ADV$بی‌سخن+
+بی‌سخنی	ADV$بی‌سخن+ COP2SG
+بی‌سرانجام	ADV$بی‌سرانجام+
+بی‌سرانجامی	ADV$بی‌سرانجام+ COP2SG
+بی‌شائبه	ADV$بی‌شائبه+
+بی‌شایبه‌ی	ADV$بی‌شایبه+ COP2SG
+بی‌شک	ADV$بی‌شک+
+بی‌شکست	ADV$بی‌شک+ COP3SG
+بی‌شکم	ADV$بی‌شک+ COP1SG
+بی‌شکی	ADV$بی‌شک+ COP2SG
+بی‌صدا	ADV$بی‌صدا+
+بی‌صداست	ADV$بی‌صدا+ COP3SG
+بی‌غرض	ADV$بی‌غرض+
+بی‌غرضی	ADV$بی‌غرض+ COP2SG
+بی‌فایده	ADV$بی‌فایده+
+بی‌فایده‌ست	ADV$بی‌فایده+ COP3SG
+بی‌فکر	ADV$بی‌فکر+
+بی‌قاعده	ADV$بی‌قاعده+
+بی‌قرار	ADV$بی‌قرار+
+بی‌قرارست	ADV$بی‌قرار+ COP3SG
+بی‌قرارستی	ADV$بی‌قرار+ COP2SG
+بی‌قرارم	ADV$بی‌قرار+ COP1SG
+بی‌قرارند	ADV$بی‌قرار+ COP3PL
+بی‌قراری	ADV$بی‌قرار+ COP2SG
+بی‌قرارید	ADV$بی‌قرار+ COP2PL
+بی‌قراریم	ADV$بی‌قرار+ COP1PL
+بی‌قصد	ADV$بی‌قصد+
+بی‌قیاس	ADV$بی‌قیاس+
+بی‌قیاسی	ADV$بی‌قیاس+ COP2SG
+بی‌مثال	ADV$بی‌مثال+
+بی‌مثالی	ADV$بی‌مثال+ COP2SG
+بی‌مثل	ADV$بی‌مثل+
+بی‌مثلی	ADV$بی‌مثل+ COP2SG
+بی‌محابا	ADV$بی‌محابا+
+بی‌مروت	ADV$بی‌مروت+
+بی‌مروتی	ADV$بی‌مروت+ COP2SG
+بی‌مزد	ADV$بی‌مزد+
+بی‌مضایقه	ADV$بی‌مضایقه+
+بی‌مناسبت	ADV$بی‌مناسبت+
+بی‌موقع	ADV$بی‌موقع+
+بی‌نام	ADV$بی‌نام+
+بی‌نتیجه	ADV$بی‌نتیجه+
+بی‌نشان	ADV$بی‌نشان+
+بی‌نشانست	ADV$بی‌نشان+ COP3SG
+بی‌نشانستی	ADV$بی‌نشان+ COP2SG
+بی‌نشانم	ADV$بی‌نشان+ COP1SG
+بی‌نشانی	ADV$بی‌نشان+ COP2SG
+بی‌نشانیم	ADV$بی‌نشان+ COP1PL
+بی‌نظم	ADV$بی‌نظم+
+بی‌نظیر	ADV$بی‌نظیر+
+بی‌نظیرست	ADV$بی‌نظیر+ COP3SG
+بی‌نظیرم	ADV$بی‌نظیر+ COP1SG
+بی‌نظیری	ADV$بی‌نظیر+ COP2SG
+بی‌نظیریم	ADV$بی‌نظیر+ COP1PL
+بی‌نهایت	ADV$بی‌نهایت+
+بی‌نهایتی	ADV$بی‌نهایت+ COP2SG
+بی‌هراس	ADV$بی‌هراس+
+بی‌هنگام	ADV$بی‌هنگام+
+بی‌هنگامم	ADV$بی‌هنگام+ COP1SG
+بی‌هنگامی	ADV$بی‌هنگام+ COP2SG
+بی‌واسطه	ADV$بی‌واسطه+
+بی‌واسطه‌ی	ADV$بی‌واسطه+ COP2SG
+بی‌وقت	ADV$بی‌وقت+
+بی‌وقتی	ADV$بی‌وقت+ COP2SG
+بی‌پایان	ADV$بی‌پایان+
+بی‌پایانست	ADV$بی‌پایان+ COP3SG
+بی‌پایانی	ADV$بی‌پایان+ COP2SG
+بی‌پایانیم	ADV$بی‌پایان+ COP1PL
+بی‌پرده	ADV$بی‌پرده+
+بی‌پرده‌ی	ADV$بی‌پرده+ COP2SG
+بی‌پروا	ADV$بی‌پروا+
+بی‌پرواست	ADV$بی‌پروا+ COP3SG
+بی‌پروای	ADV$بی‌پروا+ COP2SG
+بی‌گفتگو	ADV$بی‌گفتگو+
+بی‌گفتگوی	ADV$بی‌گفتگو+ COP2SG
+بی‌گمان	ADV$بی‌گمان+
+بی‌گمانم	ADV$بی‌گمان+ COP1SG
+بی‌گمانی	ADV$بی‌گمان+ COP2SG
+ت	CONJ$+ PRO2SG&P$+ PRO2SG
+تازه	ADV$تازه+
+تازه‌است	ADV$تازه+ COP3SG
+تازه‌ام	ADV$تازه+ COP1SG
+تازه‌ای	ADV$تازه+ COP2SG
+تازه‌ایم	ADV$تازه+ COP1PL
+تازه‌ست	ADV$تازه+ COP3SG
+تازه‌ی	ADV$تازه+ COP2SG
+تاسع	NUM$تاسع+SG
+تان	CONJ$+ PRO2PL&P$+ PRO2PL
+تبارک	ADV$تبارک+
+تبسم‌کنان	ADV$تبسم‌کنان+
+تخ	INT$تخ+
+تخت	INT$تخ+ PRO2SG
+تخش	INT$تخ+ PRO3SG
+تخم	INT$تخ+ PRO1SG
+تر	INT$تر+
+ترت	INT$تر+ PRO2SG
+ترش	INT$تر+ PRO3SG
+ترشان	INT$تر+ PRO3PL
+ترقی	ADV$ترقی+
+ترقیست	ADV$ترقی+ COP3SG
+ترقیی	ADV$ترقی+ COP2SG
+ترم	INT$تر+ PRO1SG
+ترنگاترنگ	INT$ترنگاترنگ+
+ترکانه	ADV$ترکانه+
+ترک‌جوشی	ADV$ترک‌جوش+ COP2SG
+تستی	ADV$تستی+
+تش	PRO$تش+SG
+تشت	PRO$تش+SG PRO2SG
+تشتی	PRO$تش+SG PRO2SG COP2SG#SG PRO2SG YEH
+تف	INT$تف+
+تفت	INT$تف+ PRO2SG&ADV$تفت+
+تفتست	ADV$تفت+ COP3SG
+تفته	ADV$تفته+
+تفته‌ام	ADV$تفته+ COP1SG
+تفته‌ای	ADV$تفته+ COP2SG
+تفته‌ی	ADV$تفته+ COP2SG
+تفتی	ADV$تفت+ COP2SG
+تفش	INT$تف+ PRO3SG
+تفو	INT$تفو+
+تفوم	INT$تفو+ PRO1SG
+تلق	INT$تلق+&ADV$تلق+
+تلقی	ADV$تلق+ COP2SG*تلقی+
+تلقیم	ADV$تلق+ COP1PL*تلقی+ COP1SG
+تلپت	INT$تلپ+ PRO2SG
+تماشاکنان	ADV$تماشاکنان+
+تمام	ADV$تمام+
+تمامست	ADV$تمام+ COP3SG
+تمامم	ADV$تمام+ COP1SG
+تمامند	ADV$تمام+ COP3PL
+تمامی	ADV$تمامی+*تمام+ COP2SG
+تمامیست	ADV$تمامی+ COP3SG
+تمامیم	ADV$تمامی+ COP1SG*تمام+ COP1PL
+تمیز	ADV$تمیز+
+تمیزست	ADV$تمیز+ COP3SG
+تمیزی	ADV$تمیز+ COP2SG
+تند	ADV$تند+
+تندست	ADV$تند+ COP3SG
+تندم	ADV$تند+ COP1SG
+تندند	ADV$تند+ COP3PL
+تندی	ADV$تند+ COP2SG*تندی+
+تندیم	ADV$تند+ COP1PL*تندی+ COP1SG
+تندیی	ADV$تندی+ COP2SG
+تنها	ADV$تنها+
+تنهاست	ADV$تنها+ COP3SG
+تنهاستی	ADV$تنها+ COP2SG
+تنهام	ADV$تنها+ COP1SG
+تنهای	ADV$تنها+ COP2SG
+تنهایم	ADV$تنها+ COP1PL
+تنگ	ADV$تنگ+
+تنگاتنگ	ADV$تنگاتنگ+
+تنگست	ADV$تنگ+ COP3SG
+تنگستی	ADV$تنگ+ COP2SG
+تنگم	ADV$تنگ+ COP1SG
+تنگی	ADV$تنگ+ COP2SG
+تنگیم	ADV$تنگ+ COP1PL
+تنگ‌ست	ADV$تنگ+ COP3SG
+تن‌آسان	ADV$تن‌آسان+
+تن‌آسانی	ADV$تن‌آسان+ COP2SG
+تن‌آسانیم	ADV$تن‌آسان+ COP1PL
+تهی	ADV$تهی+
+تهیست	ADV$تهی+ COP3SG
+تهیم	ADV$تهی+ COP1SG
+تهیند	ADV$تهی+ COP3PL
+تهیی	ADV$تهی+ COP2SG
+تهی‌دست	ADV$تهی‌دست+
+تهی‌دستم	ADV$تهی‌دست+ COP1SG
+تهی‌دستی	ADV$تهی‌دست+ COP2SG
+تهی‌دستیم	ADV$تهی‌دست+ COP1PL
+تهی‌ست	ADV$تهی+ COP3SG
+تهی‌پا	ADV$تهی‌پا+
+تو	PRO$تو+SG
+توئی	PRO$تو+SG YEH
+توئیم	PRO$تو+SG YEH COP1SG
+توئیکه	PRO$تو+SG YEH CONJ
+توان	PRO$تو+PL
+توانت	PRO$تو+PL PRO2SG
+توانست	PRO$تو+PL COP3SG
+توانستم	PRO$تو+PL COP1SG
+توانستند	PRO$تو+PL COP3PL
+توانستی	PRO$تو+PL COP2SG
+توانش	PRO$تو+PL PRO3SG
+توانم	PRO$تو+PL PRO1SG#PL COP1SG
+توانند	PRO$تو+PL COP3PL
+توانی	PRO$تو+PL YEH#PL COP2SG
+توانید	PRO$تو+PL COP2PL
+توانیم	PRO$تو+PL COP1PL#PL YEH COP1SG
+توت	PRO$تو+SG PRO2SG
+توتست	PRO$تو+SG PRO2SG COP3SG
+توتو	ADV$توتو+
+توتوست	ADV$توتو+ COP3SG
+توتی	PRO$تو+SG PRO2SG COP2SG#SG PRO2SG YEH
+تورا	PRO$تو+SG POSTP
+توست	PRO$تو+SG COP3SG
+توستم	PRO$تو+SG COP1SG
+توش	PRO$تو+SG PRO3SG
+توشان	PRO$تو+SG PRO3PL
+توشست	PRO$تو+SG PRO3SG COP3SG
+توشم	PRO$تو+SG PRO3SG COP1SG
+توشی	PRO$تو+SG PRO3SG COP2SG#SG PRO3SG YEH
+توم	PRO$تو+SG PRO1SG#SG COP1SG
+تومان	PRO$تو+SG PRO1PL
+تومانند	PRO$تو+SG PRO1PL COP3PL
+تومانی	PRO$تو+SG PRO1PL COP2SG#SG PRO1PL YEH
+تومی	PRO$تو+SG PRO1SG COP2SG#SG PRO1SG YEH
+توند	PRO$تو+SG COP3PL
+توها	PRO$تو+PL
+توهای	PRO$تو+PL EZ#PL COP2SG
+توکلی	ADV$توکلی+
+توکه	PRO$تو+SG CONJ
+توگفتی	ADV$توگفتی+
+توگویی	ADV$توگویی+
+توی	PRO$تو+SG COP2SG#SG EZ
+تویشان	PRO$تو+SG PRO3PL
+تویم	PRO$تو+SG PRO1SG#SG COP1PL
+تویی	PRO$تو+SG YEH
+توییست	PRO$تو+SG YEH COP3SG
+توییم	PRO$تو+SG YEH COP1SG
+تپان	ADV$تپان+
+تپانم	ADV$تپان+ COP1SG
+تپش	INT$تپ+ PRO3SG
+تپید	ADV$تپ+ COP2PL
+تک	ADV$تک+
+تکست	ADV$تک+ COP3SG
+تکستی	ADV$تک+ COP2SG
+تکی	ADV$تک+ COP2SG*تکی+
+تکیست	ADV$تکی+ COP3SG
+تیرست	NUM$تیرست+SG
+تیز	ADV$تیز+
+تیزست	ADV$تیز+ COP3SG
+تیزم	ADV$تیز+ COP1SG
+تیزی	ADV$تیز+ COP2SG
+تیزیم	ADV$تیز+ COP1PL
+تیمی	ADV$تیمی+
+تی‌تی	INT$تی‌تی+
+ثالث	NUM$ثالث+SG
+ثالثا	ADV$ثالثا+
+ثالثم	NUM$ثالث+SG PRO1SG#SG COP1SG
+ثالثی	NUM$ثالث+SG COP2SG#SG YEH
+ثامن	NUM$ثامن+SG
+ثانیا	ADV$ثانیا+
+ثلاث	NUM$ثلاث+SG
+ثلاثه	NUM$ثلاثه+SG
+ثلث	NUM$ثلث+SG
+ثلثش	NUM$ثلث+SG PRO3SG
+ثلثی	NUM$ثلث+SG COP2SG#SG YEH
+ثمن	NUM$ثمن+SG
+ثمنست	NUM$ثمن+SG COP3SG
+ثمنش	NUM$ثمن+SG PRO3SG
+ثمنی	NUM$ثمن+SG COP2SG#SG YEH
+جابجا	ADV$جابجا+
+جابه‌جا	ADV$جابه‌جا+
+جابه‌جای	ADV$جابه‌جا+ COP2SG
+جادوانه	ADV$جادوانه+
+جانانه	ADV$جانانه+
+جانانه‌ام	ADV$جانانه+ COP1SG
+جانانه‌ای	ADV$جانانه+ COP2SG
+جانانه‌ی	ADV$جانانه+ COP2SG
+جاهلانه	ADV$جاهلانه+
+جاهلانه‌ای	ADV$جاهلانه+ COP2SG
+جاودانه	ADV$جاودانه+
+جاودانه‌ای	ADV$جاودانه+ COP2SG
+جاودانه‌ی	ADV$جاودانه+ COP2SG
+جدا	ADV$جدا+
+جداست	ADV$جدا+ COP3SG
+جداستی	ADV$جدا+ COP2SG
+جدام	ADV$جدا+ COP1SG
+جداگانه	ADV$جداگانه+
+جدای	ADV$جدا+ COP2SG
+جدایم	ADV$جدا+ COP1PL
+جدی	ADV$جدی+
+جر	INT$جر+
+جرت	INT$جر+ PRO2SG
+جرش	INT$جر+ PRO3SG
+جرم	INT$جر+ PRO1SG
+جرنگ	INT$جرنگ+
+جز	INT$جز+
+جزئی	ADV$جزئی+
+جزم	INT$جز+ PRO1SG
+جزیی	ADV$جزیی+
+جسما	ADV$جسما+
+جفتی	ADV$جفتی+
+جفتیم	ADV$جفتی+ COP1SG
+جلد	ADV$جلد+
+جلدست	ADV$جلد+ COP3SG
+جلدند	ADV$جلد+ COP3PL
+جلدی	ADV$جلد+ COP2SG
+جلو	ADV$جلو+
+جمله	PRO$جمله+SG
+جمله‌اش	PRO$جمله+SG PRO3SG
+جمله‌ام	PRO$جمله+SG PRO1SG#SG COP1SG
+جمله‌ای	PRO$جمله+SG COP2SG
+جمله‌ت	PRO$جمله+SG PRO2SG
+جمله‌تان	PRO$جمله+SG PRO2PL
+جمله‌ست	PRO$جمله+SG COP3SG
+جمله‌شان	PRO$جمله+SG PRO3PL
+جمله‌مان	PRO$جمله+SG PRO1PL
+جمله‌ها	PRO$جمله+PL
+جمله‌ی	PRO$جمله+SG COP2SG#SG EZ
+جملگان	PRO$جمله+PL
+جملگانتان	PRO$جمله+PL PRO2PL
+جملگی	PRO$جملگی+SG
+جمیع	PRO$جمیع+SG
+جمیعت	PRO$جمیع+SG PRO2SG
+جهارا	ADV$جهارا+
+جهرا	ADV$جهرا+
+حاضر	INT$حاضر+
+حاضرش	INT$حاضر+ PRO3SG
+حاضرم	INT$حاضر+ PRO1SG
+حال	ADV$حال+
+حالا	ADV$حالا+
+حالست	ADV$حال+ COP3SG
+حالم	ADV$حال+ COP1SG
+حالند	ADV$حال+ COP3PL
+حالی	ADV$حالی+*حال+ COP2SG
+حالیا	ADV$حالیا+
+حالیست	ADV$حالی+ COP3SG
+حالیم	ADV$حالی+ COP1SG*حال+ COP1PL
+حالی‌ست	ADV$حالی+ COP3SG
+حال‌اند	ADV$حال+ COP3PL
+حبذا	INT$حبذا+
+حتم	ADV$حتم+
+حتما	ADV$حتما+
+حروفی	ADV$حروفی+
+حروفیست	ADV$حروفی+ COP3SG
+حروفیم	ADV$حروفی+ COP1SG
+حسابی	ADV$حسابی+
+حسبه‌لله	ADV$حسبه‌لله+
+حفظ	ADV$حفظ+
+حفظ‌ست	ADV$حفظ+ COP3SG
+حقا	INT$حقا+&ADV$حقا+
+حقانی	ADV$حقانی+
+حقیر	PRO$حقیر+SG
+حقیرست	PRO$حقیر+SG COP3SG
+حقیرش	PRO$حقیر+SG PRO3SG
+حقیرم	PRO$حقیر+SG PRO1SG#SG COP1SG
+حقیرند	PRO$حقیر+SG COP3PL
+حقیری	PRO$حقیر+SG COP2SG#SG YEH
+حقیریست	PRO$حقیر+SG YEH COP3SG
+حقیریم	PRO$حقیر+SG YEH COP1SG#SG COP1PL
+حقیقه	ADV$حقیقه+
+حلقه‌دار	ADV$حلقه‌دار+
+حکما	ADV$حکما+
+حکماست	ADV$حکما+ COP3SG
+حکیمانه	ADV$حکیمانه+
+حیرت‌زده	ADV$حیرت‌زده+
+حیرت‌زده‌ی	ADV$حیرت‌زده+ COP2SG
+حیف	INT$حیف+&ADV$حیف+
+حیفت	INT$حیف+ PRO2SG
+حیفست	ADV$حیف+ COP3SG
+حیفش	INT$حیف+ PRO3SG
+حیفم	INT$حیف+ PRO1SG&ADV$حیف+ COP1SG
+حیفی	ADV$حیف+ COP2SG
+خائف	ADV$خائف+
+خائفم	ADV$خائف+ COP1SG
+خاتونی	ADV$خاتونی+
+خاتونیست	ADV$خاتونی+ COP3SG
+خاتونیم	ADV$خاتونی+ COP1SG
+خادمانه	ADV$خادمانه+
+خارت	INT$خارت+
+خارج	ADV$خارج+
+خارجی	ADV$خارج+ COP2SG
+خاصه	ADV$خاصه+
+خاصه‌ای	ADV$خاصه+ COP2SG
+خاصه‌ی	ADV$خاصه+ COP2SG
+خالص	ADV$خالص+
+خالصست	ADV$خالص+ COP3SG
+خالصی	ADV$خالص+ COP2SG
+خالی	ADV$خالی+
+خالیست	ADV$خالی+ COP3SG
+خالیستی	ADV$خالی+ COP2SG
+خالیم	ADV$خالی+ COP1SG
+خالیند	ADV$خالی+ COP3PL
+خالیی	ADV$خالی+ COP2SG
+خالییم	ADV$خالی+ COP1PL
+خالی‌ست	ADV$خالی+ COP3SG
+خامس	NUM$خامس+SG
+خامسا	ADV$خامسا+
+خامست	NUM$خامس+SG PRO2SG
+خاموش	INT$خاموش+&ADV$خاموش+
+خاموشانه	ADV$خاموشانه+
+خاموشانه‌ای	ADV$خاموشانه+ COP2SG
+خاموشت	INT$خاموش+ PRO2SG
+خاموشست	ADV$خاموش+ COP3SG
+خاموشش	INT$خاموش+ PRO3SG
+خاموشم	INT$خاموش+ PRO1SG&ADV$خاموش+ COP1SG
+خاموشند	ADV$خاموش+ COP3PL
+خاموشی	ADV$خاموش+ COP2SG
+خاموشیم	ADV$خاموش+ COP1PL
+خایان	ADV$خایان+
+خایف	ADV$خایف+
+خایفست	ADV$خایف+ COP3SG
+خایفم	ADV$خایف+ COP1SG
+خایفی	ADV$خایف+ COP2SG
+خبر	INT$خبر+
+خبرت	INT$خبر+ PRO2SG
+خبردار	INT$خبردار+&ADV$خبردار+
+خبردارش	INT$خبردار+ PRO3SG
+خبردارم	INT$خبردار+ PRO1SG&ADV$خبردار+ COP1SG
+خبرداری	ADV$خبردار+ COP2SG
+خبرش	INT$خبر+ PRO3SG
+خبرشان	INT$خبر+ PRO3PL
+خبرم	INT$خبر+ PRO1SG
+خبرمان	INT$خبر+ PRO1PL
+خداوندی	INT$خداوندی+
+خداوندیت	INT$خداوندی+ PRO2SG
+خداوندیش	INT$خداوندی+ PRO3SG
+خداوندیم	INT$خداوندی+ PRO1SG
+خدایا	INT$خدایا+
+خدایانه	ADV$خدایانه+
+خدایی	ADV$خدایی+
+خداییست	ADV$خدایی+ COP3SG
+خداییم	ADV$خدایی+ COP1SG
+خدایی‌ست	ADV$خدایی+ COP3SG
+خر	INT$خر+
+خراخر	INT$خراخر+
+خرامان	ADV$خرامان+
+خرامانم	ADV$خرامان+ COP1SG
+خرامانی	ADV$خرامان+ COP2SG
+خرت	INT$خر+ PRO2SG
+خرخر	INT$خرخر+
+خردمندانه	ADV$خردمندانه+
+خرش	INT$خر+ PRO3SG
+خرفروشانه	ADV$خرفروشانه+
+خرم	INT$خر+ PRO1SG
+خرمان	INT$خر+ PRO1PL
+خروار	ADV$خروار+
+خروارست	ADV$خروار+ COP3SG
+خروارم	ADV$خروار+ COP1SG
+خروارند	ADV$خروار+ COP3PL
+خرواری	ADV$خروار+ COP2SG
+خرکی	ADV$خرکی+
+خزیده	ADV$خزیده+
+خزیده‌اند	ADV$خزیده+ COP3PL
+خزیده‌ایم	ADV$خزیده+ COP1PL
+خزیده‌ستی	ADV$خزیده+ COP2SG
+خسروانه	ADV$خسروانه+
+خصمانه	ADV$خصمانه+
+خصوص	ADV$خصوص+
+خلاصه	ADV$خلاصه+
+خلاصه‌ست	ADV$خلاصه+ COP3SG
+خلاصه‌ی	ADV$خلاصه+ COP2SG
+خلف	ADV$خلف+
+خلفی	ADV$خلف+ COP2SG
+خلقا	ADV$خلقا+
+خلوتی	ADV$خلوتی+
+خلوتیست	ADV$خلوتی+ COP3SG
+خمسین	NUM$خمسین+SG
+خموشانه	ADV$خموشانه+
+خندان	ADV$خندان+
+خندانست	ADV$خندان+ COP3SG
+خندانم	ADV$خندان+ COP1SG
+خندانی	ADV$خندان+ COP2SG
+خندانید	ADV$خندان+ COP2PL
+خندانیم	ADV$خندان+ COP1PL
+خنک	ADV$خنک+
+خنکی	ADV$خنک+ COP2SG
+خه	INT$خه+
+خهی	INT$خهی+
+خه‌خه	INT$خه‌خه+
+خوابیده	ADV$خوابیده+
+خوابیده‌اند	ADV$خوابیده+ COP3PL
+خوابیده‌ای	ADV$خوابیده+ COP2SG
+خوابیده‌ی	ADV$خوابیده+ COP2SG
+خوانا	ADV$خوانا+
+خوب	INT$خوب+&ADV$خوب+
+خوبت	INT$خوب+ PRO2SG
+خوبتان	INT$خوب+ PRO2PL
+خوبست	ADV$خوب+ COP3SG
+خوبش	INT$خوب+ PRO3SG
+خوبشان	INT$خوب+ PRO3PL
+خوبم	INT$خوب+ PRO1SG&ADV$خوب+ COP1SG
+خوبند	ADV$خوب+ COP3PL
+خوبی	ADV$خوب+ COP2SG*خوبی+
+خوبیست	ADV$خوبی+ COP3SG
+خوبیم	ADV$خوب+ COP1PL*خوبی+ COP1SG
+خوبیی	ADV$خوبی+ COP2SG
+خوبی‌ی	ADV$خوبی+ COP2SG
+خوش	ADV$خوش+
+خوشا	INT$خوشا+
+خوشبخت	ADV$خوشبخت+
+خوشست	ADV$خوش+ COP3SG
+خوشستم	ADV$خوش+ COP1SG
+خوشستی	ADV$خوش+ COP2SG
+خوشستیم	ADV$خوش+ COP1PL
+خوشم	ADV$خوش+ COP1SG
+خوشند	ADV$خوش+ COP3PL
+خوشی	ADV$خوش+ COP2SG
+خوشیم	ADV$خوش+ COP1PL
+خوش‌ست	ADV$خوش+ COP3SG
+خویش	PRO$خویش+SG
+خویشان	PRO$خویش+PL
+خویشانت	PRO$خویش+PL PRO2SG
+خویشانست	PRO$خویش+PL COP3SG
+خویشانش	PRO$خویش+PL PRO3SG
+خویشانم	PRO$خویش+PL PRO1SG#PL COP1SG
+خویشانمان	PRO$خویش+PL PRO1PL
+خویشانند	PRO$خویش+PL COP3PL
+خویشانی	PRO$خویش+PL YEH#PL COP2SG
+خویشت	PRO$خویش+SG PRO2SG
+خویشتان	PRO$خویش+SG PRO2PL
+خویشتن	PRO$خویشتن+SG
+خویشتنت	PRO$خویشتن+SG PRO2SG
+خویشتنست	PRO$خویشتن+SG COP3SG
+خویشتنش	PRO$خویشتن+SG PRO3SG
+خویشتنم	PRO$خویشتن+SG PRO1SG#SG COP1SG
+خویشتنند	PRO$خویشتن+SG COP3PL
+خویشتنی	PRO$خویشتن+SG COP2SG#SG YEH
+خویشتنیم	PRO$خویشتن+SG YEH COP1SG#SG COP1PL
+خویشرا	PRO$خویش+SG POSTP
+خویشست	PRO$خویش+SG COP3SG
+خویشش	PRO$خویش+SG PRO3SG
+خویششان	PRO$خویش+SG PRO3PL
+خویشم	PRO$خویش+SG PRO1SG#SG COP1SG
+خویشمان	PRO$خویش+SG PRO1PL
+خویشند	PRO$خویش+SG COP3PL
+خویشی	PRO$خویش+SG COP2SG#SG YEH
+خویشید	PRO$خویش+SG COP2PL
+خویشیست	PRO$خویش+SG YEH COP3SG
+خویشیم	PRO$خویش+SG YEH COP1SG#SG COP1PL
+خویش‌ام	PRO$خویش+SG COP1SG
+خویش‌اند	PRO$خویش+SG COP3PL
+خیرخیر	ADV$خیرخیر+
+خیره	ADV$خیره+
+خیره‌ام	ADV$خیره+ COP1SG
+خیره‌ای	ADV$خیره+ COP2SG
+خیره‌ست	ADV$خیره+ COP3SG
+خیره‌ی	ADV$خیره+ COP2SG
+خیلی	ADV$خیلی+
+دات	NUM$ده+PL
+دام	INT$دام+
+دامت	INT$دام+ PRO2SG
+دامش	INT$دام+ PRO3SG
+دامشان	INT$دام+ PRO3PL
+دامم	INT$دام+ PRO1SG
+دامن‌کشان	ADV$دامن‌کشان+
+دانسته	ADV$دانسته+
+دانسته‌ام	ADV$دانسته+ COP1SG
+دانسته‌اند	ADV$دانسته+ COP3PL
+دانسته‌ای	ADV$دانسته+ COP2SG
+دانسته‌اید	ADV$دانسته+ COP2PL
+دانسته‌ایم	ADV$دانسته+ COP1PL
+دانسته‌ی	ADV$دانسته+ COP2SG
+دانه‌ای	ADV$دانه‌ای+
+دانه‌ایست	ADV$دانه‌ای+ COP3SG
+دانه‌ایم	ADV$دانه‌ای+ COP1SG
+دایره‌وار	ADV$دایره‌وار+
+دایما	ADV$دایما+
+دایماست	ADV$دایما+ COP3SG
+در	P$در+
+درآن	PRO$آن+PREP SG
+درآوری	ADV$آوری+PREP 
+درازا	ADV$درازا+
+درازای	ADV$درازا+ COP2SG
+دران	NUM$ان+PREP SG
+دراند	NUM$اند+PREP SG&PRO$اند+PREP SG
+دراندش	NUM$اند+PREP SG PRO3SG&PRO$اند+PREP SG PRO3SG
+دراندم	NUM$اند+PREP SG COP1SG#PREP SG PRO1SG&PRO$اند+PREP SG COP1SG#PREP SG PRO1SG
+دراندیش	NUM$اندی+PREP SG PRO3SG
+دراندیشم	NUM$اندی+PREP SG PRO3SG COP1SG
+دراندیشی	NUM$اندی+PREP SG PRO3SG YEH#PREP SG PRO3SG COP2SG
+دراندیم	NUM$اندی+PREP SG COP1SG#PREP SG PRO1SG*اند+PREP SG COP1PL#PREP SG YEH COP1SG&PRO$اند+PREP SG COP1PL#PREP SG YEH COP1SG
+درانم	NUM$ان+PREP SG COP1SG#PREP SG PRO1SG
+درانند	NUM$ان+PREP SG COP3PL
+درانی	NUM$ان+PREP SG COP2SG#PREP SG YEH
+درانید	NUM$ان+PREP SG COP2PL
+درانیستی	NUM$ان+PREP SG YEH COP2SG
+درانیم	NUM$ان+PREP SG COP1PL#PREP SG YEH COP1SG
+دراو	PRO$او+PREP SG
+دراین	PRO$این+PREP SG
+درباری	ADV$باری+PREP 
+درباز	ADV$باز+PREP 
+دربازم	ADV$باز+PREP  COP1SG
+دربازند	ADV$باز+PREP  COP3PL
+دربازی	ADV$باز+PREP  COP2SG
+دربازیم	ADV$باز+PREP  COP1PL
+دربد	ADV$بد+PREP 
+دربدر	ADV$دربدر+
+دربدرم	ADV$دربدر+ COP1SG
+دربدری	ADV$دربدر+ COP2SG
+دربرتری	ADV$برتر+PREP  COP2SG
+دربست	ADV$دربست+
+دربستست	ADV$دربست+ COP3SG
+دربستم	ADV$دربست+ COP1SG
+دربستند	ADV$دربست+ COP3PL
+دربسته	ADV$دربسته+
+دربسته‌ام	ADV$دربسته+ COP1SG
+دربسته‌ای	ADV$دربسته+ COP2SG
+دربسته‌ایم	ADV$دربسته+ COP1PL
+دربستی	ADV$دربست+ COP2SG
+دربستیم	ADV$دربست+ COP1PL
+دربه	ADV$به+PREP 
+دربیش	ADV$بیش+PREP 
+درت	P$در+ PRO2SG
+درتش	PRO$تش+PREP SG
+درتو	PRO$تو+PREP SG
+درحال	ADV$درحال+*حال+PREP 
+درخزیده	ADV$خزیده+PREP 
+درخویش	PRO$خویش+PREP SG
+دردا	INT$دردا+
+دردانه‌ای	ADV$دانه‌ای+PREP 
+دردستیست	ADV$دستی+PREP  COP3SG
+درده	NUM$ده+PREP SG
+دردهم	NUM$ده+PREP SG PRO1SG
+درده‌ام	NUM$ده+PREP SG COP1SG#PREP SG PRO1SG
+درده‌ای	NUM$ده+PREP SG COP2SG
+دردو	NUM$دو+PREP SG
+دردی	ADV$دی+PREP 
+دردیست	ADV$دی+PREP  COP3SG
+دردیستی	ADV$دی+PREP  COP2SG
+دردیم	ADV$دی+PREP  COP1SG
+دردیی	ADV$دی+PREP  COP2SG
+دردی‌ست	ADV$دی+PREP  COP3SG
+درست	ADV$درست+
+درستست	ADV$درست+ COP3SG
+درستم	ADV$درست+ COP1SG
+درستند	ADV$درست+ COP3PL
+درستی	ADV$درست+ COP2SG*درستی+
+درست‌ست	ADV$درست+ COP3SG
+درسه	NUM$سه+PREP SG
+درسی	NUM$سی+PREP SG
+درش	P$در+ PRO3SG
+درشان	P$در+ PRO3PL
+درشب	ADV$شب+PREP 
+درصد	NUM$صد+PREP SG
+درعجب	ADV$عجب+PREP 
+درلا	NUM$لا+PREP SG
+درلک	NUM$لک+PREP SG
+درم	P$در+ PRO1SG
+درما	PRO$ما+PREP SG
+درماتم	PRO$ما+PREP SG PRO2SG COP1SG
+درمان	P$در+ PRO1PL
+درماند	PRO$ما+PREP SG COP3PL
+درمن	PRO$من+PREP SG
+درمنش	PRO$من+PREP SG PRO3SG
+درنه	NUM$نه+PREP SG
+درنهان	ADV$نهان+PREP 
+درنهم	NUM$نه+PREP SG PRO1SG
+درنکند	ADV$نک+PREP  COP3PL
+درنگ	INT$درنگ+
+درنگت	INT$درنگ+ PRO2SG
+درنگش	INT$درنگ+ PRO3SG
+درنگم	INT$درنگ+ PRO1SG
+درهم	ADV$درهم+
+درهمست	ADV$درهم+ COP3SG
+درهمم	ADV$درهم+ COP1SG
+درهمند	ADV$درهم+ COP3PL
+درهمی	ADV$درهم+ COP2SG
+درهم‌اند	ADV$درهم+ COP3PL
+دروغی	ADV$دروغی+
+درویشانه	ADV$درویشانه+
+درویشانه‌ی	ADV$درویشانه+ COP2SG
+درپاک	ADV$پاک+PREP 
+درپرست	ADV$پر+PREP  COP3SG
+درپرم	ADV$پر+PREP  COP1SG
+درپرید	ADV$پر+PREP  COP2PL
+درپوشیده	ADV$پوشیده+PREP 
+درپیش	ADV$پیش+PREP 
+درپیوسته‌ام	ADV$پیوسته+PREP  COP1SG
+درچل	NUM$چل+PREP SG
+درچنان	ADV$چنان+PREP 
+درچنین	PRO$چنین+PREP SG&ADV$چنین+PREP 
+درچه	PRO$چه+PREP SG&ADV$چه+PREP 
+درچهار	NUM$چهار+PREP SG
+درکات	PRO$که+PREP PL
+درکس	PRO$کس+PREP SG
+درکست	PRO$کس+PREP SG PRO2SG
+درکستی	PRO$کس+PREP SG PRO2SG COP2SG#PREP SG PRO2SG YEH
+درکشیده	ADV$کشیده+PREP 
+درکشیده‌ام	ADV$کشیده+PREP  COP1SG
+درکشیده‌ای	ADV$کشیده+PREP  COP2SG
+درکلام	ADV$کلا+PREP  COP1SG
+درکم	ADV$کم+PREP 
+درکند	ADV$کند+PREP 
+درکه	PRO$که+PREP SG
+درکه‌یی	PRO$که+PREP SG YEH
+درکی	PRO$کی+PREP SG&ADV$کی+PREP 
+درکیست	PRO$کی+PREP SG COP3SG&ADV$کی+PREP  COP3SG
+درکیش	PRO$کی+PREP SG PRO3SG
+درگاه	ADV$گاه+PREP 
+درگذرای	ADV$گذرا+PREP  COP2SG
+درگران	ADV$گران+PREP 
+درگشاد	ADV$گشاد+PREP 
+درگشادند	ADV$گشاد+PREP  COP3PL
+درگشاده	ADV$گشاده+PREP 
+درگهی	ADV$گهی+PREP 
+درگهیست	ADV$گهی+PREP  COP3SG
+درگهیم	ADV$گهی+PREP  COP1SG
+دریغ	INT$دریغ+
+دریغا	INT$دریغا+
+دریغت	INT$دریغ+ PRO2SG
+دریغش	INT$دریغ+ PRO3SG
+دریغم	INT$دریغ+ PRO1SG
+دزدانه	ADV$دزدانه+
+دزدکی	ADV$دزدکی+
+دستی	ADV$دستی+
+دستیست	ADV$دستی+ COP3SG
+دستیم	ADV$دستی+ COP1SG
+دستیی	ADV$دستی+ COP2SG
+دستی‌ست	ADV$دستی+ COP3SG
+دفعه	ADV$دفعه+
+دلبرانه	ADV$دلبرانه+
+دلگران	ADV$دلگران+
+دلگرانی	ADV$دلگران+ COP2SG
+دلیرانه	ADV$دلیرانه+
+دل‌نگران	ADV$دل‌نگران+
+دمادم	ADV$دمادم+
+دمادمست	ADV$دمادم+ COP3SG
+دمادمند	ADV$دمادم+ COP3PL
+دمگیر	ADV$دمگیر+
+دم‌بدم	ADV$دم‌بدم+
+ده	NUM$ده+SG
+دهت	NUM$ده+SG PRO2SG
+دهرا	NUM$ده+SG POSTP&ADV$دهرا+
+دهش	NUM$ده+SG PRO3SG
+دهشت‌زده	ADV$دهشت‌زده+
+دهم	NUM$ده+SG PRO1SG
+ده‌اند	NUM$ده+SG COP3PL
+ده‌ای	NUM$ده+SG COP2SG
+ده‌مان	NUM$ده+SG PRO1PL
+ده‌های	NUM$ده+PL EZ#PL COP2SG
+ده‌ی	NUM$ده+SG COP2SG#SG EZ
+دو	NUM$دو+SG
+دوئی	NUM$دو+SG YEH
+دوازده	NUM$دوازده+SG
+دوازدهم	NUM$دوازده+SG PRO1SG
+دواسبه	ADV$دواسبه+
+دوان	NUM$دو+PL&ADV$دوان+
+دوانست	NUM$دو+PL COP3SG&ADV$دوان+ COP3SG
+دوانش	NUM$دو+PL PRO3SG
+دوانشان	NUM$دو+PL PRO3PL
+دوانم	NUM$دو+PL PRO1SG#PL COP1SG&ADV$دوان+ COP1SG
+دوانند	NUM$دو+PL COP3PL&ADV$دوان+ COP3PL
+دوانی	NUM$دو+PL YEH#PL COP2SG&ADV$دوان+ COP2SG
+دوانید	NUM$دو+PL COP2PL&ADV$دوان+ COP2PL
+دوانیست	NUM$دو+PL YEH COP3SG
+دوانیم	NUM$دو+PL COP1PL#PL YEH COP1SG&ADV$دوان+ COP1PL
+دوباره	ADV$دوباره+
+دوباره‌ام	ADV$دوباره+ COP1SG
+دوباره‌ست	ADV$دوباره+ COP3SG
+دوت	NUM$دو+SG PRO2SG
+دوتایی	ADV$دوتایی+
+دودستی	ADV$دودستی+
+دور	ADV$دور+
+دورا	NUM$دو+SG POSTP
+دورادور	ADV$دورادور+
+دورست	ADV$دور+ COP3SG
+دورم	ADV$دور+ COP1SG
+دورند	ADV$دور+ COP3PL
+دوری	ADV$دور+ COP2SG
+دورید	ADV$دور+ COP2PL
+دوریم	ADV$دور+ COP1PL
+دوست	NUM$دو+SG COP3SG
+دوستانه	ADV$دوستانه+
+دوستانه‌ست	ADV$دوستانه+ COP3SG
+دوستم	NUM$دو+SG COP1SG
+دوستند	NUM$دو+SG COP3PL
+دوستی	NUM$دو+SG COP2SG
+دوستیم	NUM$دو+SG COP1PL
+دوش	NUM$دو+SG PRO3SG&ADV$دوش+
+دوشان	NUM$دو+SG PRO3PL
+دوشست	NUM$دو+SG PRO3SG COP3SG&ADV$دوش+ COP3SG
+دوشم	NUM$دو+SG PRO3SG COP1SG&ADV$دوش+ COP1SG
+دوشند	NUM$دو+SG PRO3SG COP3PL&ADV$دوش+ COP3PL
+دوشی	NUM$دو+SG PRO3SG COP2SG#SG PRO3SG YEH&ADV$دوش+ COP2SG
+دوشیم	NUM$دو+SG PRO3SG YEH COP1SG#SG PRO3SG COP1PL&ADV$دوش+ COP1PL
+دوش‌ام	NUM$دو+SG PRO3SG COP1SG&ADV$دوش+ COP1SG
+دوم	NUM$دو+SG PRO1SG#SG COP1SG*دوم+SG&ADV$دوم+
+دومش	NUM$دوم+SG PRO3SG
+دومی	NUM$دو+SG PRO1SG COP2SG#SG PRO1SG YEH*دوم+SG COP2SG#SG YEH&ADV$دوم+ COP2SG
+دومین	NUM$دومین+SG
+دوند	NUM$دو+SG COP3PL
+دوچندان	ADV$دوچندان+
+دوی	NUM$دو+SG COP2SG#SG EZ
+دویت	NUM$دو+SG PRO2SG
+دوید	NUM$دو+SG COP2PL
+دویست	NUM$دویست+SG
+دویستی	NUM$دویست+SG COP2SG#SG YEH
+دویم	NUM$دو+SG PRO1SG#SG COP1PL
+دویی	NUM$دو+SG YEH
+دوییی	NUM$دو+SG YEH COP2SG
+دگر	PRO$دگر+SG
+دگران	PRO$دگر+PL
+دگرانت	PRO$دگر+PL PRO2SG
+دگرانست	PRO$دگر+PL COP3SG
+دگرانش	PRO$دگر+PL PRO3SG
+دگرانم	PRO$دگر+PL PRO1SG#PL COP1SG
+دگرانند	PRO$دگر+PL COP3PL
+دگرانی	PRO$دگر+PL YEH#PL COP2SG
+دگرت	PRO$دگر+SG PRO2SG
+دگررا	PRO$دگر+SG POSTP
+دگرست	PRO$دگر+SG COP3SG
+دگرستم	PRO$دگر+SG COP1SG
+دگرش	PRO$دگر+SG PRO3SG
+دگرشان	PRO$دگر+SG PRO3PL
+دگرم	PRO$دگر+SG PRO1SG#SG COP1SG
+دگرمان	PRO$دگر+SG PRO1PL
+دگرند	PRO$دگر+SG COP3PL
+دگرها	PRO$دگر+PL
+دگرهاست	PRO$دگر+PL COP3SG
+دگری	PRO$دگر+SG COP2SG#SG YEH
+دگریست	PRO$دگر+SG YEH COP3SG
+دگریم	PRO$دگر+SG YEH COP1SG#SG COP1PL
+دی	ADV$دی+
+دیر	ADV$دیر+
+دیرباز	ADV$دیرباز+
+دیرست	ADV$دیر+ COP3SG
+دیرم	ADV$دیر+ COP1SG
+دیرند	ADV$دیر+ COP3PL
+دیروز	ADV$دیروز+
+دیروزی	ADV$دیروز+ COP2SG
+دیرگاه	ADV$دیرگاه+
+دیری	ADV$دیر+ COP2SG*دیری+
+دیریست	ADV$دیری+ COP3SG
+دیریم	ADV$دیر+ COP1PL*دیری+ COP1SG
+دیست	ADV$دی+ COP3SG
+دیشب	ADV$دیشب+
+دیشبم	ADV$دیشب+ COP1SG
+دیم	ADV$دی+ COP1SG
+دینا	ADV$دینا+
+دیند	ADV$دی+ COP3PL
+دیوانه‌وار	ADV$دیوانه‌وار+
+دیگر	ADV$دیگر+
+دیگرست	ADV$دیگر+ COP3SG
+دیگرستم	ADV$دیگر+ COP1SG
+دیگرم	ADV$دیگر+ COP1SG
+دیگرند	ADV$دیگر+ COP3PL
+دیگرگون	ADV$دیگرگون+
+دیگری	ADV$دیگر+ COP2SG
+دیگرید	ADV$دیگر+ COP2PL
+دیگریم	ADV$دیگر+ COP1PL
+دییم	ADV$دی+ COP1PL
+رابع	NUM$رابع+SG
+رابعا	ADV$رابعا+
+رابعش	NUM$رابع+SG PRO3SG
+راحت	ADV$راحت+
+راحتست	ADV$راحت+ COP3SG
+راحتم	ADV$راحت+ COP1SG
+راحتند	ADV$راحت+ COP3PL
+راحتی	ADV$راحت+ COP2SG
+راست	ADV$راست+
+راستست	ADV$راست+ COP3SG
+راستم	ADV$راست+ COP1SG
+راستند	ADV$راست+ COP3PL
+راستی	INT$راستی+&ADV$راست+ COP2SG*راستی+
+راستیت	INT$راستی+ PRO2SG
+راستیست	ADV$راستی+ COP3SG
+راستیش	INT$راستی+ PRO3SG
+راستیشان	INT$راستی+ PRO3PL
+راستیم	INT$راستی+ PRO1SG&ADV$راست+ COP1PL*راستی+ COP1SG
+راستیی	ADV$راستی+ COP2SG
+راستی‌ام	ADV$راستی+ COP1SG
+راستی‌تان	INT$راستی+ PRO2PL
+راستی‌ش	INT$راستی+ PRO3SG
+رایگان	ADV$رایگان+
+رایگانست	ADV$رایگان+ COP3SG
+رایگانم	ADV$رایگان+ COP1SG
+رایگانی	ADV$رایگان+ COP2SG
+ربما	ADV$ربما+
+ربی	INT$ربی+
+ربیم	INT$ربی+ PRO1SG
+رستمانه	ADV$رستمانه+
+رسمی	ADV$رسمی+
+رسمیست	ADV$رسمی+ COP3SG
+رسمی‌ست	ADV$رسمی+ COP3SG
+رغما	ADV$رغما+
+رفته‌رفته	ADV$رفته‌رفته+
+رمارم	ADV$رمارم+
+رندانه	ADV$رندانه+
+رندانه‌ای	ADV$رندانه+ COP2SG
+روارو	ADV$روارو+
+روان	ADV$روان+
+روانست	ADV$روان+ COP3SG
+روانستی	ADV$روان+ COP2SG
+روانم	ADV$روان+ COP1SG
+روانند	ADV$روان+ COP3PL
+روانی	ADV$روان+ COP2SG
+روانید	ADV$روان+ COP2PL
+روانیم	ADV$روان+ COP1PL
+روایی	ADV$روایی+
+روباز	ADV$روباز+
+روبرو	ADV$روبرو+
+روبروست	ADV$روبرو+ COP3SG
+روبروی	ADV$روبرو+ COP2SG
+روحا	ADV$روحا+
+روراست	ADV$روراست+
+روزی	ADV$روزی+
+روزیست	ADV$روزی+ COP3SG
+روزیم	ADV$روزی+ COP1SG
+روزیی	ADV$روزی+ COP2SG
+روزی‌اند	ADV$روزی+ COP3PL
+روزی‌ست	ADV$روزی+ COP3SG
+رویارو	ADV$رویارو+
+رویاروی	ADV$رویاروی+*رویارو+ COP2SG
+رک	ADV$رک+
+ریزریز	ADV$ریزریز+
+ز	P$ز+
+زآرام	ADV$آرام+PREP 
+زآن	PRO$آن+PREP SG
+زآنجا	ADV$آنجا+PREP 
+زآنش	PRO$آن+PREP SG PRO3SG
+زآنها	PRO$آن+PREP PL*آنها+PREP SG
+زآنک	PRO$آنک+PREP SG
+زآنکه	PRO$آنکه+PREP SG*آن+PREP SG CONJ
+زآنگونه	ADV$آنگونه+PREP 
+زابتدا	ADV$ابتدا+PREP 
+زاستر	ADV$زاستر+
+زالان	ADV$الان+PREP 
+زان	NUM$ان+PREP SG
+زانان	NUM$ان+PREP PL
+زانت	NUM$ان+PREP SG PRO2SG
+زاندان	NUM$اند+PREP PL&PRO$اند+PREP PL
+زاندم	NUM$اند+PREP SG COP1SG#PREP SG PRO1SG&PRO$اند+PREP SG COP1SG#PREP SG PRO1SG
+زانست	NUM$ان+PREP SG COP3SG
+زانش	NUM$ان+PREP SG PRO3SG
+زانشان	NUM$ان+PREP SG PRO3PL
+زانقدم	ADV$انقد+PREP  COP1SG
+زانم	NUM$ان+PREP SG COP1SG#PREP SG PRO1SG
+زانند	NUM$ان+PREP SG COP3PL
+زانها	NUM$ان+PREP PL
+زانکه	NUM$ان+PREP SG CONJ
+زانی	NUM$ان+PREP SG COP2SG#PREP SG YEH
+زان‌ها	NUM$ان+PREP PL
+زان‌هاستی	NUM$ان+PREP PL COP2SG
+زاو	PRO$او+PREP SG
+زاوش	PRO$او+PREP SG PRO3SG
+زاول	ADV$اول+PREP 
+زاولی	NUM$اولی+PREP SG&ADV$اول+PREP  COP2SG
+زاویهای	PRO$اوی+PREP PL EZ#PREP PL COP2SG
+زایدر	ADV$ایدر+PREP 
+زایشان	PRO$ایشان+PREP SG
+زاین	PRO$این+PREP SG
+زاینست	PRO$این+PREP SG COP3SG
+زایچ	PRO$ایچ+PREP SG
+زبانی	ADV$زبانی+
+زبانیست	ADV$زبانی+ COP3SG
+زبانیم	ADV$زبانی+ COP1SG
+زبانیند	ADV$زبانی+ COP3PL
+زبانیی	ADV$زبانی+ COP2SG
+زبانی‌ست	ADV$زبانی+ COP3SG
+زبد	ADV$بد+PREP 
+زبرتر	ADV$برتر+PREP 
+زبرترست	ADV$برتر+PREP  COP3SG
+زبس	ADV$بس+PREP 
+زبعد	ADV$بعد+PREP 
+زبه	ADV$به+PREP 
+زبیرون	ADV$بیرون+PREP 
+زتنگ	ADV$تنگ+PREP 
+زتو	PRO$تو+PREP SG
+زتیزی	ADV$تیز+PREP  COP2SG
+زجمله‌ی	PRO$جمله+PREP SG EZ#PREP SG COP2SG
+زحال	ADV$حال+PREP 
+زخوب	ADV$خوب+PREP 
+زخوبی	ADV$خوب+PREP  COP2SG*خوبی+PREP 
+زخوشی	ADV$خوش+PREP  COP2SG
+زخویش	PRO$خویش+PREP SG
+زخویشان	PRO$خویش+PREP PL
+زخویشتن	PRO$خویشتن+PREP SG
+زدستی	ADV$دستی+PREP 
+زدستیم	ADV$دستی+PREP  COP1SG
+زده	NUM$ده+PREP SG
+زده‌ئی	NUM$ده+PREP SG YEH
+زده‌است	NUM$ده+PREP SG COP3SG
+زده‌ام	NUM$ده+PREP SG COP1SG#PREP SG PRO1SG
+زده‌اند	NUM$ده+PREP SG COP3PL
+زده‌ای	NUM$ده+PREP SG COP2SG
+زده‌ایم	NUM$ده+PREP SG COP1PL
+زده‌ست	NUM$ده+PREP SG COP3SG
+زده‌ستی	NUM$ده+PREP SG COP2SG
+زده‌ی	NUM$ده+PREP SG EZ#PREP SG COP2SG
+زدو	NUM$دو+PREP SG
+زدوانیم	NUM$دو+PREP PL COP1PL#PREP PL YEH COP1SG&ADV$دوان+PREP  COP1PL
+زدور	ADV$دور+PREP 
+زدوریم	ADV$دور+PREP  COP1PL
+زدوست	NUM$دو+PREP SG COP3SG
+زدوش	NUM$دو+PREP SG PRO3SG&ADV$دوش+PREP 
+زدگان	NUM$ده+PREP PL
+زدگانیم	NUM$ده+PREP PL COP1PL#PREP PL YEH COP1SG
+زدی	ADV$دی+PREP 
+زدیم	ADV$دی+PREP  COP1SG
+زدیگر	ADV$دیگر+PREP 
+زراست	ADV$راست+PREP 
+زروان	ADV$روان+PREP 
+زرک	ADV$رک+PREP 
+زرکند	ADV$رک+PREP  COP3PL
+زسهم	NUM$سه+PREP SG PRO1SG
+زسی	NUM$سی+PREP SG
+زسیمای	ADV$سیما+PREP  COP2SG
+زش	P$ز+ PRO3SG
+زشب	ADV$شب+PREP 
+زشیرین	ADV$شیرین+PREP 
+زصد	NUM$صد+PREP SG
+زعامه	PRO$عامه+PREP SG
+زلا	NUM$لا+PREP SG
+زلات	NUM$لا+PREP SG PRO2SG
+زلاتی	NUM$لا+PREP SG PRO2SG COP2SG#PREP SG PRO2SG YEH&ADV$لاتی+PREP 
+زلای	NUM$لا+PREP SG EZ#PREP SG COP2SG
+زلفا	ADV$لفا+PREP 
+زم	P$ز+ PRO1SG
+زما	PRO$ما+PREP SG
+زمات	PRO$ما+PREP SG PRO2SG
+زمام	PRO$ما+PREP SG COP1SG#PREP SG PRO1SG
+زمامست	PRO$ما+PREP SG PRO1SG COP3SG
+زمامم	PRO$ما+PREP SG PRO1SG COP1SG
+زمان	P$ز+ PRO1PL
+زمردم	ADV$مردم+PREP 
+زمردوار	ADV$مردوار+PREP 
+زمستان	ADV$زمستان+
+زمستانست	ADV$زمستان+ COP3SG
+زمستانم	ADV$زمستان+ COP1SG
+زمستانی	ADV$زمستان+ COP2SG
+زمن	PRO$من+PREP SG
+زمنست	PRO$من+PREP SG COP3SG
+زمنم	PRO$من+PREP SG COP1SG#PREP SG PRO1SG
+زمنی	PRO$من+PREP SG COP2SG#PREP SG YEH
+زمنیم	PRO$من+PREP SG COP1PL#PREP SG YEH COP1SG
+زنانه	ADV$زنانه+
+زنانه‌ست	ADV$زنانه+ COP3SG
+زناگه	ADV$ناگه+PREP 
+زنخست	NUM$نخست+PREP SG&ADV$نخست+PREP 
+زنزدیک	ADV$نزدیک+PREP 
+زنه	NUM$نه+PREP SG
+زنهار	INT$زنهار+
+زنهارت	INT$زنهار+ PRO2SG
+زنهارش	INT$زنهار+ PRO3SG
+زنهارشان	INT$زنهار+ PRO3PL
+زنهارم	INT$زنهار+ PRO1SG
+زنه‌ی	NUM$نه+PREP SG EZ#PREP SG COP2SG
+زنک	ADV$نک+PREP 
+زنکی	ADV$نک+PREP  COP2SG
+زنگان	NUM$نه+PREP PL
+زنیک	ADV$نیک+PREP 
+زنیکی	ADV$نیک+PREP  COP2SG
+زهازه	INT$زهازه+
+زود	ADV$زود+
+زودست	ADV$زود+ COP3SG
+زودم	ADV$زود+ COP1SG
+زودی	ADV$زود+ COP2SG
+زپس	ADV$پس+PREP 
+زپستی	ADV$پست+PREP  COP2SG
+زپنجه‌ی	NUM$پنجه+PREP SG EZ#PREP SG COP2SG
+زپیش	ADV$پیش+PREP 
+زچرا	ADV$چرا+PREP 
+زچنان	ADV$چنان+PREP 
+زچه	PRO$چه+PREP SG&ADV$چه+PREP 
+زچهل	NUM$چهل+PREP SG
+زچیست	PRO$چیست+PREP SG*چی+PREP SG COP3SG
+زکات	PRO$که+PREP PL
+زکاتت	PRO$که+PREP PL PRO2SG
+زکاتست	PRO$که+PREP PL COP3SG
+زکاتش	PRO$که+PREP PL PRO3SG
+زکاتم	PRO$که+PREP PL COP1SG#PREP PL PRO1SG
+زکاتی	PRO$که+PREP PL YEH#PREP PL COP2SG
+زکاتیرا	PRO$که+PREP PL YEH POSTP
+زکس	PRO$کس+PREP SG
+زکسی	PRO$کس+PREP SG COP2SG#PREP SG YEH
+زکلش	PRO$کل+PREP SG PRO3SG
+زکم	ADV$کم+PREP 
+زکمند	ADV$کم+PREP  COP3PL
+زکه	PRO$که+PREP SG
+زکی	INT$زکی+&PRO$کی+PREP SG&ADV$کی+PREP 
+زکیش	INT$زکی+ PRO3SG&PRO$کی+PREP SG PRO3SG
+زگاه	ADV$گاه+PREP 
+زگرمی	ADV$گرم+PREP  COP2SG
+زیاد	ADV$زیاد+
+زیادست	ADV$زیاد+ COP3SG
+زیادم	ADV$زیاد+ COP1SG
+زیاده	ADV$زیاده+
+زیاده‌ام	ADV$زیاده+ COP1SG
+زیاده‌ای	ADV$زیاده+ COP2SG
+زیادی	ADV$زیاد+ COP2SG
+سابع	NUM$سابع+SG
+سابعا	ADV$سابعا+
+سابق	ADV$سابق+
+سابقا	ADV$سابقا+
+سابقست	ADV$سابق+ COP3SG
+سابقم	ADV$سابق+ COP1SG
+سابقی	ADV$سابق+ COP2SG
+سابقیم	ADV$سابق+ COP1PL
+ساحرانه	ADV$ساحرانه+
+سادس	NUM$سادس+SG
+سادسا	ADV$سادسا+
+سادست	NUM$سادس+SG PRO2SG
+سادستی	NUM$سادس+SG PRO2SG COP2SG#SG PRO2SG YEH
+سادسی	NUM$سادس+SG COP2SG#SG YEH
+سالم	ADV$سالم+
+سالمند	ADV$سالم+ COP3PL
+سالمی	ADV$سالم+ COP2SG
+سالوسانه	ADV$سالوسانه+
+ساکت	ADV$ساکت+
+ساکتست	ADV$ساکت+ COP3SG
+ساکتم	ADV$ساکت+ COP1SG
+سایر	PRO$سایر+SG
+سایران	PRO$سایر+PL
+سایرست	PRO$سایر+SG COP3SG
+سایری	PRO$سایر+SG COP2SG#SG YEH
+سبای	ADV$سبای+
+سبحان‌الله	INT$سبحان‌الله+
+سبع	NUM$سبع+SG
+سبعی	NUM$سبع+SG COP2SG#SG YEH
+سبک	ADV$سبک+
+سبکست	ADV$سبک+ COP3SG
+سبکم	ADV$سبک+ COP1SG
+سبکی	ADV$سبک+ COP2SG
+سبیلی	ADV$سبیلی+
+ستونی	ADV$ستونی+
+سحرآمیزی	ADV$سحرآمیز+ COP2SG
+سحرگاه	ADV$سحرگاه+
+سحرگاهان	ADV$سحرگاهان+
+سخت	ADV$سخت+
+سختست	ADV$سخت+ COP3SG
+سختم	ADV$سخت+ COP1SG
+سختند	ADV$سخت+ COP3PL
+سخته	ADV$سخته+
+سخته‌ای	ADV$سخته+ COP2SG
+سخته‌ی	ADV$سخته+ COP2SG
+سختی	ADV$سخت+ COP2SG
+سختیم	ADV$سخت+ COP1PL
+سخی	ADV$سخ+ COP2SG
+سد	NUM$سد+SG
+سدت	NUM$سد+SG PRO2SG
+سدست	NUM$سد+SG COP3SG
+سدش	NUM$سد+SG PRO3SG
+سدشان	NUM$سد+SG PRO3PL
+سدم	NUM$سد+SG PRO1SG#SG COP1SG
+سدی	NUM$سد+SG COP2SG#SG YEH
+سدید	NUM$سد+SG COP2PL
+سدیست	NUM$سد+SG YEH COP3SG
+سدیگر	NUM$سدیگر+SG
+سراسیمه	ADV$سراسیمه+
+سراسیمه‌ای	ADV$سراسیمه+ COP2SG
+سراسیمه‌ی	ADV$سراسیمه+ COP2SG
+سرافکنده	ADV$سرافکنده+
+سرافکنده‌ام	ADV$سرافکنده+ COP1SG
+سرافکنده‌ایم	ADV$سرافکنده+ COP1PL
+سرافکنده‌ی	ADV$سرافکنده+ COP2SG
+سرانجام	ADV$سرانجام+
+سرانجامست	ADV$سرانجام+ COP3SG
+سرانجامم	ADV$سرانجام+ COP1SG
+سرانجامی	ADV$سرانجام+ COP2SG
+سراپا	ADV$سراپا+
+سراپاست	ADV$سراپا+ COP3SG
+سراپای	ADV$سراپا+ COP2SG
+سراپایم	ADV$سراپا+ COP1PL
+سربالا	ADV$سربالا+
+سربالاستی	ADV$سربالا+ COP2SG
+سربالای	ADV$سربالا+ COP2SG
+سربست	ADV$سربست+
+سربسته	ADV$سربسته+
+سربسته‌ای	ADV$سربسته+ COP2SG
+سربسته‌ست	ADV$سربسته+ COP3SG
+سربسته‌ی	ADV$سربسته+ COP2SG
+سربسر	ADV$سربسر+
+سربسرم	ADV$سربسر+ COP1SG
+سرتاسر	ADV$سرتاسر+
+سرتاپا	ADV$سرتاپا+
+سرتاپای	ADV$سرتاپا+ COP2SG
+سرجمع	ADV$سرجمع+
+سرجمله	ADV$سرجمله+
+سرخود	ADV$سرخود+
+سرد	ADV$سرد+
+سردست	ADV$سرد+ COP3SG
+سردستم	ADV$سرد+ COP1SG
+سردستی	ADV$سردستی+*سرد+ COP2SG
+سردم	ADV$سرد+ COP1SG
+سردند	ADV$سرد+ COP3PL
+سردی	ADV$سرد+ COP2SG
+سردید	ADV$سرد+ COP2PL
+سردیم	ADV$سرد+ COP1PL
+سرزده	ADV$سرزده+
+سرزده‌ای	ADV$سرزده+ COP2SG
+سرزده‌ست	ADV$سرزده+ COP3SG
+سرسری	ADV$سرسری+
+سرسریست	ADV$سرسری+ COP3SG
+سرمد	ADV$سرمد+
+سرمدست	ADV$سرمد+ COP3SG
+سرمدی	ADV$سرمد+ COP2SG*سرمدی+
+سرنگون	ADV$سرنگون+
+سرنگونست	ADV$سرنگون+ COP3SG
+سرنگونم	ADV$سرنگون+ COP1SG
+سرنگونی	ADV$سرنگون+ COP2SG
+سرپای	ADV$سرپا+ COP2SG
+سرپایم	ADV$سرپا+ COP1PL
+سرپوشیده	ADV$سرپوشیده+
+سری	ADV$سری+
+سریست	ADV$سری+ COP3SG
+سریعا	ADV$سریعا+
+سریم	ADV$سری+ COP1SG
+سریی	ADV$سری+ COP2SG
+سست	ADV$سست+
+سستست	ADV$سست+ COP3SG
+سستم	ADV$سست+ COP1SG
+سستی	ADV$سست+ COP2SG
+سست‌ام	ADV$سست+ COP1SG
+سفت	ADV$سفت+
+سفتست	ADV$سفت+ COP3SG
+سفتم	ADV$سفت+ COP1SG
+سفتند	ADV$سفت+ COP3PL
+سفتی	ADV$سفت+ COP2SG
+سلام	INT$سلام+
+سلامت	INT$سلام+ PRO2SG
+سلامش	INT$سلام+ PRO3SG
+سلامشان	INT$سلام+ PRO3PL
+سلامم	INT$سلام+ PRO1SG
+سنا	ADV$سنا+
+سناست	ADV$سنا+ COP3SG
+سنام	ADV$سنا+ COP1SG
+سنای	ADV$سنا+ COP2SG
+سنجیده	ADV$سنجیده+
+سنجیده‌اند	ADV$سنجیده+ COP3PL
+سنجیده‌ی	ADV$سنجیده+ COP2SG
+سه	NUM$سه+SG
+سهت	NUM$سه+SG PRO2SG
+سهرا	NUM$سه+SG POSTP
+سهم	NUM$سه+SG PRO1SG
+سهمی	NUM$سه+SG PRO1SG COP2SG#SG PRO1SG YEH
+سه‌ای	NUM$سه+SG COP2SG
+سه‌مان	NUM$سه+SG PRO1PL
+سه‌گانه	ADV$سه‌گانه+
+سه‌ی	NUM$سه+SG COP2SG#SG EZ
+سه‌یی	NUM$سه+SG YEH
+سوا	ADV$سوا+
+سواره	ADV$سواره+
+سواره‌ای	ADV$سواره+ COP2SG
+سواره‌ایم	ADV$سواره+ COP1PL
+سواره‌ی	ADV$سواره+ COP2SG
+سوام	ADV$سوا+ COP1SG
+سوای	ADV$سوا+ COP2SG
+سوسو	ADV$سوسو+
+سوم	NUM$سوم+SG
+سومان	NUM$سوم+PL
+سومی	NUM$سومی+SG*سوم+SG COP2SG#SG YEH
+سومین	NUM$سومین+SG
+سوم‌شان	NUM$سوم+SG PRO3PL
+سپس	ADV$سپس+
+سپسستی	ADV$سپس+ COP2SG
+سپسی	ADV$سپس+ COP2SG
+سپیده‌دم	ADV$سپیده‌دم+
+سپیده‌دمست	ADV$سپیده‌دم+ COP3SG
+سپیده‌دمی	ADV$سپیده‌دم+ COP2SG
+سگان	NUM$سه+PL
+سگانت	NUM$سه+PL PRO2SG
+سگانست	NUM$سه+PL COP3SG
+سگانش	NUM$سه+PL PRO3SG
+سگانم	NUM$سه+PL PRO1SG#PL COP1SG
+سگانند	NUM$سه+PL COP3PL
+سگانی	NUM$سه+PL YEH#PL COP2SG
+سگان‌شان	NUM$سه+PL PRO3PL
+سی	NUM$سی+SG
+سیت	NUM$سی+SG PRO2SG
+سیتم	NUM$سی+SG PRO2SG COP1SG
+سیزده	NUM$سیزده+SG
+سیزدهم	NUM$سیزده+SG PRO1SG*سیزدهم+SG
+سیسد	NUM$سیسد+SG
+سیصد	NUM$سیصد+SG
+سیصدست	NUM$سیصد+SG COP3SG
+سیم	NUM$سی+SG PRO1SG#SG COP1SG
+سیما	ADV$سیما+
+سیماست	ADV$سیما+ COP3SG
+سیماستی	ADV$سیما+ COP2SG
+سیمان	NUM$سی+SG PRO1PL
+سیمای	ADV$سیما+ COP2SG
+سیمایم	ADV$سیما+ COP1PL
+سیمست	NUM$سی+SG PRO1SG COP3SG
+سیمم	NUM$سی+SG PRO1SG COP1SG
+سیمند	NUM$سی+SG PRO1SG COP3PL
+سیمی	NUM$سی+SG PRO1SG COP2SG#SG PRO1SG YEH*سیمی+SG
+سیمیم	NUM$سی+SG PRO1SG COP1PL#SG PRO1SG YEH COP1SG*سیمی+SG PRO1SG#SG COP1SG
+سیمین	NUM$سیمین+SG
+سیمینت	NUM$سیمین+SG PRO2SG
+سیمینست	NUM$سیمین+SG COP3SG
+سیمینش	NUM$سیمین+SG PRO3SG
+سیمینم	NUM$سیمین+SG PRO1SG#SG COP1SG
+سیمینی	NUM$سیمین+SG COP2SG#SG YEH
+سیم‌ام	NUM$سی+SG PRO1SG COP1SG
+سیم‌اند	NUM$سی+SG PRO1SG COP3PL
+سیکی	NUM$سیکی+SG
+سیکیست	NUM$سیکی+SG COP3SG
+سیکیش	NUM$سیکی+SG PRO3SG
+سیکیی	NUM$سیکی+SG COP2SG#SG EZ
+سیی	NUM$سی+SG COP2SG#SG EZ
+سی‌ام	NUM$سی+SG COP1SG*سی‌ام+SG
+ش	CONJ$+ PRO3SG&P$+ PRO3SG
+شاباش	INT$شاباش+
+شادان	ADV$شادان+
+شادانست	ADV$شادان+ COP3SG
+شادانم	ADV$شادان+ COP1SG
+شادانند	ADV$شادان+ COP3PL
+شادانی	ADV$شادان+ COP2SG
+شادمان	ADV$شادمان+
+شادمانست	ADV$شادمان+ COP3SG
+شادمانستی	ADV$شادمان+ COP2SG
+شادمانم	ADV$شادمان+ COP1SG
+شادمانند	ADV$شادمان+ COP3PL
+شادمانی	ADV$شادمان+ COP2SG
+شادمانیم	ADV$شادمان+ COP1PL
+شادیانه	ADV$شادیانه+
+شاعرانه	ADV$شاعرانه+
+شاعرانه‌ی	ADV$شاعرانه+ COP2SG
+شان	CONJ$+ PRO3PL&P$+ PRO3PL
+شانزده	NUM$شانزده+SG
+شانزدهم	NUM$شانزده+SG PRO1SG
+شاهانه	ADV$شاهانه+
+شاهانه‌ست	ADV$شاهانه+ COP3SG
+شاهانه‌ی	ADV$شاهانه+ COP2SG
+شاهوار	ADV$شاهوار+
+شاهوارستی	ADV$شاهوار+ COP2SG
+شاهوارم	ADV$شاهوار+ COP1SG
+شاهواری	ADV$شاهوار+ COP2SG
+شب	ADV$شب+
+شباروز	ADV$شباروز+
+شباروزی	ADV$شباروز+ COP2SG
+شبانه	ADV$شبانه+
+شبانه‌اند	ADV$شبانه+ COP3PL
+شبانه‌ای	ADV$شبانه+ COP2SG
+شبانه‌ست	ADV$شبانه+ COP3SG
+شبانه‌ی	ADV$شبانه+ COP2SG
+شبانگاه	ADV$شبانگاه+
+شبست	ADV$شب+ COP3SG
+شبستی	ADV$شب+ COP2SG
+شبم	ADV$شب+ COP1SG
+شبند	ADV$شب+ COP3PL
+شبگیران	ADV$شبگیران+
+شبی	ADV$شب+ COP2SG
+شبیم	ADV$شب+ COP1PL
+شب‌ست	ADV$شب+ COP3SG
+شتابان	ADV$شتابان+
+شتابانی	ADV$شتابان+ COP2SG
+شتابانیم	ADV$شتابان+ COP1PL
+شتابی	ADV$شتابی+
+شتابیم	ADV$شتابی+ COP1SG
+شخصا	ADV$شخصا+
+شرق	INT$شرق+
+شرقا	ADV$شرقا+
+شرقت	INT$شرق+ PRO2SG
+شرقش	INT$شرق+ PRO3SG
+شرقم	INT$شرق+ PRO1SG
+شست	NUM$شست+SG
+شستت	NUM$شست+SG PRO2SG
+شستست	NUM$شست+SG COP3SG
+شستستی	NUM$شست+SG COP2SG
+شستش	NUM$شست+SG PRO3SG
+شستشان	NUM$شست+SG PRO3PL
+شستم	NUM$شست+SG PRO1SG#SG COP1SG
+شستمی	NUM$شست+SG PRO1SG COP2SG#SG PRO1SG YEH
+شستند	NUM$شست+SG COP3PL
+شستها	NUM$شست+PL
+شستی	NUM$شست+SG COP2SG#SG YEH
+شستیم	NUM$شست+SG YEH COP1SG#SG COP1PL
+شستیی	NUM$شست+SG YEH COP2SG
+شش	NUM$شش+SG
+ششست	NUM$شش+SG COP3SG
+ششم	NUM$شش+SG PRO1SG#SG COP1SG
+ششی	NUM$شش+SG COP2SG#SG YEH
+ششیم	NUM$شش+SG YEH COP1SG#SG COP1PL
+شصت	NUM$شصت+SG
+شصتت	NUM$شصت+SG PRO2SG
+شصتش	NUM$شصت+SG PRO3SG
+شل	ADV$شل+
+شلی	ADV$شل+ COP2SG
+شما	PRO$شما+SG
+شمارا	PRO$شما+SG POSTP
+شماست	PRO$شما+SG COP3SG
+شماش	PRO$شما+SG PRO3SG
+شمامم	PRO$شما+SG PRO1SG COP1SG
+شماها	PRO$شما+PL
+شمایم	PRO$شما+SG PRO1SG#SG COP1PL
+شمایی	PRO$شما+SG YEH
+شماییم	PRO$شما+SG YEH COP1SG
+شمرده	ADV$شمرده+
+شمرده‌است	ADV$شمرده+ COP3SG
+شمرده‌ای	ADV$شمرده+ COP2SG
+شمرده‌ست	ADV$شمرده+ COP3SG
+شکسته‌بسته	ADV$شکسته‌بسته+
+شیرانه	ADV$شیرانه+
+شیرانه‌ی	ADV$شیرانه+ COP2SG
+شیرین	ADV$شیرین+
+شیرینست	ADV$شیرین+ COP3SG
+شیرینم	ADV$شیرین+ COP1SG
+شیرینند	ADV$شیرین+ COP3PL
+شیرینی	ADV$شیرین+ COP2SG
+شیرینید	ADV$شیرین+ COP2PL
+صاف	ADV$صاف+
+صافست	ADV$صاف+ COP3SG
+صافم	ADV$صاف+ COP1SG
+صافی	ADV$صاف+ COP2SG
+صافید	ADV$صاف+ COP2PL
+صافیم	ADV$صاف+ COP1PL
+صاف‌ام	ADV$صاف+ COP1SG
+صبح	ADV$صبح+
+صبحدم	ADV$صبحدم+
+صبحدمم	ADV$صبحدم+ COP1SG
+صبحدمی	ADV$صبحدم+ COP2SG
+صبحست	ADV$صبح+ COP3SG
+صبحم	ADV$صبح+ COP1SG
+صبحی	ADV$صبح+ COP2SG
+صبح‌گاه	ADV$صبح‌گاه+
+صحیح	ADV$صحیح+
+صحیحا	ADV$صحیحا+
+صد	NUM$صد+SG
+صدت	NUM$صد+SG PRO2SG
+صدرا	NUM$صد+SG POSTP
+صدست	NUM$صد+SG COP3SG
+صدش	NUM$صد+SG PRO3SG
+صدم	NUM$صد+SG PRO1SG#SG COP1SG
+صدها	NUM$صد+PL
+صدی	NUM$صد+SG COP2SG#SG YEH
+صدید	NUM$صد+SG COP2PL
+صدیم	NUM$صد+SG YEH COP1SG#SG COP1PL
+صرف	ADV$صرف+
+صرفا	ADV$صرفا+
+صرفست	ADV$صرف+ COP3SG
+صرفم	ADV$صرف+ COP1SG
+صرفی	ADV$صرف+ COP2SG
+صریح	ADV$صریح+
+صوره	ADV$صوره+
+صوفیانه	ADV$صوفیانه+
+صوفیانه‌ی	ADV$صوفیانه+ COP2SG
+ضعف	ADV$ضعف+
+ضعفم	ADV$ضعف+ COP1SG
+ضعفی	ADV$ضعف+ COP2SG
+ضعفیم	ADV$ضعف+ COP1PL
+ضعیفی	ADV$ضعیفی+
+ضعیفیم	ADV$ضعیفی+ COP1SG
+طبعا	ADV$طبعا+
+طوعا	ADV$طوعا+
+ظاهرا	ADV$ظاهرا+
+ظلما	ADV$ظلما+
+عاده	ADV$عاده+
+عارفانه	ADV$عارفانه+
+عاریه	ADV$عاریه+
+عاریه‌ام	ADV$عاریه+ COP1SG
+عاریه‌ست	ADV$عاریه+ COP3SG
+عاریه‌ستم	ADV$عاریه+ COP1SG
+عاشر	NUM$عاشر+SG
+عاشرت	NUM$عاشر+SG PRO2SG
+عاشقانه	ADV$عاشقانه+
+عاشقانه‌ام	ADV$عاشقانه+ COP1SG
+عاشقانه‌ای	ADV$عاشقانه+ COP2SG
+عاشقانه‌ی	ADV$عاشقانه+ COP2SG
+عاقبت	ADV$عاقبت+
+عاقبتم	ADV$عاقبت+ COP1SG
+عاقبتند	ADV$عاقبت+ COP3PL
+عاقبتی	ADV$عاقبت+ COP2SG
+عاقبت‌الامر	ADV$عاقبت‌الامر+
+عاقلانه	ADV$عاقلانه+
+عالما	ADV$عالما+
+عامه	PRO$عامه+SG
+عامه‌ام	PRO$عامه+SG PRO1SG#SG COP1SG
+عامه‌ای	PRO$عامه+SG COP2SG
+عامه‌ایم	PRO$عامه+SG COP1PL
+عامه‌ی	PRO$عامه+SG COP2SG#SG EZ
+عامیانه	ADV$عامیانه+
+عبث	ADV$عبث+
+عجب	ADV$عجب+
+عجبا	ADV$عجبا+
+عجبست	ADV$عجب+ COP3SG
+عجبم	ADV$عجب+ COP1SG
+عجبند	ADV$عجب+ COP3PL
+عجبی	ADV$عجب+ COP2SG
+عجب‌ست	ADV$عجب+ COP3SG
+عددی	ADV$عددی+
+عددیست	ADV$عددی+ COP3SG
+عدل	ADV$عدل+
+عدلست	ADV$عدل+ COP3SG
+عدلم	ADV$عدل+ COP1SG
+عدلند	ADV$عدل+ COP3PL
+عدلی	ADV$عدل+ COP2SG
+عدل‌اند	ADV$عدل+ COP3PL
+عرفا	ADV$عرفا+
+عصر	ADV$عصر+
+عصرم	ADV$عصر+ COP1SG
+عصری	ADV$عصر+ COP2SG
+عقب	ADV$عقب+
+عقبست	ADV$عقب+ COP3SG
+عقبم	ADV$عقب+ COP1SG
+عقبی	ADV$عقب+ COP2SG
+عقلا	ADV$عقلا+
+علی‌الاجمال	ADV$علی‌الاجمال+
+علی‌الاطلاق	ADV$علی‌الاطلاق+
+علی‌الخصوص	ADV$علی‌الخصوص+
+علی‌الدوام	ADV$علی‌الدوام+
+علی‌الصباح	ADV$علی‌الصباح+
+علی‌رغم	ADV$علی‌رغم+
+عمدا	ADV$عمدا+
+عمدی	ADV$عمدی+
+عملی	ADV$عملی+
+عموم	PRO$عموم+SG
+عمیم	PRO$عمیم+SG
+عنقریب	ADV$عنقریب+
+عوضی	ADV$عوضی+
+عوعو	INT$عوعو+
+عیان	ADV$عیان+
+عیانست	ADV$عیان+ COP3SG
+عیانستی	ADV$عیان+ COP2SG
+عیانم	ADV$عیان+ COP1SG
+عیانی	ADV$عیان+ COP2SG
+عیانید	ADV$عیان+ COP2PL
+عیانیم	ADV$عیان+ COP1PL
+عینا	ADV$عینا+
+عینای	ADV$عینا+ COP2SG
+غافلانه	ADV$غافلانه+
+غالبا	ADV$غالبا+
+غالبانه	ADV$غالبانه+
+غایبانه	ADV$غایبانه+
+غایبانه‌ی	ADV$غایبانه+ COP2SG
+غبا	ADV$غبا+
+غبای	ADV$غبا+ COP2SG
+غر	INT$غر+
+غربا	ADV$غربا+
+غرت	INT$غر+ PRO2SG
+غرش	INT$غر+ PRO3SG
+غرغر	INT$غرغر+
+غرغرم	INT$غرغر+ PRO1SG
+غرم	INT$غر+ PRO1SG
+غریبانه	ADV$غریبانه+
+غفله	ADV$غفله+
+غلامانه	ADV$غلامانه+
+غلط‌انداز	ADV$غلط‌انداز+
+غلغل	INT$غلغل+
+غلغلش	INT$غلغل+ PRO3SG
+غلغلم	INT$غلغل+ PRO1SG
+فاش	ADV$فاش+
+فاشست	ADV$فاش+ COP3SG
+فاشم	ADV$فاش+ COP1SG
+فاشی	ADV$فاش+ COP2SG
+فاشیم	ADV$فاش+ COP1PL
+فراتر	ADV$فراتر+
+فراوان	ADV$فراوان+
+فراوانست	ADV$فراوان+ COP3SG
+فراوانم	ADV$فراوان+ COP1SG
+فراوانند	ADV$فراوان+ COP3PL
+فراوانی	ADV$فراوان+ COP2SG
+فردا	ADV$فردا+
+فرداست	ADV$فردا+ COP3SG
+فرداستی	ADV$فردا+ COP2SG
+فردام	ADV$فردا+ COP1SG
+فردای	ADV$فردا+ COP2SG
+فردایم	ADV$فردا+ COP1PL
+فرود	ADV$فرود+
+فرودست	ADV$فرود+ COP3SG
+فرودستی	ADV$فرود+ COP2SG
+فرودم	ADV$فرود+ COP1SG
+فرودند	ADV$فرود+ COP3PL
+فرودی	ADV$فرود+ COP2SG
+فزون	ADV$فزون+
+فزونست	ADV$فزون+ COP3SG
+فزونم	ADV$فزون+ COP1SG
+فزونند	ADV$فزون+ COP3PL
+فزونی	ADV$فزون+ COP2SG
+فسوس	INT$فسوس+
+فسوست	INT$فسوس+ PRO2SG
+فسوسم	INT$فسوس+ PRO1SG
+فشرده	ADV$فشرده+
+فغان	INT$فغان+
+فغانت	INT$فغان+ PRO2SG
+فغانش	INT$فغان+ PRO3SG
+فغانشان	INT$فغان+ PRO3PL
+فغانم	INT$فغان+ PRO1SG
+فقط	ADV$فقط+
+فقیرانه	ADV$فقیرانه+
+فلان	PRO$فلان+SG
+فلانت	PRO$فلان+SG PRO2SG
+فلانرا	PRO$فلان+SG POSTP
+فلانست	PRO$فلان+SG COP3SG
+فلانم	PRO$فلان+SG PRO1SG#SG COP1SG
+فلانند	PRO$فلان+SG COP3PL
+فلانی	PRO$فلانی+SG*فلان+SG COP2SG#SG YEH
+فلانیست	PRO$فلانی+SG COP3SG*فلان+SG YEH COP3SG
+فلانیش	PRO$فلانی+SG PRO3SG
+فهمیده‌ام	ADV$فهمیده+ COP1SG
+فهمیده‌اند	ADV$فهمیده+ COP3PL
+فهمیده‌ی	ADV$فهمیده+ COP2SG
+فور	ADV$فور+
+فورم	ADV$فور+ COP1SG
+فکیف	INT$فکیف+
+فی‌الجمله	ADV$فی‌الجمله+
+فی‌الحال	ADV$فی‌الحال+
+فی‌الحقیقه	ADV$فی‌الحقیقه+
+فی‌المثل	ADV$فی‌المثل+
+قائم	ADV$قائم+
+قائمست	ADV$قائم+ COP3SG
+قائمند	ADV$قائم+ COP3PL
+قائمی	ADV$قائم+ COP2SG
+قاصد	ADV$قاصد+
+قاصدا	ADV$قاصدا+
+قاصدست	ADV$قاصد+ COP3SG
+قاصدم	ADV$قاصد+ COP1SG
+قاصدی	ADV$قاصد+ COP2SG
+قاصدیم	ADV$قاصد+ COP1PL
+قاصر	ADV$قاصر+
+قاصرست	ADV$قاصر+ COP3SG
+قاصرم	ADV$قاصر+ COP1SG
+قاصری	ADV$قاصر+ COP2SG
+قاعده	ADV$قاعده+
+قاعده‌ای	ADV$قاعده+ COP2SG
+قاعده‌ایم	ADV$قاعده+ COP1PL
+قاعده‌ست	ADV$قاعده+ COP3SG
+قاعده‌ی	ADV$قاعده+ COP2SG
+قالبی	ADV$قالبی+
+قالبیست	ADV$قالبی+ COP3SG
+قانونی	ADV$قانونی+
+قانونیست	ADV$قانونی+ COP3SG
+قایم	ADV$قایم+
+قایمست	ADV$قایم+ COP3SG
+قایمم	ADV$قایم+ COP1SG
+قایمند	ADV$قایم+ COP3PL
+قایمی	ADV$قایم+ COP2SG
+قدی	ADV$قدی+
+قدیم	ADV$قدی+ COP1SG*قدیم+
+قدیما	ADV$قدیما+
+قدیمست	ADV$قدیم+ COP3SG
+قدیمم	ADV$قدیم+ COP1SG
+قدیمی	ADV$قدیم+ COP2SG
+قدیمیم	ADV$قدیم+ COP1PL
+قرص	ADV$قرص+
+قرصم	ADV$قرص+ COP1SG
+قرصی	ADV$قرص+ COP2SG
+قرقر	INT$قرقر+
+قریبا	ADV$قریبا+
+قصدی	ADV$قصدی+
+قطعا	ADV$قطعا+
+قلابی	ADV$قلابی+
+قلابیم	ADV$قلابی+ COP1SG
+قلبا	ADV$قلبا+
+قلما	ADV$قلما+
+قلندرانه	ADV$قلندرانه+
+قلیلا	ADV$قلیلا+
+قولا	ADV$قولا+
+لا	NUM$لا+SG
+لابد	ADV$لابد+
+لات	NUM$لا+SG PRO2SG
+لاتی	NUM$لا+SG PRO2SG COP2SG#SG PRO2SG YEH&ADV$لاتی+
+لاتیم	NUM$لا+SG PRO2SG YEH COP1SG#SG PRO2SG COP1PL&ADV$لاتی+ COP1SG
+لاجرم	ADV$لاجرم+
+لاجرمم	ADV$لاجرم+ COP1SG
+لاریب	ADV$لاریب+
+لاست	NUM$لا+SG COP3SG
+لاستی	NUM$لا+SG COP2SG
+لاش	NUM$لا+SG PRO3SG
+لاشان	NUM$لا+SG PRO3PL
+لاشک	ADV$لاشک+
+لاشی	NUM$لا+SG PRO3SG COP2SG#SG PRO3SG YEH
+لاشیست	NUM$لا+SG PRO3SG YEH COP3SG
+لاشیم	NUM$لا+SG PRO3SG YEH COP1SG#SG PRO3SG COP1PL
+لاشیی	NUM$لا+SG PRO3SG YEH COP2SG
+لاشی‌اند	NUM$لا+SG PRO3SG YEH COP3PL
+لاشی‌ست	NUM$لا+SG PRO3SG YEH COP3SG
+لاغیر	PRO$لاغیر+SG
+لاغیری	PRO$لاغیر+SG COP2SG#SG YEH
+لام	NUM$لا+SG PRO1SG#SG COP1SG
+لامانی	NUM$لا+SG PRO1PL COP2SG#SG PRO1PL YEH
+لامانیست	NUM$لا+SG PRO1PL YEH COP3SG
+لامحاله	ADV$لامحاله+
+لامم	NUM$لا+SG PRO1SG COP1SG
+لامی	NUM$لا+SG PRO1SG COP2SG#SG PRO1SG YEH
+لای	NUM$لا+SG COP2SG#SG EZ
+لایت	NUM$لا+SG PRO2SG
+لاید	NUM$لا+SG COP2PL
+لایزال	ADV$لایزال+
+لایزالی	ADV$لایزال+ COP2SG
+لایی	NUM$لا+SG YEH
+لاییی	NUM$لا+SG YEH COP2SG
+لخت‌لخت	ADV$لخت‌لخت+
+لله	ADV$لله+
+لله‌الحمد	INT$لله‌الحمد+
+لله‌ام	ADV$لله+ COP1SG
+لهذا	ADV$لهذا+
+لک	NUM$لک+SG
+لکان	NUM$لک+PL
+لکش	NUM$لک+SG PRO3SG
+لکم	NUM$لک+SG PRO1SG#SG COP1SG
+لکی	NUM$لک+SG COP2SG#SG YEH
+م	CONJ$+ PRO1SG&P$+ PRO1SG
+ما	PRO$ما+SG
+مائی	PRO$ما+SG YEH
+مائیم	PRO$ما+SG YEH COP1SG
+مات	PRO$ما+SG PRO2SG
+ماتست	PRO$ما+SG PRO2SG COP3SG
+ماتم	PRO$ما+SG PRO2SG COP1SG
+ماتند	PRO$ما+SG PRO2SG COP3PL
+ماتی	PRO$ما+SG PRO2SG COP2SG#SG PRO2SG YEH
+ماتیم	PRO$ما+SG PRO2SG YEH COP1SG#SG PRO2SG COP1PL
+مارا	PRO$ما+SG POSTP
+ماست	PRO$ما+SG COP3SG
+ماستی	PRO$ما+SG COP2SG
+ماش	PRO$ما+SG PRO3SG
+ماشانی	PRO$ما+SG PRO3PL YEH#SG PRO3PL COP2SG
+ماشی	PRO$ما+SG PRO3SG COP2SG#SG PRO3SG YEH
+مالا	ADV$مالا+
+مالای	ADV$مالا+ COP2SG
+مام	PRO$ما+SG PRO1SG#SG COP1SG
+مامانیم	PRO$ما+SG PRO1PL YEH COP1SG#SG PRO1PL COP1PL
+مامی	PRO$ما+SG PRO1SG COP2SG#SG PRO1SG YEH
+مامید	PRO$ما+SG PRO1SG COP2PL
+مان	CONJ$+ PRO1PL&P$+ PRO1PL
+ماند	PRO$ما+SG COP3PL
+ماها	PRO$ماها+SG*ما+PL
+ماهای	PRO$ماها+SG COP2SG#SG EZ*ما+PL EZ#PL COP2SG
+مای	PRO$ما+SG COP2SG#SG EZ
+مایم	PRO$ما+SG PRO1SG#SG COP1PL
+مایمانی	PRO$ما+SG PRO1PL COP2SG#SG PRO1PL YEH
+مایی	PRO$ما+SG YEH
+ماییم	PRO$ما+SG YEH COP1SG
+متصل	ADV$متصل+
+متصلست	ADV$متصل+ COP3SG
+متصلم	ADV$متصل+ COP1SG
+متصلی	ADV$متصل+ COP2SG
+متصلیم	ADV$متصل+ COP1PL
+مثلا	ADV$مثلا+
+مجازی	ADV$مجازی+
+مجازیست	ADV$مجازی+ COP3SG
+مجازیم	ADV$مجازی+ COP1SG
+مجازیند	ADV$مجازی+ COP3PL
+مجانا	ADV$مجانا+
+مجملا	ADV$مجملا+
+محرمانه	ADV$محرمانه+
+محکم	ADV$محکم+
+محکمست	ADV$محکم+ COP3SG
+محکمم	ADV$محکم+ COP1SG
+محکمی	ADV$محکم+ COP2SG
+مختصر	ADV$مختصر+
+مختصرست	ADV$مختصر+ COP3SG
+مختصرم	ADV$مختصر+ COP1SG
+مختصرند	ADV$مختصر+ COP3PL
+مختصری	ADV$مختصری+*مختصر+ COP2SG
+مختصریست	ADV$مختصری+ COP3SG
+مختصریم	ADV$مختصری+ COP1SG*مختصر+ COP1PL
+مخلص	PRO$مخلص+SG
+مخلصا	ADV$مخلصا+
+مخلصان	PRO$مخلص+PL
+مخلصانی	PRO$مخلص+PL YEH#PL COP2SG
+مخلصت	PRO$مخلص+SG PRO2SG
+مخلصش	PRO$مخلص+SG PRO3SG
+مخلصم	PRO$مخلص+SG PRO1SG#SG COP1SG
+مخلصهات	PRO$مخلص+PL PRO2SG
+مخلصی	PRO$مخلص+SG COP2SG#SG YEH
+مدام	ADV$مدام+
+مدامست	ADV$مدام+ COP3SG
+مدامم	ADV$مدام+ COP1SG
+مدامی	ADV$مدام+ COP2SG
+مدتها	ADV$مدتها+
+مدتهاست	ADV$مدتها+ COP3SG
+مرتب	ADV$مرتب+
+مرتبند	ADV$مرتب+ COP3PL
+مرحبا	INT$مرحبا+
+مرحبام	INT$مرحبا+ PRO1SG
+مرحمه	ADV$مرحمه+
+مردانه	ADV$مردانه+
+مردانه‌اند	ADV$مردانه+ COP3PL
+مردانه‌ای	ADV$مردانه+ COP2SG
+مردانه‌ی	ADV$مردانه+ COP2SG
+مردم	ADV$مردم+
+مردمست	ADV$مردم+ COP3SG
+مردمم	ADV$مردم+ COP1SG
+مردمند	ADV$مردم+ COP3PL
+مردمی	ADV$مردم+ COP2SG
+مردمیم	ADV$مردم+ COP1PL
+مردوار	ADV$مردوار+
+مرموز	ADV$مرموز+
+مرموزم	ADV$مرموز+ COP1SG
+مساوی	ADV$مساوی+
+مساویست	ADV$مساوی+ COP3SG
+مساویند	ADV$مساوی+ COP3PL
+مستانه	ADV$مستانه+
+مستانه‌ام	ADV$مستانه+ COP1SG
+مستانه‌ای	ADV$مستانه+ COP2SG
+مستانه‌ایم	ADV$مستانه+ COP1PL
+مستانه‌ی	ADV$مستانه+ COP2SG
+مسخره‌وار	ADV$مسخره‌وار+
+مشفقانه	ADV$مشفقانه+
+مشوش	ADV$مشوش+
+مشوشست	ADV$مشوش+ COP3SG
+مشوشم	ADV$مشوش+ COP1SG
+مشوشی	ADV$مشوش+ COP2SG
+مشوش‌اند	ADV$مشوش+ COP3PL
+مشکل	ADV$مشکل+
+مشکلست	ADV$مشکل+ COP3SG
+مشکلم	ADV$مشکل+ COP1SG
+مشکلی	ADV$مشکل+ COP2SG
+مصلحه	ADV$مصلحه+
+مطلقا	ADV$مطلقا+
+معا	ADV$معا+
+معاذالله	INT$معاذالله+
+معاند	ADV$معا+ COP3PL
+معو	INT$معو+
+مغ	ADV$مغ+
+مغلق	ADV$مغلق+
+مغلقی	ADV$مغلق+ COP2SG
+مغی	ADV$مغ+ COP2SG
+مفت	ADV$مفت+
+مفتخرا	ADV$مفتخرا+
+مفتست	ADV$مفت+ COP3SG
+مفتی	ADV$مفت+ COP2SG
+مفصل	ADV$مفصل+
+مفصلی	ADV$مفصل+ COP2SG
+مقدمه	ADV$مقدمه+
+مقدمه‌ی	ADV$مقدمه+ COP2SG
+ملا	ADV$ملا+
+ملاست	ADV$ملا+ COP3SG
+ملام	ADV$ملا+ COP1SG
+ملای	ADV$ملا+ COP2SG
+ملایم	ADV$ملا+ COP1PL*ملایم+
+ملوکانه	ADV$ملوکانه+
+من	PRO$من+SG
+منان	PRO$من+PL
+منت	PRO$من+SG PRO2SG
+منتان	PRO$من+SG PRO2PL
+منتست	PRO$من+SG PRO2SG COP3SG
+منتم	PRO$من+SG PRO2SG COP1SG
+منتی	PRO$من+SG PRO2SG COP2SG#SG PRO2SG YEH
+منتیست	PRO$من+SG PRO2SG YEH COP3SG
+منست	PRO$من+SG COP3SG
+منستی	PRO$من+SG COP2SG
+منش	PRO$من+SG PRO3SG
+منشان	PRO$من+SG PRO3PL
+منشانم	PRO$من+SG PRO3PL COP1SG
+منشانند	PRO$من+SG PRO3PL COP3PL
+منشانید	PRO$من+SG PRO3PL COP2PL
+منشی	PRO$من+SG PRO3SG COP2SG#SG PRO3SG YEH
+منم	PRO$من+SG PRO1SG#SG COP1SG
+منمرا	PRO$من+SG PRO1SG POSTP
+منمی	PRO$من+SG PRO1SG COP2SG#SG PRO1SG YEH
+منند	PRO$من+SG COP3PL
+منها	PRO$من+PL
+منکه	PRO$من+SG CONJ
+منی	PRO$من+SG COP2SG#SG YEH
+منید	PRO$من+SG COP2PL
+منیرا	PRO$من+SG YEH POSTP
+منیست	PRO$من+SG YEH COP3SG
+منیم	PRO$من+SG YEH COP1SG#SG COP1PL
+منیی	PRO$من+SG YEH COP2SG
+من‌اند	PRO$من+SG COP3PL
+من‌بعد	ADV$من‌بعد+
+من‌ست	PRO$من+SG COP3SG
+من‌ها	PRO$من+PL
+من‌های	PRO$من+PL EZ#PL COP2SG
+مواجهه	ADV$مواجهه+
+موازی	ADV$موازی+
+موبدا	ADV$موبدا+
+موزون	ADV$موزون+
+موزونست	ADV$موزون+ COP3SG
+موزونم	ADV$موزون+ COP1SG
+موزونند	ADV$موزون+ COP3PL
+موزونی	ADV$موزون+ COP2SG
+مویان	ADV$مویان+
+مک	ADV$مک+
+مکرر	ADV$مکرر+
+مکررم	ADV$مکرر+ COP1SG
+مکرما	ADV$مکرما+
+مکست	ADV$مک+ COP3SG
+مکی	ADV$مک+ COP2SG
+مکید	ADV$مک+ COP2PL
+مکیم	ADV$مک+ COP1PL
+نابهنگام	ADV$نابهنگام+
+نابیوسان	ADV$نابیوسان+
+نات	NUM$نه+PL
+ناتی	NUM$نه+PL YEH#PL COP2SG
+ناحق	ADV$ناحق+
+ناحقی	ADV$ناحق+ COP2SG
+ناخواسته	ADV$ناخواسته+
+ناخواسته‌ی	ADV$ناخواسته+ COP2SG
+ناخواه	ADV$ناخواه+
+ناخواه‌ام	ADV$ناخواه+ COP1SG
+نادرا	ADV$نادرا+
+نادرست	ADV$نادرست+
+نادرستی	ADV$نادرست+ COP2SG
+ناراست	ADV$ناراست+
+ناراستی	ADV$ناراست+ COP2SG
+ناراستید	ADV$ناراست+ COP2PL
+ناراستیم	ADV$ناراست+ COP1PL
+نازنازان	ADV$نازنازان+
+ناسزاوار	ADV$ناسزاوار+
+ناسزاواری	ADV$ناسزاوار+ COP2SG
+ناسنجیده	ADV$ناسنجیده+
+ناشناس	ADV$ناشناس+
+ناشناسا	ADV$ناشناسا+
+ناشناسی	ADV$ناشناس+ COP2SG
+نامرتب	ADV$نامرتب+
+نامرتبست	ADV$نامرتب+ COP3SG
+نامردانه	ADV$نامردانه+
+ناهنجار	ADV$ناهنجار+
+ناچار	ADV$ناچار+
+ناچارست	ADV$ناچار+ COP3SG
+ناچارم	ADV$ناچار+ COP1SG
+ناچاری	ADV$ناچار+ COP2SG
+ناگاهان	ADV$ناگاهان+
+ناگزیر	ADV$ناگزیر+
+ناگزیرست	ADV$ناگزیر+ COP3SG
+ناگزیرم	ADV$ناگزیر+ COP1SG
+ناگزیری	ADV$ناگزیر+ COP2SG
+ناگزیریم	ADV$ناگزیر+ COP1PL
+ناگه	ADV$ناگه+
+ناگهانی	ADV$ناگهانی+
+نتیجه	ADV$نتیجه+
+نتیجه‌ای	ADV$نتیجه+ COP2SG
+نتیجه‌ی	ADV$نتیجه+ COP2SG
+نخست	NUM$نخست+SG&ADV$نخست+
+نخستت	NUM$نخست+SG PRO2SG
+نخستش	NUM$نخست+SG PRO3SG
+نخستم	NUM$نخست+SG PRO1SG#SG COP1SG&ADV$نخست+ COP1SG
+نخستی	NUM$نخست+SG COP2SG#SG YEH&ADV$نخست+ COP2SG
+نخستیم	NUM$نخست+SG YEH COP1SG#SG COP1PL&ADV$نخست+ COP1PL
+نخستین	NUM$نخستین+SG
+نخستینت	NUM$نخستین+SG PRO2SG
+نخستینست	NUM$نخستین+SG COP3SG
+نخستینش	NUM$نخستین+SG PRO3SG
+نخستینم	NUM$نخستین+SG PRO1SG#SG COP1SG
+نخستینی	NUM$نخستین+SG COP2SG#SG YEH
+نخستیی	NUM$نخست+SG YEH COP2SG
+نخست‌اند	NUM$نخست+SG COP3PL&ADV$نخست+ COP3PL
+نخودی	ADV$نخودی+
+ندانسته	ADV$ندانسته+
+ندانسته‌ام	ADV$ندانسته+ COP1SG
+ندانسته‌اند	ADV$ندانسته+ COP3PL
+ندانسته‌ای	ADV$ندانسته+ COP2SG
+ندانسته‌ایم	ADV$ندانسته+ COP1PL
+نذری	ADV$نذری+
+نرم‌نرم	ADV$نرم‌نرم+
+نزدیک	ADV$نزدیک+
+نزدیکست	ADV$نزدیک+ COP3SG
+نزدیکم	ADV$نزدیک+ COP1SG
+نزدیکی	ADV$نزدیک+ COP2SG
+نزدیک‌ست	ADV$نزدیک+ COP3SG
+نزدیک‌ی	ADV$نزدیک+ COP2SG
+نسنجیده	ADV$نسنجیده+
+نسیه	ADV$نسیه+
+نسیه‌ای	ADV$نسیه+ COP2SG
+نسیه‌ست	ADV$نسیه+ COP3SG
+نسیه‌ی	ADV$نسیه+ COP2SG
+نصفه	ADV$نصفه+
+نظرا	ADV$نظرا+
+نعم	ADV$نعم+
+نعمست	ADV$نعم+ COP3SG
+نقد	ADV$نقد+
+نقدست	ADV$نقد+ COP3SG
+نقدم	ADV$نقد+ COP1SG
+نقدی	ADV$نقد+ COP2SG
+نه	NUM$نه+SG
+نهان	ADV$نهان+
+نهانست	ADV$نهان+ COP3SG
+نهانستی	ADV$نهان+ COP2SG
+نهانم	ADV$نهان+ COP1SG
+نهانند	ADV$نهان+ COP3PL
+نهانی	ADV$نهان+ COP2SG*نهانی+
+نهانید	ADV$نهان+ COP2PL
+نهانیست	ADV$نهانی+ COP3SG
+نهانیم	ADV$نهان+ COP1PL*نهانی+ COP1SG
+نهانیی	ADV$نهانی+ COP2SG
+نهان‌ست	ADV$نهان+ COP3SG
+نهایت	ADV$نهایت+
+نهایتست	ADV$نهایت+ COP3SG
+نهایتی	ADV$نهایت+ COP2SG
+نهت	NUM$نه+SG PRO2SG
+نهش	NUM$نه+SG PRO3SG
+نهصد	NUM$نهصد+SG
+نهفته	ADV$نهفته+
+نهفته‌اند	ADV$نهفته+ COP3PL
+نهفته‌ای	ADV$نهفته+ COP2SG
+نهفته‌ایم	ADV$نهفته+ COP1PL
+نهفته‌ست	ADV$نهفته+ COP3SG
+نهفته‌ستند	ADV$نهفته+ COP3PL
+نهفته‌ی	ADV$نهفته+ COP2SG
+نهم	NUM$نه+SG PRO1SG
+نهمی	NUM$نه+SG PRO1SG COP2SG#SG PRO1SG YEH
+نهیی	NUM$نه+SG YEH
+نه‌اش	NUM$نه+SG PRO3SG
+نه‌ام	NUM$نه+SG PRO1SG#SG COP1SG
+نه‌امی	NUM$نه+SG PRO1SG COP2SG#SG PRO1SG YEH
+نه‌اند	NUM$نه+SG COP3PL
+نه‌ای	NUM$نه+SG COP2SG
+نه‌اید	NUM$نه+SG COP2PL
+نه‌ایم	NUM$نه+SG COP1PL
+نه‌های	NUM$نه+PL EZ#PL COP2SG
+نه‌هست	NUM$نه+SG COP3SG
+نه‌ی	NUM$نه+SG COP2SG#SG EZ
+نه‌یی	NUM$نه+SG YEH
+نوز	ADV$نوز+
+نوزده	NUM$نوزده+SG
+نوزدهم	NUM$نوزده+SG PRO1SG
+نوزید	ADV$نوز+ COP2PL
+نژادا	ADV$نژادا+
+نک	ADV$نک+
+نکستم	ADV$نک+ COP1SG
+نکند	ADV$نک+ COP3PL
+نیمه‌شب	ADV$نیمه‌شب+
+نیک	ADV$نیک+
+نیکست	ADV$نیک+ COP3SG
+نیکستی	ADV$نیک+ COP2SG
+نیکم	ADV$نیک+ COP1SG
+نیکند	ADV$نیک+ COP3PL
+نیکو	ADV$نیکو+
+نیکوست	ADV$نیکو+ COP3SG
+نیکوم	ADV$نیکو+ COP1SG
+نیکوی	ADV$نیکو+ COP2SG
+نیکی	ADV$نیک+ COP2SG
+نیکیم	ADV$نیک+ COP1PL
+نیک‌اند	ADV$نیک+ COP3PL
+نیک‌ست	ADV$نیک+ COP3SG
+و	CONJ$و+&P$+CONJ 
+وآخر	ADV$آخر+CONJ 
+وآرام	ADV$آرام+CONJ 
+وآزاد	ADV$آزاد+CONJ 
+وآن	PRO$آن+CONJ SG
+وآنجا	ADV$آنجا+CONJ 
+وآنرا	PRO$آن+CONJ SG POSTP
+وآنش	PRO$آن+CONJ SG PRO3SG
+وآنهمه	PRO$آنهمه+CONJ SG&ADV$آنهمه+CONJ 
+وآنچنان	PRO$آنچنان+CONJ SG&ADV$آنچنان+CONJ 
+وآنک	PRO$آنک+CONJ SG
+وآنکه	PRO$آنکه+CONJ SG*آن+CONJ SG CONJ
+وآنگاه	ADV$آنگاه+CONJ 
+وآنگه	ADV$آنگه+CONJ 
+وآهسته	ADV$آهسته+CONJ 
+وا	INT$وا+
+وابتداء	ADV$ابتداء+CONJ 
+واحد	PRO$احد+CONJ SG
+واحدست	PRO$احد+CONJ SG COP3SG
+واحدش	PRO$احد+CONJ SG PRO3SG
+واحدم	PRO$احد+CONJ SG COP1SG#CONJ SG PRO1SG
+واحدند	PRO$احد+CONJ SG COP3PL
+واحدی	PRO$احد+CONJ SG YEH#CONJ SG COP2SG
+واحدیم	PRO$احد+CONJ SG YEH COP1SG#CONJ SG COP1PL
+وارثا	ADV$ارثا+CONJ 
+واز	P$از+CONJ 
+وازدم	ADV$ازدم+CONJ 
+واسر	PRO$اسر+CONJ SG
+واسما	ADV$اسما+CONJ 
+واش	INT$وا+ PRO3SG
+وافزون	ADV$افزون+CONJ 
+والان	ADV$الان+CONJ 
+والحق	ADV$الحق+CONJ 
+وام	INT$وا+ PRO1SG
+وامروز	ADV$امروز+CONJ 
+وامشبم	ADV$امشب+CONJ  COP1SG
+وان	NUM$ان+CONJ SG
+وانان	NUM$ان+CONJ PL
+وانانکه	NUM$ان+CONJ PL CONJ
+واناید	PRO$انا+CONJ SG COP2PL
+وانت	NUM$ان+CONJ SG PRO2SG
+وانتم	NUM$ان+CONJ SG PRO2SG COP1SG
+واند	NUM$اند+CONJ SG&PRO$اند+CONJ SG
+واندر	P$اندر+CONJ 
+واندران	NUM$ان+CONJ PREP SG
+واندم	NUM$اند+CONJ SG COP1SG#CONJ SG PRO1SG&PRO$اند+CONJ SG COP1SG#CONJ SG PRO1SG
+واندک	ADV$اندک+CONJ 
+واندکی	ADV$اندکی+CONJ *اندک+CONJ  COP2SG
+وانرا	NUM$ان+CONJ SG POSTP
+وانش	NUM$ان+CONJ SG PRO3SG
+وانشان	NUM$ان+CONJ SG PRO3PL
+وانم	NUM$ان+CONJ SG COP1SG#CONJ SG PRO1SG
+وانمانی	NUM$ان+CONJ SG PRO1PL COP2SG#CONJ SG PRO1PL YEH
+وانها	NUM$ان+CONJ PL
+وانکه	NUM$ان+CONJ SG CONJ
+وانی	NUM$ان+CONJ SG YEH#CONJ SG COP2SG
+وان‌ها	NUM$ان+CONJ PL
+واو	PRO$او+CONJ SG
+واوی	PRO$او+CONJ SG COP2SG#CONJ SG EZ*اوی+CONJ SG
+واکنون	ADV$اکنون+CONJ 
+وایدر	ADV$ایدر+CONJ 
+وایدون	ADV$ایدون+CONJ 
+وایشان	INT$وا+ PRO3PL&PRO$ایشان+CONJ SG
+وایم	INT$وا+ PRO1SG
+وایمان	INT$وا+ PRO1PL
+واین	PRO$این+CONJ SG
+واینجا	ADV$اینجا+CONJ 
+واینک	ADV$اینک+CONJ 
+واینکه	PRO$این+CONJ SG CONJ
+وایچ	PRO$ایچ+CONJ SG
+وباز	ADV$باز+CONJ 
+وباستار	PRO$باستار+CONJ SG
+وبالا	ADV$بالا+CONJ 
+وبان	NUM$ان+CONJ PREP SG
+وببد	ADV$بد+CONJ PREP 
+وبد	ADV$بد+CONJ 
+وبر	P$بر+CONJ 
+وبرتر	ADV$برتر+CONJ 
+وبرده	NUM$ده+CONJ PREP SG
+وبس	ADV$بس+CONJ 
+وبسیار	ADV$بسیار+CONJ 
+وبم	P$ب+CONJ  PRO1SG
+وبنه	NUM$نه+CONJ PREP SG
+وبه	ADV$به+CONJ 
+وبیش	ADV$بیش+CONJ 
+وت	CONJ$و+ PRO2SG&P$+CONJ  PRO2SG
+وتندی	ADV$تند+CONJ  COP2SG*تندی+CONJ 
+وتنگ	ADV$تنگ+CONJ 
+وتو	PRO$تو+CONJ SG
+وجدی	ADV$جدی+CONJ 
+وخندان	ADV$خندان+CONJ 
+وخوب	ADV$خوب+CONJ 
+وخوبی	ADV$خوب+CONJ  COP2SG*خوبی+CONJ 
+وخوش	ADV$خوش+CONJ 
+وخویش	PRO$خویش+CONJ SG
+وخویشی	PRO$خویش+CONJ SG YEH#CONJ SG COP2SG
+ودانسته	ADV$دانسته+CONJ 
+ودر	P$در+CONJ 
+ودرم	P$در+CONJ  PRO1SG
+ودرمان	P$در+CONJ  PRO1PL
+ودهش	NUM$ده+CONJ SG PRO3SG
+ودو	NUM$دو+CONJ SG
+ودور	ADV$دور+CONJ 
+ودوست	NUM$دو+CONJ SG COP3SG
+ودگر	PRO$دگر+CONJ SG
+ودی	ADV$دی+CONJ 
+ودیگر	ADV$دیگر+CONJ 
+وراحت	ADV$راحت+CONJ 
+وراست	ADV$راست+CONJ 
+وراستی	ADV$راست+CONJ  COP2SG*راستی+CONJ 
+ورکم	ADV$رک+CONJ  COP1SG
+وز	P$ز+CONJ 
+وزآن	PRO$آن+CONJ PREP SG
+وزآنجا	ADV$آنجا+CONJ PREP 
+وزآنجای	ADV$آنجا+CONJ PREP  COP2SG
+وزان	NUM$ان+CONJ PREP SG
+وزانت	NUM$ان+CONJ PREP SG PRO2SG
+وزانست	NUM$ان+CONJ PREP SG COP3SG
+وزانستی	NUM$ان+CONJ PREP SG COP2SG
+وزانش	NUM$ان+CONJ PREP SG PRO3SG
+وزانم	NUM$ان+CONJ PREP SG COP1SG#CONJ PREP SG PRO1SG
+وزانکه	NUM$ان+CONJ PREP SG CONJ
+وزایدر	ADV$ایدر+CONJ PREP 
+وزایشان	PRO$ایشان+CONJ PREP SG
+وزاین	PRO$این+CONJ PREP SG
+وزبانی	ADV$زبانی+CONJ 
+وزبیخودی	ADV$بیخود+CONJ PREP  COP2SG*بیخودی+CONJ PREP 
+وزراست	ADV$راست+CONJ PREP 
+وزنه	NUM$نه+CONJ PREP SG
+وسادستی	NUM$سادس+CONJ SG PRO2SG YEH#CONJ SG PRO2SG COP2SG
+وسخ	ADV$سخ+CONJ 
+وسخت	ADV$سخت+CONJ 
+وسختی	ADV$سخت+CONJ  COP2SG
+وسرد	ADV$سرد+CONJ 
+وسری	ADV$سری+CONJ 
+وسست	ADV$سست+CONJ 
+وسستی	ADV$سست+CONJ  COP2SG
+وسنا	ADV$سنا+CONJ 
+وسه	NUM$سه+CONJ SG
+وسوا	ADV$سوا+CONJ 
+وسواست	ADV$سوا+CONJ  COP3SG
+وسومان	NUM$سوم+CONJ PL
+وسیم	NUM$سی+CONJ SG COP1SG#CONJ SG PRO1SG
+وسیمین	NUM$سیمین+CONJ SG
+وش	CONJ$و+ PRO3SG&P$+CONJ  PRO3SG
+وشادان	ADV$شادان+CONJ 
+وشان	CONJ$و+ PRO3PL&P$+CONJ  PRO3PL
+وشب	ADV$شب+CONJ 
+وشست	NUM$شست+CONJ SG
+وشش	NUM$شش+CONJ SG
+وشصت	NUM$شصت+CONJ SG
+وشیرین	ADV$شیرین+CONJ 
+وصاف	ADV$صاف+CONJ 
+وصافست	ADV$صاف+CONJ  COP3SG
+وصافی	ADV$صاف+CONJ  COP2SG
+وصد	NUM$صد+CONJ SG
+وعدل	ADV$عدل+CONJ 
+وفاش	ADV$فاش+CONJ 
+وفرود	ADV$فرود+CONJ 
+وفور	ADV$فور+CONJ 
+وقدی	ADV$قدی+CONJ 
+ولا	NUM$لا+CONJ SG
+ولات	NUM$لا+CONJ SG PRO2SG
+ولاتست	NUM$لا+CONJ SG PRO2SG COP3SG
+ولاست	NUM$لا+CONJ SG COP3SG
+ولای	NUM$لا+CONJ SG COP2SG#CONJ SG EZ
+ولایت	NUM$لا+CONJ SG PRO2SG
+ولایتست	NUM$لا+CONJ SG PRO2SG COP3SG
+ولایتند	NUM$لا+CONJ SG PRO2SG COP3PL
+ولایتی	NUM$لا+CONJ SG PRO2SG YEH#CONJ SG PRO2SG COP2SG
+ولایتیست	NUM$لا+CONJ SG PRO2SG YEH COP3SG
+ولایتیکه	NUM$لا+CONJ SG PRO2SG YEH CONJ#CONJ SG PRO2SG COP2SG CONJ
+ولایزال	ADV$لایزال+CONJ 
+ولایش	NUM$لا+CONJ SG PRO3SG
+ولایی	NUM$لا+CONJ SG YEH
+ولله	ADV$لله+CONJ 
+وما	PRO$ما+CONJ SG
+ومان	CONJ$و+ PRO1PL&P$+CONJ  PRO1PL
+وماند	PRO$ما+CONJ SG COP3PL
+ومن	PRO$من+CONJ SG
+وناگزیر	ADV$ناگزیر+CONJ 
+ونه	NUM$نه+CONJ SG
+ونهان	ADV$نهان+CONJ 
+ونک	ADV$نک+CONJ 
+ونیک	ADV$نیک+CONJ 
+وپاک	ADV$پاک+CONJ 
+وپر	ADV$پر+CONJ 
+وپری	ADV$پری+CONJ *پر+CONJ  COP2SG
+وپس	ADV$پس+CONJ 
+وپستم	ADV$پست+CONJ  COP1SG
+وپستی	ADV$پست+CONJ  COP2SG
+وپنج	NUM$پنج+CONJ SG
+وپنهان	ADV$پنهان+CONJ 
+وپیش	ADV$پیش+CONJ 
+وپیوسته‌ی	ADV$پیوسته+CONJ  COP2SG
+وچنان	ADV$چنان+CONJ 
+وچند	NUM$چند+CONJ SG&ADV$چند+CONJ 
+وچندین	NUM$چندین+CONJ SG
+وچه	PRO$چه+CONJ SG&ADV$چه+CONJ 
+وچون	ADV$چون+CONJ 
+وکس	PRO$کس+CONJ SG
+وکم	ADV$کم+CONJ 
+وکند	ADV$کند+CONJ 
+وکی	PRO$کی+CONJ SG&ADV$کی+CONJ 
+وکیش	PRO$کی+CONJ SG PRO3SG
+وکیی	PRO$کی+CONJ SG COP2SG#CONJ SG EZ&ADV$کی+CONJ  COP2SG
+وگاه	ADV$گاه+CONJ 
+وگران	ADV$گران+CONJ 
+وگرم	ADV$گرم+CONJ 
+ویت	CONJ$و+ PRO2SG&P$+CONJ  PRO2SG
+ویش	CONJ$و+ PRO3SG&P$+CONJ  PRO3SG
+ویشان	CONJ$و+ PRO3PL&P$+CONJ  PRO3PL
+ویم	CONJ$و+ PRO1SG&P$+CONJ  PRO1SG
+پابرهنه	ADV$پابرهنه+
+پاداری	ADV$پادار+ COP2SG
+پادشاهانه	ADV$پادشاهانه+
+پارسال	ADV$پارسال+
+پاره‌پاره	ADV$پاره‌پاره+
+پانزده	NUM$پانزده+SG
+پانزدهم	NUM$پانزده+SG PRO1SG*پانزدهم+SG
+پانصد	NUM$پانصد+SG
+پانصدش	NUM$پانصد+SG PRO3SG
+پانصدی	NUM$پانصد+SG COP2SG#SG YEH
+پاک	ADV$پاک+
+پاکست	ADV$پاک+ COP3SG
+پاکم	ADV$پاک+ COP1SG
+پاکند	ADV$پاک+ COP3PL
+پاکی	ADV$پاک+ COP2SG
+پاکیم	ADV$پاک+ COP1PL
+پایه‌پایه	ADV$پایه‌پایه+
+پایین	ADV$پایین+
+پخ	INT$پخ+
+پخت	INT$پخ+ PRO2SG
+پخش	INT$پخ+ PRO3SG
+پدرانه	ADV$پدرانه+
+پدروار	ADV$پدروار+
+پر	ADV$پر+
+پراپرند	ADV$پراپر+ COP3PL
+پراکنده	ADV$پراکنده+
+پراکنده‌ام	ADV$پراکنده+ COP1SG
+پراکنده‌ای	ADV$پراکنده+ COP2SG
+پراکنده‌ایم	ADV$پراکنده+ COP1PL
+پراکنده‌ی	ADV$پراکنده+ COP2SG
+پرست	ADV$پر+ COP3SG
+پرستم	ADV$پر+ COP1SG
+پرستند	ADV$پر+ COP3PL
+پرستی	ADV$پر+ COP2SG
+پرستید	ADV$پر+ COP2PL
+پرستیم	ADV$پر+ COP1PL
+پرم	ADV$پر+ COP1SG
+پرند	ADV$پر+ COP3PL
+پرندوش	ADV$پرندوش+
+پری	ADV$پری+*پر+ COP2SG
+پرید	ADV$پر+ COP2PL
+پریست	ADV$پری+ COP3SG
+پریشان	ADV$پریشان+
+پریشانست	ADV$پریشان+ COP3SG
+پریشانستم	ADV$پریشان+ COP1SG
+پریشانم	ADV$پریشان+ COP1SG
+پریشانند	ADV$پریشان+ COP3PL
+پریشانی	ADV$پریشان+ COP2SG
+پریشانیم	ADV$پریشان+ COP1PL
+پریم	ADV$پری+ COP1SG*پر+ COP1PL
+پریی	ADV$پری+ COP2SG
+پری‌ام	ADV$پری+ COP1SG
+پری‌ست	ADV$پری+ COP3SG
+پس	ADV$پس+
+پست	ADV$پست+
+پستست	ADV$پست+ COP3SG
+پستم	ADV$پست+ COP1SG
+پستند	ADV$پست+ COP3PL
+پستی	ADV$پست+ COP2SG
+پستیم	ADV$پست+ COP1PL
+پست‌اند	ADV$پست+ COP3PL
+پسست	ADV$پس+ COP3SG
+پسم	ADV$پس+ COP1SG
+پسند	ADV$پس+ COP3PL
+پسی	ADV$پس+ COP2SG
+پس‌اند	ADV$پس+ COP3PL
+پس‌فردا	ADV$پس‌فردا+
+پس‌فردای	ADV$پس‌فردا+ COP2SG
+پشتاپشت	ADV$پشتاپشت+
+پنج	NUM$پنج+SG
+پنجاه	NUM$پنجاه+SG
+پنجاهم	NUM$پنجاه+SG PRO1SG*پنجاهم+SG
+پنجست	NUM$پنج+SG COP3SG
+پنجش	NUM$پنج+SG PRO3SG
+پنجم	NUM$پنج+SG PRO1SG#SG COP1SG
+پنجمست	NUM$پنج+SG PRO1SG COP3SG
+پنجمند	NUM$پنج+SG PRO1SG COP3PL
+پنجند	NUM$پنج+SG COP3PL
+پنجه	NUM$پنجه+SG
+پنجه‌ات	NUM$پنجه+SG PRO2SG
+پنجه‌اش	NUM$پنجه+SG PRO3SG
+پنجه‌ام	NUM$پنجه+SG PRO1SG#SG COP1SG
+پنجه‌اند	NUM$پنجه+SG COP3PL
+پنجه‌ای	NUM$پنجه+SG COP2SG
+پنجه‌ست	NUM$پنجه+SG COP3SG
+پنجه‌شان	NUM$پنجه+SG PRO3PL
+پنجه‌ها	NUM$پنجه+PL
+پنجه‌های	NUM$پنجه+PL EZ#PL COP2SG
+پنجه‌ی	NUM$پنجه+SG COP2SG#SG EZ
+پنجگان	NUM$پنجه+PL
+پنجی	NUM$پنج+SG COP2SG#SG YEH
+پنجیم	NUM$پنج+SG YEH COP1SG#SG COP1PL
+پنهان	ADV$پنهان+
+پنهانست	ADV$پنهان+ COP3SG
+پنهانم	ADV$پنهان+ COP1SG
+پنهانند	ADV$پنهان+ COP3PL
+پنهانی	ADV$پنهان+ COP2SG
+پنهانیم	ADV$پنهان+ COP1PL
+پنهان‌ست	ADV$پنهان+ COP3SG
+په	INT$په+
+پهی	ADV$پهی+
+پوشیده	ADV$پوشیده+
+پوشیده‌است	ADV$پوشیده+ COP3SG
+پوشیده‌ام	ADV$پوشیده+ COP1SG
+پوشیده‌اند	ADV$پوشیده+ COP3PL
+پوشیده‌ای	ADV$پوشیده+ COP2SG
+پوشیده‌ایم	ADV$پوشیده+ COP1PL
+پوشیده‌ست	ADV$پوشیده+ COP3SG
+پوشیده‌ی	ADV$پوشیده+ COP2SG
+پگاه	ADV$پگاه+
+پیاده	ADV$پیاده+
+پیاده‌ام	ADV$پیاده+ COP1SG
+پیاده‌اند	ADV$پیاده+ COP3PL
+پیاده‌ای	ADV$پیاده+ COP2SG
+پیاده‌ایم	ADV$پیاده+ COP1PL
+پیاده‌ست	ADV$پیاده+ COP3SG
+پیاده‌ی	ADV$پیاده+ COP2SG
+پیرامون	ADV$پیرامون+
+پیرانه	ADV$پیرانه+
+پیرانه‌ای	ADV$پیرانه+ COP2SG
+پیرانه‌سر	ADV$پیرانه‌سر+
+پیش	ADV$پیش+
+پیشاپیش	ADV$پیشاپیش+
+پیشت	INT$پیشت+
+پیشتر	ADV$پیشتر+
+پیشترست	ADV$پیشتر+ COP3SG
+پیشترم	ADV$پیشتر+ COP1SG
+پیشترند	ADV$پیشتر+ COP3PL
+پیشست	ADV$پیش+ COP3SG
+پیشم	ADV$پیش+ COP1SG
+پیشند	ADV$پیش+ COP3PL
+پیشی	ADV$پیش+ COP2SG
+پیشیم	ADV$پیش+ COP1PL
+پیش‌ام	ADV$پیش+ COP1SG
+پیش‌دست	ADV$پیش‌دست+
+پیش‌دستی	ADV$پیش‌دست+ COP2SG
+پیش‌پیش	ADV$پیش‌پیش+
+پیلوار	ADV$پیلوار+
+پیمان‌شکن	ADV$پیمان‌شکن+
+پیوسته	ADV$پیوسته+
+پیوسته‌ام	ADV$پیوسته+ COP1SG
+پیوسته‌اند	ADV$پیوسته+ COP3PL
+پیوسته‌ای	ADV$پیوسته+ COP2SG
+پیوسته‌ایم	ADV$پیوسته+ COP1PL
+پیوسته‌ست	ADV$پیوسته+ COP3SG
+پیوسته‌ی	ADV$پیوسته+ COP2SG
+پی‌درپی	ADV$پی‌درپی+
+چابک	ADV$چابک+
+چابکست	ADV$چابک+ COP3SG
+چابکم	ADV$چابک+ COP1SG
+چابکند	ADV$چابک+ COP3PL
+چابکی	ADV$چابک+ COP2SG
+چابک‌اند	ADV$چابک+ COP3PL
+چات	PRO$چه+PL
+چار	NUM$چار+SG
+چارت	NUM$چار+SG PRO2SG
+چارست	NUM$چار+SG COP3SG
+چارش	NUM$چار+SG PRO3SG
+چارم	NUM$چار+SG PRO1SG#SG COP1SG
+چارمست	NUM$چار+SG PRO1SG COP3SG
+چارمی	NUM$چار+SG PRO1SG COP2SG#SG PRO1SG YEH
+چارند	NUM$چار+SG COP3PL
+چارها	NUM$چار+PL
+چارهای	NUM$چار+PL EZ#PL COP2SG
+چارچشمی	ADV$چارچشمی+
+چاری	NUM$چار+SG COP2SG#SG YEH
+چالاک	ADV$چالاک+
+چالاکست	ADV$چالاک+ COP3SG
+چالاکم	ADV$چالاک+ COP1SG
+چالاکی	ADV$چالاک+ COP2SG
+چاکرانه	ADV$چاکرانه+
+چخ	INT$چخ+
+چرا	ADV$چرا+
+چراست	ADV$چرا+ COP3SG
+چرام	ADV$چرا+ COP1SG
+چراند	ADV$چرا+ COP3PL
+چرای	ADV$چرا+ COP2SG
+چرایم	ADV$چرا+ COP1PL
+چرنگ	INT$چرنگ+
+چسان	PRO$چسان+SG&ADV$چسان+
+چسانش	PRO$چسان+SG PRO3SG
+چسانم	PRO$چسان+SG PRO1SG#SG COP1SG&ADV$چسان+ COP1SG
+چست	ADV$چست+
+چستست	ADV$چست+ COP3SG
+چستم	ADV$چست+ COP1SG
+چستند	ADV$چست+ COP3PL
+چستی	ADV$چست+ COP2SG
+چش	INT$چش+
+چشش	INT$چش+ PRO3SG
+چشم	INT$چش+ PRO1SG*چشم+
+چشمان	INT$چش+ PRO1PL
+چشمت	INT$چشم+ PRO2SG
+چشمتان	INT$چشم+ PRO2PL
+چشمش	INT$چشم+ PRO3SG
+چشمشان	INT$چشم+ PRO3PL
+چشمم	INT$چشم+ PRO1SG
+چقدر	ADV$چقدر+
+چل	NUM$چل+SG
+چنان	ADV$چنان+
+چنانست	ADV$چنان+ COP3SG
+چنانستم	ADV$چنان+ COP1SG
+چنانستی	ADV$چنان+ COP2SG
+چنانم	ADV$چنان+ COP1SG
+چنانند	ADV$چنان+ COP3PL
+چنانی	ADV$چنان+ COP2SG
+چنانید	ADV$چنان+ COP2PL
+چنانیم	ADV$چنان+ COP1PL
+چند	NUM$چند+SG&ADV$چند+
+چندان	NUM$چند+PL&ADV$چندان+
+چندانت	NUM$چند+PL PRO2SG
+چندانست	NUM$چند+PL COP3SG&ADV$چندان+ COP3SG
+چندانش	NUM$چند+PL PRO3SG
+چندانم	NUM$چند+PL PRO1SG#PL COP1SG&ADV$چندان+ COP1SG
+چندانکه	NUM$چند+PL CONJ
+چندانی	NUM$چند+PL YEH#PL COP2SG&ADV$چندان+ COP2SG
+چندانیم	NUM$چند+PL COP1PL#PL YEH COP1SG&ADV$چندان+ COP1PL
+چندت	NUM$چند+SG PRO2SG
+چندست	NUM$چند+SG COP3SG&ADV$چند+ COP3SG
+چندش	NUM$چند+SG PRO3SG
+چندشان	NUM$چند+SG PRO3PL
+چندم	NUM$چند+SG PRO1SG#SG COP1SG&PRO$چندم+SG&ADV$چند+ COP1SG
+چندمان	NUM$چند+SG PRO1PL&PRO$چندم+PL
+چندند	NUM$چند+SG COP3PL&ADV$چند+ COP3PL
+چندها	NUM$چند+PL
+چندهاست	NUM$چند+PL COP3SG
+چندی	NUM$چند+SG COP2SG#SG YEH&ADV$چند+ COP2SG*چندی+
+چندید	NUM$چند+SG COP2PL&ADV$چند+ COP2PL
+چندیست	NUM$چند+SG YEH COP3SG&ADV$چندی+ COP3SG
+چندیم	NUM$چند+SG YEH COP1SG#SG COP1PL&ADV$چند+ COP1PL*چندی+ COP1SG
+چندین	NUM$چندین+SG
+چندینت	NUM$چندین+SG PRO2SG
+چندینست	NUM$چندین+SG COP3SG
+چندینش	NUM$چندین+SG PRO3SG
+چندینم	NUM$چندین+SG PRO1SG#SG COP1SG
+چندینی	NUM$چندین+SG COP2SG#SG YEH
+چنین	PRO$چنین+SG&ADV$چنین+
+چنینان	PRO$چنین+PL
+چنینت	PRO$چنین+SG PRO2SG
+چنینتان	PRO$چنین+SG PRO2PL
+چنینست	PRO$چنین+SG COP3SG&ADV$چنین+ COP3SG
+چنینستم	PRO$چنین+SG COP1SG&ADV$چنین+ COP1SG
+چنینستی	PRO$چنین+SG COP2SG&ADV$چنین+ COP2SG
+چنینش	PRO$چنین+SG PRO3SG
+چنینم	PRO$چنین+SG PRO1SG#SG COP1SG&ADV$چنین+ COP1SG
+چنینمی	PRO$چنین+SG PRO1SG COP2SG#SG PRO1SG YEH
+چنینند	PRO$چنین+SG COP3PL&ADV$چنین+ COP3PL
+چنینها	PRO$چنین+PL
+چنینی	PRO$چنین+SG COP2SG#SG YEH&ADV$چنین+ COP2SG
+چنینیم	PRO$چنین+SG YEH COP1SG#SG COP1PL&ADV$چنین+ COP1PL
+چنین‌اند	PRO$چنین+SG COP3PL&ADV$چنین+ COP3PL
+چنین‌ست	PRO$چنین+SG COP3SG&ADV$چنین+ COP3SG
+چنین‌ها	PRO$چنین+PL
+چه	PRO$چه+SG&ADV$چه+
+چها	PRO$چها+SG
+چهار	NUM$چهار+SG
+چهاران	NUM$چهار+PL
+چهارانش	NUM$چهار+PL PRO3SG
+چهارت	NUM$چهار+SG PRO2SG
+چهارده	NUM$چهارده+SG
+چهاردهم	NUM$چهارده+SG PRO1SG
+چهارست	NUM$چهار+SG COP3SG
+چهارستی	NUM$چهار+SG COP2SG
+چهارش	NUM$چهار+SG PRO3SG
+چهارم	NUM$چهار+SG PRO1SG#SG COP1SG
+چهارمی	NUM$چهار+SG PRO1SG COP2SG#SG PRO1SG YEH
+چهارند	NUM$چهار+SG COP3PL
+چهاری	NUM$چهار+SG COP2SG#SG YEH
+چهاست	PRO$چها+SG COP3SG
+چهش	PRO$چه+SG PRO3SG
+چهل	NUM$چهل+SG
+چهم	PRO$چه+SG PRO1SG
+چهکه	PRO$چه+SG CONJ
+چه‌ئی	PRO$چه+SG YEH
+چه‌ام	PRO$چه+SG PRO1SG#SG COP1SG&ADV$چه+ COP1SG
+چه‌اند	PRO$چه+SG COP3PL&ADV$چه+ COP3PL
+چه‌ای	PRO$چه+SG COP2SG&ADV$چه+ COP2SG
+چه‌اید	PRO$چه+SG COP2PL&ADV$چه+ COP2PL
+چه‌ایم	PRO$چه+SG COP1PL&ADV$چه+ COP1PL
+چه‌ت	PRO$چه+SG PRO2SG
+چه‌ش	PRO$چه+SG PRO3SG
+چه‌شان	PRO$چه+SG PRO3PL
+چه‌م	PRO$چه+SG PRO1SG#SG COP1SG&ADV$چه+ COP1SG
+چه‌ها	PRO$چه+PL
+چه‌هات	PRO$چه+PL PRO2SG
+چه‌هاست	PRO$چه+PL COP3SG
+چه‌هاشان	PRO$چه+PL PRO3PL
+چه‌های	PRO$چه+PL EZ#PL COP2SG
+چه‌ی	PRO$چه+SG COP2SG#SG EZ&ADV$چه+ COP2SG
+چون	ADV$چون+
+چونان	PRO$چونان+SG
+چونانست	PRO$چونان+SG COP3SG
+چونانش	PRO$چونان+SG PRO3SG
+چونانکه	PRO$چونان+SG CONJ
+چونست	ADV$چون+ COP3SG
+چونم	ADV$چون+ COP1SG
+چونند	ADV$چون+ COP3PL
+چونی	ADV$چون+ COP2SG
+چونید	ADV$چون+ COP2PL
+چونیم	ADV$چون+ COP1PL
+چگان	PRO$چه+PL
+چگونه	PRO$چگونه+SG&ADV$چگونه+
+چگونه‌ام	PRO$چگونه+SG PRO1SG#SG COP1SG&ADV$چگونه+ COP1SG
+چگونه‌ای	PRO$چگونه+SG COP2SG&ADV$چگونه+ COP2SG
+چگونه‌اید	PRO$چگونه+SG COP2PL&ADV$چگونه+ COP2PL
+چگونه‌ست	PRO$چگونه+SG COP3SG&ADV$چگونه+ COP3SG
+چگونه‌ی	PRO$چگونه+SG COP2SG#SG EZ&ADV$چگونه+ COP2SG
+چی	PRO$چی+SG
+چیان	PRO$چی+PL
+چیست	PRO$چیست+SG*چی+SG COP3SG
+چیستت	PRO$چیست+SG PRO2SG
+چیستتان	PRO$چیست+SG PRO2PL
+چیستش	PRO$چیست+SG PRO3SG
+چیستشان	PRO$چیست+SG PRO3PL
+چیستم	PRO$چیست+SG PRO1SG#SG COP1SG*چی+SG COP1SG
+چیستمی	PRO$چیست+SG PRO1SG COP2SG#SG PRO1SG YEH
+چیستند	PRO$چیست+SG COP3PL*چی+SG COP3PL
+چیستی	PRO$چیست+SG COP2SG#SG YEH*چی+SG COP2SG
+چیستید	PRO$چیست+SG COP2PL*چی+SG COP2PL
+چیم	PRO$چی+SG PRO1SG#SG COP1SG
+چیند	PRO$چی+SG COP3PL
+چیی	PRO$چی+SG COP2SG#SG EZ
+چییم	PRO$چی+SG PRO1SG#SG COP1PL
+ژغژغ	INT$ژغژغ+
+کات	PRO$که+PL
+کاتش	PRO$که+PL PRO3SG
+کاتشست	PRO$که+PL PRO3SG COP3SG
+کاتشم	PRO$که+PL PRO3SG COP1SG
+کاتشی	PRO$که+PL PRO3SG YEH#PL PRO3SG COP2SG
+کافرانه	ADV$کافرانه+
+کافه‌ی	PRO$کافه+SG COP2SG#SG EZ
+کاملا	ADV$کاملا+
+کاهلانه	ADV$کاهلانه+
+کتابی	ADV$کتابی+
+کتابیست	ADV$کتابی+ COP3SG
+کج	ADV$کج+
+کجا	PRO$کجا+SG&ADV$کجا+
+کجائی	PRO$کجا+SG YEH
+کجائیست	PRO$کجا+SG YEH COP3SG
+کجائیم	PRO$کجا+SG YEH COP1SG
+کجات	PRO$کجا+SG PRO2SG
+کجاتان	PRO$کجا+SG PRO2PL
+کجاست	PRO$کجا+SG COP3SG&ADV$کجا+ COP3SG
+کجاستی	PRO$کجا+SG COP2SG&ADV$کجا+ COP2SG
+کجاش	PRO$کجا+SG PRO3SG
+کجام	PRO$کجا+SG PRO1SG#SG COP1SG&ADV$کجا+ COP1SG
+کجاها	PRO$کجا+PL
+کجاهاش	PRO$کجا+PL PRO3SG
+کجاهایی	PRO$کجا+PL YEH
+کجای	PRO$کجا+SG COP2SG#SG EZ&ADV$کجا+ COP2SG
+کجایت	PRO$کجا+SG PRO2SG
+کجایم	PRO$کجا+SG PRO1SG#SG COP1PL&ADV$کجا+ COP1PL
+کجایی	PRO$کجا+SG YEH
+کجاییم	PRO$کجا+SG YEH COP1SG
+کجست	ADV$کج+ COP3SG
+کجم	ADV$کج+ COP1SG
+کجی	ADV$کج+ COP2SG
+کج‌ای	ADV$کج+ COP2SG
+کرها	ADV$کرها+
+کریمانه	ADV$کریمانه+
+کس	PRO$کس+SG
+کسان	PRO$کس+PL
+کسانرا	PRO$کس+PL POSTP
+کسانست	PRO$کس+PL COP3SG
+کسانش	PRO$کس+PL PRO3SG
+کسانم	PRO$کس+PL PRO1SG#PL COP1SG
+کسانند	PRO$کس+PL COP3PL
+کسانی	PRO$کس+PL YEH#PL COP2SG
+کسانیکه	PRO$کس+PL COP2SG CONJ#PL YEH CONJ
+کست	PRO$کس+SG PRO2SG
+کستان	PRO$کس+SG PRO2PL
+کستی	PRO$کس+SG PRO2SG COP2SG#SG PRO2SG YEH
+کسرا	PRO$کس+SG POSTP
+کسست	PRO$کس+SG COP3SG
+کسستم	PRO$کس+SG COP1SG
+کسستی	PRO$کس+SG COP2SG
+کسش	PRO$کس+SG PRO3SG
+کسم	PRO$کس+SG PRO1SG#SG COP1SG
+کسمان	PRO$کس+SG PRO1PL
+کسمانست	PRO$کس+SG PRO1PL COP3SG
+کسها	PRO$کس+PL
+کسهای	PRO$کس+PL EZ#PL COP2SG
+کسی	PRO$کس+SG COP2SG#SG YEH
+کسیرا	PRO$کس+SG YEH POSTP
+کسیست	PRO$کس+SG YEH COP3SG
+کسیم	PRO$کس+SG YEH COP1SG#SG COP1PL
+کسیکه	PRO$کس+SG YEH CONJ#SG COP2SG CONJ
+کسی‌ام	PRO$کس+SG YEH COP1SG
+کسی‌اند	PRO$کس+SG YEH COP3PL
+کسی‌ست	PRO$کس+SG YEH COP3SG
+کس‌ام	PRO$کس+SG COP1SG
+کس‌مان	PRO$کس+SG PRO1PL
+کشکشان	ADV$کشکشان+
+کشیده	ADV$کشیده+
+کشیده‌است	ADV$کشیده+ COP3SG
+کشیده‌ام	ADV$کشیده+ COP1SG
+کشیده‌اند	ADV$کشیده+ COP3PL
+کشیده‌ای	ADV$کشیده+ COP2SG
+کشیده‌ایم	ADV$کشیده+ COP1PL
+کشیده‌ست	ADV$کشیده+ COP3SG
+کشیده‌ی	ADV$کشیده+ COP2SG
+کف‌زنان	ADV$کف‌زنان+
+کل	PRO$کل+SG
+کلا	ADV$کلا+
+کلام	ADV$کلا+ COP1SG
+کلان	PRO$کل+PL
+کلانست	PRO$کل+PL COP3SG
+کلانم	PRO$کل+PL PRO1SG#PL COP1SG
+کلانی	PRO$کل+PL YEH#PL COP2SG
+کلت	PRO$کل+SG PRO2SG
+کلست	PRO$کل+SG COP3SG
+کلش	PRO$کل+SG PRO3SG
+کلم	PRO$کل+SG PRO1SG#SG COP1SG
+کلمان	PRO$کل+SG PRO1PL
+کلمی	PRO$کل+SG PRO1SG COP2SG#SG PRO1SG YEH
+کلند	PRO$کل+SG COP3PL
+کلها	PRO$کل+PL
+کلهم	PRO$کلهم+SG
+کلی	PRO$کل+SG COP2SG#SG YEH&ADV$کلی+
+کلیات	PRO$کلیه+PL
+کلیت	PRO$کلیت+SG
+کلید	PRO$کل+SG COP2PL
+کلیست	PRO$کل+SG YEH COP3SG&ADV$کلی+ COP3SG
+کلیم	PRO$کل+SG YEH COP1SG#SG COP1PL&ADV$کلی+ COP1SG
+کلیه	PRO$کلیه+SG
+کل‌تان	PRO$کل+SG PRO2PL
+کم	ADV$کم+
+کما	ADV$کما+
+کمابیش	ADV$کمابیش+
+کمابیشم	ADV$کمابیش+ COP1SG
+کمابیشی	ADV$کمابیش+ COP2SG
+کماهی	ADV$کماهی+
+کمای	ADV$کما+ COP2SG
+کمتر	ADV$کمتر+
+کمترست	ADV$کمتر+ COP3SG
+کمترستم	ADV$کمتر+ COP1SG
+کمترم	ADV$کمتر+ COP1SG
+کمترند	ADV$کمتر+ COP3PL
+کمترک	ADV$کمترک+
+کمتری	ADV$کمتر+ COP2SG
+کمتریم	ADV$کمتر+ COP1PL
+کمست	ADV$کم+ COP3SG
+کمم	ADV$کم+ COP1SG
+کمند	ADV$کم+ COP3PL
+کمی	ADV$کم+ COP2SG*کمی+
+کمید	ADV$کم+ COP2PL
+کمیست	ADV$کمی+ COP3SG
+کمیم	ADV$کم+ COP1PL*کمی+ COP1SG
+کمی‌ی	ADV$کمی+ COP2SG
+کم‌کم	INT$کم‌کم+&ADV$کم‌کم+
+کنایه	ADV$کنایه+
+کند	ADV$کند+
+کندست	ADV$کند+ COP3SG
+کندم	ADV$کند+ COP1SG
+کندند	ADV$کند+ COP3PL
+کندی	ADV$کند+ COP2SG
+کندیم	ADV$کند+ COP1PL
+که	PRO$که+SG
+کهت	PRO$که+SG PRO2SG
+کهترا	PRO$که+SG PRO2SG POSTP
+کهش	PRO$که+SG PRO3SG
+کهم	PRO$که+SG PRO1SG
+که‌اش	PRO$که+SG PRO3SG
+که‌ام	PRO$که+SG PRO1SG#SG COP1SG
+که‌اند	PRO$که+SG COP3PL
+که‌ای	PRO$که+SG COP2SG
+که‌اید	PRO$که+SG COP2PL
+که‌ایم	PRO$که+SG COP1PL
+که‌ت	PRO$که+SG PRO2SG
+که‌تان	PRO$که+SG PRO2PL
+که‌ش	PRO$که+SG PRO3SG
+که‌شان	PRO$که+SG PRO3PL
+که‌م	PRO$که+SG PRO1SG#SG COP1SG
+که‌مان	PRO$که+SG PRO1PL
+که‌ها	PRO$که+PL
+که‌هات	PRO$که+PL PRO2SG
+که‌های	PRO$که+PL EZ#PL COP2SG
+که‌ی	PRO$که+SG COP2SG#SG EZ
+کودکانه	ADV$کودکانه+
+کودکانه‌ای	ADV$کودکانه+ COP2SG
+کوشان	ADV$کوشان+
+کی	PRO$کی+SG&ADV$کی+
+کیان	PRO$کی+PL
+کیانش	PRO$کی+PL PRO3SG
+کیانم	PRO$کی+PL PRO1SG#PL COP1SG
+کیانند	PRO$کی+PL COP3PL
+کیانی	PRO$کی+PL YEH#PL COP2SG
+کیانید	PRO$کی+PL COP2PL
+کیانیم	PRO$کی+PL COP1PL#PL YEH COP1SG
+کیت	PRO$کی+SG PRO2SG
+کیست	PRO$کی+SG COP3SG&ADV$کی+ COP3SG
+کیستم	PRO$کی+SG COP1SG&ADV$کی+ COP1SG
+کیستند	PRO$کی+SG COP3PL&ADV$کی+ COP3PL
+کیستی	PRO$کی+SG COP2SG&ADV$کی+ COP2SG
+کیستیم	PRO$کی+SG COP1PL&ADV$کی+ COP1PL
+کیش	INT$کیش+&PRO$کی+SG PRO3SG
+کیشان	PRO$کی+SG PRO3PL
+کیشانست	PRO$کی+SG PRO3PL COP3SG
+کیشت	INT$کیش+ PRO2SG
+کیشست	PRO$کی+SG PRO3SG COP3SG
+کیشش	INT$کیش+ PRO3SG
+کیشم	INT$کیش+ PRO1SG&PRO$کی+SG PRO3SG COP1SG
+کیشی	PRO$کی+SG PRO3SG COP2SG#SG PRO3SG YEH
+کیشی‌ست	PRO$کی+SG PRO3SG YEH COP3SG
+کیش‌اند	PRO$کی+SG PRO3SG COP3PL
+کیم	PRO$کی+SG PRO1SG#SG COP1SG&ADV$کی+ COP1SG
+کیمان	PRO$کی+SG PRO1PL
+کیمی	PRO$کی+SG PRO1SG COP2SG#SG PRO1SG YEH
+کیند	PRO$کی+SG COP3PL&ADV$کی+ COP3PL
+کیی	PRO$کی+SG COP2SG#SG EZ&ADV$کی+ COP2SG
+کیید	PRO$کی+SG COP2PL&ADV$کی+ COP2PL
+کییم	PRO$کی+SG PRO1SG#SG COP1PL&ADV$کی+ COP1PL
+کیییم	PRO$کی+SG YEH COP1SG
+کی‌ام	PRO$کی+SG COP1SG&ADV$کی+ COP1SG
+کی‌اند	PRO$کی+SG COP3PL&ADV$کی+ COP3PL
+گاه	ADV$گاه+
+گاه‌گاه	ADV$گاه‌گاه+
+گذراند	ADV$گذرا+ COP3PL
+گران	ADV$گران+
+گرانست	ADV$گران+ COP3SG
+گرانستی	ADV$گران+ COP2SG
+گرانم	ADV$گران+ COP1SG
+گرانند	ADV$گران+ COP3PL
+گرانی	ADV$گران+ COP2SG
+گرانید	ADV$گران+ COP2PL
+گرانیم	ADV$گران+ COP1PL
+گران‌ست	ADV$گران+ COP3SG
+گرده	PRO$گرده+SG
+گردهم	PRO$گرده+SG PRO1SG
+گرده‌ای	PRO$گرده+SG COP2SG
+گرده‌ها	PRO$گرده+PL
+گرده‌هات	PRO$گرده+PL PRO2SG
+گرده‌ی	PRO$گرده+SG COP2SG#SG EZ
+گردگان	PRO$گرده+PL
+گردگانست	PRO$گرده+PL COP3SG
+گردگانی	PRO$گرده+PL YEH#PL COP2SG
+گرم	ADV$گرم+
+گرمست	ADV$گرم+ COP3SG
+گرمم	ADV$گرم+ COP1SG
+گرمند	ADV$گرم+ COP3PL
+گرمی	ADV$گرم+ COP2SG
+گرمیم	ADV$گرم+ COP1PL
+گرم‌اند	ADV$گرم+ COP3PL
+گروگر	INT$گروگر+
+گروگرش	INT$گروگر+ PRO3SG
+گستاخانه	ADV$گستاخانه+
+گسسته	ADV$گسسته+
+گسسته‌ام	ADV$گسسته+ COP1SG
+گسسته‌ای	ADV$گسسته+ COP2SG
+گسسته‌ستند	ADV$گسسته+ COP3PL
+گسسته‌ی	ADV$گسسته+ COP2SG
+گشاد	ADV$گشاد+
+گشادست	ADV$گشاد+ COP3SG
+گشادستی	ADV$گشاد+ COP2SG
+گشادستیم	ADV$گشاد+ COP1PL
+گشادم	ADV$گشاد+ COP1SG
+گشادند	ADV$گشاد+ COP3PL
+گشاده	ADV$گشاده+
+گشاده‌است	ADV$گشاده+ COP3SG
+گشاده‌ام	ADV$گشاده+ COP1SG
+گشاده‌اند	ADV$گشاده+ COP3PL
+گشاده‌ای	ADV$گشاده+ COP2SG
+گشاده‌ایم	ADV$گشاده+ COP1PL
+گشاده‌ست	ADV$گشاده+ COP3SG
+گشاده‌ستی	ADV$گشاده+ COP2SG
+گشاده‌ی	ADV$گشاده+ COP2SG
+گشادی	ADV$گشاد+ COP2SG
+گشادیم	ADV$گشاد+ COP1PL
+گنگ	ADV$گنگ+
+گنگست	ADV$گنگ+ COP3SG
+گنگم	ADV$گنگ+ COP1SG
+گنگی	ADV$گنگ+ COP2SG
+گنگ‌اند	ADV$گنگ+ COP3PL
+گهی	ADV$گهی+
+گهیست	ADV$گهی+ COP3SG
+گهیم	ADV$گهی+ COP1SG
+گویا	ADV$گویا+
+گویاست	ADV$گویا+ COP3SG
+گویاستی	ADV$گویا+ COP2SG
+گویای	ADV$گویا+ COP2SG
+گویی	ADV$گویی+
+گوییا	ADV$گوییا+
+گوییست	ADV$گویی+ COP3SG
+گوییم	ADV$گویی+ COP1SG
+گوییی	ADV$گویی+ COP2SG
+را	POSTP$را+
+ترا	PRO$تو+ POSTP
+مرا	PRO$من+ POSTP
+بدین	PRO$این+PREP
+بدان	PRO$آن+PREP
+بداو	PRO$او+PREP
